@@ -2,8 +2,7 @@
 
 *Before submitting a PR with this file:
 - Make sure you rename this file to contain your project's name
-- Respond to add your response in each section below
-- Make sure you move this file to the `participants` folder*
+- Respond to add your response in each section below*
 
 ## (0) Project Name and Team Slack Handles
 

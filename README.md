@@ -6,7 +6,7 @@ Welcome to the SR2 Slingshot repo! All participants must submit a project applic
 
 ## Submission Instructions
 
-1. Please make a copy of the [`template.md`](./template.md) file.
+1. Please make a copy of the [`participants/template.md`](./participants/template.md) file.
 2. Rename the file with your project's name.
 3. Fill out all requested fields in the template.
 4. Submit a PR to add your project's application to the `participants` folder in this repo.
