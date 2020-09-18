@@ -1,8 +1,8 @@
 # Replace with Your Project's Name
 
-*Before submitting a PR containing your team's project information:*
-*- Make sure you rename this file to contain your project's name*
-*- Respond to add your response in each section below*
+Before submitting a PR containing your team's project information:
+- Make sure you rename this file to contain your project's name
+- Respond to add your response in each section below
 
 ## (0) Project Name and Team Slack Handles
 
