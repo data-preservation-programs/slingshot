@@ -14,7 +14,11 @@ Welcome to the SR2 Slingshot repo! All participants must submit a project applic
 
 ## Help
 
+The main competition rules and leaderboard can be found at [https://slingshot.filecoin.io](https://slingshot.filecoin.io).
+
 If you need help, please [join the Filecoin Slack](https://filecoin.io/slack) and join the following channels:
 - **`#fil-testnet-announce`** -- For major announcements about the testnet and major software releases
 - **`#slingshot-announcements`** -- For major announcements about the Slingshot program
 - **`#slingshot`** -- For debugging help and community conversations throughout the course of the competition
+
+If you need any additional assistance, feel free to email the Slingshot team at slingshot@filecoin.org
