@@ -1,5 +1,20 @@
-# Operation Slingshot Repo
+# Space Race 2: Slingshot
 
-This repo is the home for the Operation Slingshot project.
+![Slingshot hero image](./slingshot.png)
 
-The `allowlist.txt` file contains the list of addresses that will be allowed to make deals with the Operation Slingshot storage miners (listed [here](https://docs.filecoin.io/build/start-building/deploy-your-application-to-the-filecoin-testnet/#option-1-protocol-labs-filecoin-miners-recommended)).
+Welcome to the SR2 Slingshot repo! All participants must submit a project application to this repo according to the submission instructions. Once submitted, a panel of community reviewers will review your application to ensure that your project is eligible for the competition. If your application is accepted, reviewers will merge your PR. If not, they will leave comments on the PR asking you for more information.
+
+## Submission Instructions
+
+1. Please make a copy of the [`template.md`](./template.md) file.
+2. Rename the file with your project's name.
+3. Fill out all requested fields in the template.
+4. Submit a PR to add your project's application to the `participants` folder in this repo.
+5. Work with the community reviewers to approve your application!
+
+## Help
+
+If you need help, please [join the Filecoin Slack](https://filecoin.io/slack) and join the following channels:
+- **`#fil-testnet-announce`** -- For major announcements about the testnet and major software releases
+- **`#slingshot-announcements`** -- For major announcements about the Slingshot program
+- **`#slingshot`** -- For debugging help and community conversations throughout the course of the competition
