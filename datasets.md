@@ -1,3 +1,10 @@
+
+Slingshot’s aim for using curated datasets is to ensure meaningful data is stored and retrieved from the FileCoin Network.  The use-cases don’t need to be complex and can be proprietary in nature for applications.
+
+There are a wide variety of public data sets that can be leveraged for this challenge - a sampling is shown in the table below.   You are also welcome to submit another data set through the registration process.
+
+
+
 |Name                          |Descriptions                                                                                                                                                                               |Size    |Format |URL                                                                            |
 |------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|-------|-------------------------------------------------------------------------------|
 |COVID-19 Open Research Dataset|An AI challenge with AI2, CZI, MSR, Georgetown, NIH & The White House                                                                                                                      |19 GB   |JSON   |https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge       |
