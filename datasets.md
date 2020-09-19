@@ -1,4 +1,4 @@
-
+# Curated Datasets for the Slingshot Competition
 Slingshot’s aim for using curated datasets is to ensure meaningful data is stored and retrieved from the Filecoin Network.  The use-cases don’t need to be complex and can be proprietary in nature for applications.
 
 There are a wide variety of public data sets that can be leveraged for this challenge - a sampling is shown in the table below.  If you would like to use a dataset that you don't see listed here, please submit a PR to add the dataset to this table (i.e. through the registration process).
