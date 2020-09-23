@@ -19,7 +19,7 @@ collaboratively building hyper-local knowledge graphs.
 
 ## (2) Link to Project UI
 
-https://sssh.v6z.me/
+* [https://sssh.v6z.me/](https://sssh.v6z.me/)
 
 ## (3) What does your application/UI do?
 
