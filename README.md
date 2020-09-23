@@ -26,17 +26,17 @@ If you need any additional assistance, feel free to email the Slingshot team at 
 ## Community Reviewers
 
  
-|Photo |Name			|Affiliation    | Filecoin Slack      | Github			|
-|      |----------------|---------------|---------------------|-----------------|
-|      | Aaron Sutula   | Textile       | aaron               | asutula         |
-|      | Brett Shear    | Fleek         | Brett Shear         | Blockchainbrett |
-|      | Carson Farmer  | Textile       | Carson (textile.io) | carsonfarmer    |
-|      | Chris Waring   | Filecoin Team | cw                  | cwaring         |
-|      | Dinesh Shenoy  | Filecoin Team | Dinesh Sheny        | dineshshenoy    |
-|      | Eva Shon       | Protocol Labs | eshon               | eshon           |
-|      | Greg Markou    | Chainsafe     | GregTheGreek        | GregTheGreek    |
-|      | Martina  Long  | Slate Team    | Martina Long        | martinalong     |
-|      | Matt Ober      | Pinata        | Matt Ober           | obo20           |
-|      | Michael Godsey | Infura        | -                   | -               |
-|      | Mike Goelzer   | Protocol Labs | Mike Goelzer        | mgoelzer        |
-|      | Neo            | IPFS Main     | Neo Ge              | NeoGe-IPFSMain  |
+|Name			 |Affiliation    | Filecoin Slack      | Github			 |
+|----------------|---------------|---------------------|-----------------|
+| Aaron Sutula   | Textile       | aaron               | asutula         |
+| Brett Shear    | Fleek         | Brett Shear         | Blockchainbrett |
+| Carson Farmer  | Textile       | Carson (textile.io) | carsonfarmer    |
+| Chris Waring   | Filecoin Team | cw                  | cwaring         |
+| Dinesh Shenoy  | Filecoin Team | Dinesh Sheny        | dineshshenoy    |
+| Eva Shon       | Protocol Labs | eshon               | eshon           |
+| Greg Markou    | Chainsafe     | GregTheGreek        | GregTheGreek    |
+| Martina  Long  | Slate Team    | Martina Long        | martinalong     |
+| Matt Ober      | Pinata        | Matt Ober           | obo20           |
+| Michael Godsey | Infura        | -                   | -               |
+| Mike Goelzer   | Protocol Labs | Mike Goelzer        | mgoelzer        |
+| Neo            | IPFS Main     | Neo Ge              | NeoGe-IPFSMain  |
