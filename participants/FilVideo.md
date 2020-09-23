@@ -1,9 +1,5 @@
 # FilVideo
 
-Before submitting a PR containing your team's project information:
-- Make sure you rename this file to contain your project's name
-- Respond to add your response in each section below
-
 ## (0) Project Name and Team Slack Handles
 
 *Name: FilVideo
@@ -58,10 +54,9 @@ This is currently one of the most important steps to being successful with data 
 
 ## (10) How will you retrieve the data?
 
-*Share some more information about the data retrieval plans for your application? How often does the data need to be retrieved? What is the size of each individual read? Do you need to retrieve from Filecoin (colder storage) or from an intermediate caching layer, like IPFS? How will your application/UI retrieve the necessary data and expose it/interact with it in the UI?
-When users open a video to watch, the server will response with DataCIDs and the sequences of the data pieces. Clients retrieve the data pieces with sequences and cached local. Video player regroup the original data pieces to a movies data structure. Playing with retrieving.
-For those hot videos need to retrieve from an intermediate caching layer, like IPFS. others retrieve from Filecoin (colder storage).
-*
+*Share some more information about the data retrieval plans for your application? How often does the data need to be retrieved? What is the size of each individual read? Do you need to retrieve from Filecoin (colder storage) or from an intermediate caching layer, like IPFS? How will your application/UI retrieve the necessary data and expose it/interact with it in the UI?*
+*When users open a video to watch, the server will response with DataCIDs and the sequences of the data pieces. Clients retrieve the data pieces with sequences and cached local. Video player regroup the original data pieces to a movies data structure. Playing with retrieving.
+For those hot videos need to retrieve from an intermediate caching layer, like IPFS. others retrieve from Filecoin (colder storage).*
 
 ## (11) Who is the intended user for your application/UI?
 
@@ -69,13 +64,13 @@ For those hot videos need to retrieve from an intermediate caching layer, like I
 
 ## (12) Do you have any users already or plans to acquire users soon?
 
-*Yes/no. Also, please tell us a little bit about your future plans for user acquisition.
-Yes, we have a large community with million users. but I am not sure whether they will love this project. :-)
-*
+*Yes/no. Also, please tell us a little bit about your future plans for user acquisition.*
+
+*Yes, we have a large community with million users. but I am not sure whether they will love this project. :-)*
 
 ## (13) What challenges do you anticipate with this project?
 
-*We'd love to know what you're most worried about so we can help as much as possible. Let us know what you anticipate to be the biggest challenges with this project!
-I just learned and tried to write some codes with the lotus project month ago, so ,there are lots of tech problems with Filecoin project because of lack and imperfection of dev documents.
-I have to read the code to find the exact usage of functions but not with documents. :-P
-*
+*We'd love to know what you're most worried about so we can help as much as possible. Let us know what you anticipate to be the biggest challenges with this project!*
+
+*I just learned and tried to write some codes with the lotus project month ago, so ,there are lots of tech problems with Filecoin project because of lack and imperfection of dev documents.
+I have to read the code to find the exact usage of functions but not with documents. :-P*
