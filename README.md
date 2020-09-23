@@ -31,8 +31,6 @@ If you need any additional assistance, feel free to email the Slingshot team at 
 | Aaron Sutula   | Textile       | aaron               | asutula         |
 | Brett Shear    | Fleek         | Brett Shear         | Blockchainbrett |
 | Carson Farmer  | Textile       | Carson (textile.io) | carsonfarmer    |
-| Chris Waring   | Filecoin Team | cw                  | cwaring         |
-| Dinesh Shenoy  | Filecoin Team | Dinesh Sheny        | dineshshenoy    |
 | Eva Shon       | Protocol Labs | eshon               | eshon           |
 | Greg Markou    | Chainsafe     | GregTheGreek        | GregTheGreek    |
 | Martina  Long  | Slate Team    | Martina Long        | martinalong     |
