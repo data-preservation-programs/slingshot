@@ -1,6 +1,6 @@
 # Community Review Checklist
 
-- [ ] Does this project follow the Filecoin Project Code of Conduct?
+- [ ] Does this project follow the Filecoin Project [Code of Conduct](https://github.com/filecoin-project/community/blob/master/CODE_OF_CONDUCT.md)?
 - [ ] Does this project store authentic and usable data?
 - [ ] Does the project have rights to store the mentioned data?
 - [ ] How does the project plan to structure data and store it?
