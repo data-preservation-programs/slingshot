@@ -51,6 +51,6 @@ AI algorithm engineer, Computer vision researcher, Computer Science Students etc
 Yes, we have some partners who planning to use our dataset, as well as some crowd users who want to contribute more images.
 
 ## (13) What challenges do you anticipate with this project?
-We have not complete all the features of Yolo. I'm worried about if Powergate's API meet all the requirements to build Yolo. If not, we have to implentment some features on IPFS and Filecoin by ourselves.
+We have not complete all the features of Yolo. I'm worried about if Powergate's API doesn't meet all the requirements to build Yolo, we have to implentment some features on IPFS and Filecoin by ourselves.
 
 Another challenge is the size of storage deal, We don’t know whether the network bandwidth is fast enough to transfer 3GB - 5GB files to miner.
