@@ -14,7 +14,6 @@ Yolo is a decentralized images dataset to develop ML and AI models based on File
 ## (2) Link to Project UI
 - [Yolo demo](https://yolo.coinsummer.io)
 - [Yolo front-end repository](https://github.com/CoinSummer/yolo)
-- [Yolo back-end repository](https://github.com/CoinSummer/yolo-api)
 
 ## (3) What does your application/UI do?
 Everyone can use Yolo dataset to train their own Machine-learning and AI models. Users who have images can also upload them to contribute the Yolo dataset together with us. There will be some token rewards (in the feature) for their contribution after these images been reviewed. The Yolo application works as following:
