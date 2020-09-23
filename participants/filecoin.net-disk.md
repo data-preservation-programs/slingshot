@@ -14,7 +14,7 @@ And then we use lotus for data storage and retrieve deal from filecoin blockchai
 
 
 ## (2) Link to Project UI
-https://github.com/sorfkc/filecoin.net-disk/blob/master/UI.jpg?raw=true
+http://183.60.252.190:3334
 
 ## (3) What does your application/UI do?
 Users can storage or retrieve data from filecoin network by this application 
