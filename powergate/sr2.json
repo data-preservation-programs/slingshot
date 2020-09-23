@@ -1,0 +1,32 @@
+{
+	"buckets": [{
+		"name": "North America",
+		"amount": 1,
+                "minerAddresses": ["t09833"]
+	}, {
+		"name": "Europe",
+		"amount": 1,
+		"minerAddresses": ["t02620"]
+	}, {
+		"name": "Asia",
+		"amount": 1,
+		"minerAddresses": [
+                   "t03328",
+                   "t03339",
+                   "t08937",
+                   "t09573",
+                   "t014394",
+                   "t014432",
+                   "t016563",
+                   "t019196",
+                   "t019437",
+                   "t020385",
+                   "t020489",
+                   "t020523",
+                   "t020631",
+                   "t020961",
+                   "t020975"
+                ]
+	}
+       ]
+}
