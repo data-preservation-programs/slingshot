@@ -32,7 +32,7 @@ These assets, as well as ownership information, can then be visualized in an int
 
 *You can reference the [list of curated datasets in this repo](https://github.com/filecoin-project/slingshot/blob/master/datasets.md). If you'd like to use a dataset that is not on that list, please nominate your chosen dataset by updating the curated datasets table in this PR. If nominating a dataset, do you own or have exclusive rights to the data you plan to use?*
 
-We intend to upload Landsat 8, and have [submitted a PR](https://github.com/filecoin-project/slingshot/pull/40) to add the dataset to the curated list. 
+We intend to upload Landsat 8, and have [submitted a PR](https://github.com/filecoin-project/slingshot/pull/41) to add the dataset to the curated list. 
 
 ## (5) If your project is not using a curated dataset, please tell us a little bit more about your data by answering the questions below.
 
