@@ -1,61 +1,60 @@
-# <Project Name>
+(0) Project Name and Team Slack Handles
+- Our project Name： FMusic
+- Team Slack Handles：[FUNBLOCKS](https://funbloks.slack.com/join/shared_invite/zt-hy0c64sg-pGNuL92B~azTpyZz8M6jgg#/)
 
-Before submitting a PR containing your team's project information:
-- Make sure you rename this file to contain your project's name
-- Respond to add your response in each section below
+(1) Brief Project Description
+- FMusic is a global  music source shared system. 
+- Users can upload the music they like and the music they want to collect.
+- After uploading to FMusic, they can download it at any time and share it with others. 
+- You can also enjoy shared music files uploaded by other users.
+- We aim to establish an open music community to prevent centralized monopoly.
 
-## (0) Project Name and Team Slack Handles
+(2) Link to Project UI
+- Link : https://axhub.im/ax9/23d60b55baa41e75/#g=1
 
-*Please tell us your project's name and the Filecoin Slack handles for your teammates.*
+(3) What does your application/UI do?
+- FMusic is a music sharing platform.
+- FMusic provides users with an entrance to upload music files, after  user uploads their music files to FMusic, FMusic is responsible for the on-chain interaction with the Filecoin network and permanently stores the user’s files on the Filecoin network.
+- When they needs to find the music resources they wants, Fmusic can also find all the music files that have been uploaded to the Filecoin network and provide users to download them. 
+- When users need to save important music files, we will charge the corresponding FIL as a handling fee based on the gas fee and duration of the transfer on the chain.
+- Similarly, users also need to pay a certain fee for downloading to get what they wants.
 
-## (1) Brief Project Description
+(4) If your project is using a curated dataset, which one are you using?
+- We use the official data set: Free Music Archive :https://github.com/mdeff/fma
 
-*Add your project's description here.*
+(5) If your project is not using a curated dataset, please tell us a little bit more about your data by answering the questions below.
+- We are the official data set used.
 
-## (2) Link to Project UI
+(6) How much data are you planning to store to the Filecoin network during the Slingshot competition?
+- We planing to upload about 300TB of data to the Filecoin network.
 
-*Please include a link to your project application or UI. It does not need to be super polished or completely functional. We will be reviewing this link periodically to verify that your project is eligible for final rewards.*
+(7) How are you structuring the data?
+- Our data is unstructured to data, and the data format is MP3.
 
-## (3) What does your application/UI do?
+(8) What pre-processing are you doing before ingesting the data?
+- Import through PushPath, the upload interface of Texture Hub/Buckets technology stack
+- Each file is between 1Mib-100Mib
+- File data information directory path data or table field information will be stored in ThreadDB to retrieve specific data through cid, name and time
 
-*Give us a brief description of what your application/UI does and how users are intended to interact with it.*
+(9) What tech stack will you use to store the data?
+- Texture Hub/Buckets
 
-## (4) If your project is using a curated dataset, which one are you using?
+(10) How will you retrieve the data?
+- The file size read each time is between 1Mib-100Mib
+-  Store index in threaddb to read data and use IPFS cache layer
 
-*You can reference the [list of curated datasets in this repo](https://github.com/filecoin-project/slingshot/blob/master/datasets.md). If you'd like to use a dataset that is not on that list, please nominate your chosen dataset by updating the curated datasets table in this PR. If nominating a dataset, do you own or have exclusive rights to the data you plan to use?*
+(11) Who is the intended user for your application/UI?
+- Our target users are music lovers.
 
-## (5) If your project is not using a curated dataset, please tell us a little bit more about your data by answering the questions below.
+(12) Do you have any users already or plans to acquire users soon?
+- YES, we have 100 million potential blockchain users, we're very confident that we can get people to like our products.
+- And our acquisition of users will be divided into three stages
+- Promote within a limited range, invite our music-loving friends to use our products, we are currently at this stage;
+- Small-scale promotion, to promote our products in more music lovers' communities;
+- Large-scale promotion, placing ads on TikTok, Twitter and other platforms to attract music enthusiast.
 
-*What sorts of data will you collect? Do you own or have exclusive rights to the data you plan to use? Is the data license available online? Does the data contain any sensitive or illegal information?*
-
-## (6) How much data are you planning to store to the Filecoin network during the Slingshot competition?
-
-*Give us as realistic an estimate as you possibly can at this stage. We understand it's impossible to have perfect information before really starting your project!*
-
-## (7) How are you structuring the data?
-
-*Is this structured or unstructured data? What data formats, schemas, etc. does this dataset follow?*
-
-## (8) What pre-processing are you doing before ingesting the data?
-
-*How will you prepare this data for ingestion into Filecoin? What size storage deals will you be making? If this is a tabular dataset or directory structure, how will you maintain indices into the data so you can retrieve specific data as needed for your application? This is currently one of the most important steps to being successful with data storage on Filecoin. Feel free to ask for help and/or look at docs for recommendations!*
-
-## (9)  What tech stack will you use to store the data?
-
-*Either: Powergate, Hosted Powergate, Textile Hub/Buckets, lotus, or some other solution. Tell us what you're planning to use and how.*
-
-## (10) How will you retrieve the data?
-
-*Share some more information about the data retrieval plans for your application? How often does the data need to be retrieved? What is the size of each individual read? Do you need to retrieve from Filecoin (colder storage) or from an intermediate caching layer, like IPFS? How will your application/UI retrieve the necessary data and expose it/interact with it in the UI?*
-
-## (11) Who is the intended user for your application/UI?
-
-*Who do you anticipate will use your project/dataset?*
-
-## (12) Do you have any users already or plans to acquire users soon?
-
-*Yes/no. Also, please tell us a little bit about your future plans for user acquisition.*
-
-## (13) What challenges do you anticipate with this project?
-
-*We'd love to know what you're most worried about so we can help as much as possible. Let us know what you anticipate to be the biggest challenges with this project!*
+(13) What challenges do you anticipate with this project?
+- The main challenges are as follows:
+- Will storage costs exceed user expectations;
+- Whether music lovers are willing to wait a long time to store files;
+- What is the probability of the uploaded file being damaged.
