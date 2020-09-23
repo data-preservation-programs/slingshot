@@ -37,6 +37,6 @@ If you need any additional assistance, feel free to email the Slingshot team at 
 | Greg Markou    | Chainsafe     | GregTheGreek        | GregTheGreek    |
 | Martina  Long  | Slate Team    | Martina Long        | martinalong     |
 | Matt Ober      | Pinata        | Matt Ober           | obo20           |
-| Michael Godsey | Infura        | -                   | -               |
+| Michael Godsey | Infura        | Michael Godsey      | mbgodsey        |
 | Mike Goelzer   | Protocol Labs | Mike Goelzer        | mgoelzer        |
 | Neo            | IPFS Main     | Neo Ge              | NeoGe-IPFSMain  |
