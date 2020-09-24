@@ -6,8 +6,9 @@ Before submitting a PR containing your team's project information:
 - Respond to add your response in each section below
 
 ## (0) Project Name and Team Slack Handles
-
-A network disk project, we named 1pan.We are a small development team focused on IPFS applications and this is the one of our projects for ipfs.
+Name:1pan
+Slack:zlongxiao
+memberId:U01BZR3FNPJ
 
 ## (1) Brief Project Description
 
