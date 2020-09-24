@@ -4,15 +4,15 @@
       "name": "North America",
       "amount": 1,
       "minerAddresses": [
-        "t09833",
-        "t02388"
+        "t09833"
       ]
     },
     {
       "name": "Europe",
       "amount": 1,
       "minerAddresses": [
-        "t02620"
+        "t02620",
+        "t02388"
       ]
     },
     {
