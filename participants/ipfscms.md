@@ -83,7 +83,7 @@ Single File is easy to manage. But a set of Date such as, Web files, VR Scene Se
 ## (9)  What tech stack will you use to store the data?
 
 - mainly **Textile Hub/Buckets**
-- othre **lotus**
+- other **lotus**
 
 ## (10) How will you retrieve the data?
 - High frequency to visit.
