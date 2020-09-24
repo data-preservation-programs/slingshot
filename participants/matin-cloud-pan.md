@@ -54,8 +54,8 @@ Before submitting a PR containing your team's project information:
 
 ## (12) Do you have any users already or plans to acquire users soon?
 
-*Yes, we want to attract more users who are willing to use distributed storage to store personal data.*
+*Yes, there are a large number of user groups in China waiting to use our products, which is expected to generate a large amount of real and effective data every day, and users can retrieve their stored data at any time.*
 
 ## (13) What challenges do you anticipate with this project?
 
-*We have not completed all the functions of this project. In addition, we need to think about how to improve the speed of transaction retrieval and how IPFS can connect certain functions in the middle.*
+*We have not completed all the functions of this project. In addition, we need to think about how to improve the speed of transaction retrieval and how IPFS can connect certain functions in the middle, and we will continue to improve the functional design of the product to maximize user experience and facilitate users to view, download and share.*
