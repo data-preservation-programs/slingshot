@@ -25,16 +25,18 @@ If you need any additional assistance, feel free to email the Slingshot team at 
 
 ## Community Reviewers
 
+<img src="https://avatars1.githubusercontent.com/u/43047258?s=460&u=dbabc696b61aa6d5d8e69257bfcb8a4da1007023&v=4" width="72">
+
  
-| Photo | |Name			 |Affiliation    | Filecoin Slack      | Github			 |
-|-------|----------------|---------------|---------------------|-----------------|
-|<img src="https://avatars1.githubusercontent.com/u/528969?s=460&v=4" width="48"> | Aaron Sutula   | Textile       | aaron               | asutula         |
-|| Brett Shear    | Fleek         | Brett Shear         | Blockchainbrett |
-|| Carson Farmer  | Textile       | Carson (textile.io) | carsonfarmer    |
-|| Eva Shon       | Protocol Labs | eshon               | eshon           |
-|| Greg Markou    | Chainsafe     | GregTheGreek        | GregTheGreek    |
-|| Martina  Long  | Slate Team    | Martina Long        | martinalong     |
-|| Matt Ober      | Pinata        | Matt Ober           | obo20           |
-|| Michael Godsey | Infura        | Michael Godsey      | mbgodsey        |
-|| Mike Goelzer   | Protocol Labs | Mike - Protocol Labs | mgoelzer        |
-|| Neo            | IPFS Main     | Neo Ge              | NeoGe-IPFSMain  |
+| Photo 																		  | |Name			 |Affiliation    | Filecoin Slack      | Github			 |
+|---------------------------------------------------------------------------------|----------------|---------------|---------------------|-----------------|
+|<img src="https://avatars1.githubusercontent.com/u/528969?s=460&v=4" width="72"> | Aaron Sutula   | Textile       | aaron               | asutula         |
+|<img src="https://avatars1.githubusercontent.com/u/528969?s=460&v=4" width="72"> | Brett Shear    | Fleek         | Brett Shear         | Blockchainbrett |
+|<img src="https://avatars1.githubusercontent.com/u/528969?s=460&v=4" width="72"> | Carson Farmer  | Textile       | Carson (textile.io) | carsonfarmer    |
+|<img src="https://avatars1.githubusercontent.com/u/528969?s=460&v=4" width="72"> ||Eva Shon       | Protocol Labs | eshon               | eshon           |
+|<img src="https://avatars1.githubusercontent.com/u/528969?s=460&v=4" width="72"> ||Greg Markou    | Chainsafe     | GregTheGreek        | GregTheGreek    |
+|<img src="https://avatars1.githubusercontent.com/u/528969?s=460&v=4" width="72"> | Martina  Long  | Slate Team    | Martina Long        | martinalong     |
+|<img src="https://avatars1.githubusercontent.com/u/528969?s=460&v=4" width="72"> | Matt Ober      | Pinata        | Matt Ober           | obo20           |
+|<img src="https://avatars1.githubusercontent.com/u/528969?s=460&v=4" width="72"> | Michael Godsey | Infura        | Michael Godsey      | mbgodsey        |
+|<img src="https://avatars1.githubusercontent.com/u/528969?s=460&v=4" width="72"> | Mike Goelzer   | Protocol Labs | Mike - Protocol Labs | mgoelzer        |
+|<img src="https://avatars1.githubusercontent.com/u/528969?s=460&v=4" width="72"> | Neo            | IPFS Main     | Neo Ge              | NeoGe-IPFSMain  |
