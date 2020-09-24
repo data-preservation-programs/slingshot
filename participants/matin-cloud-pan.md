@@ -14,7 +14,8 @@ Before submitting a PR containing your team's project information:
 
 ## (2) Link to Project UI
 
-*http://pan.mtfs.top*
+*web: http://pan.mtfs.top*
+*Android & iOS: https://app.mtfs.top/down/pan-down/downpage.html*
 
 ## (3) What does your application/UI do?
 
