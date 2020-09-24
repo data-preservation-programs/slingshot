@@ -6,7 +6,7 @@ Before submitting a PR containing your team's project information:
 
 ## (0) Project Name and Team Slack Handles
 
-*Project name is matin-cloud-pan , and our team is Matin Cloud (麦田云际) . Now , we are working on filecoin and ifps *
+*Project name is matin-cloud-pan , and our team is Matin Cloud (麦田云际) . Now , we are working on filecoin and IPFS*
 
 ## (1) Brief Project Description
 
