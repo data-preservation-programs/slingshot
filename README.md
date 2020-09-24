@@ -29,12 +29,12 @@ If you need any additional assistance, feel free to email the Slingshot team at 
 | Photo | |Name			 |Affiliation    | Filecoin Slack      | Github			 |
 |-------|----------------|---------------|---------------------|-----------------|
 |![photo](https://avatars1.githubusercontent.com/u/528969?s=460&v=4)| Aaron Sutula   | Textile       | aaron               | asutula         |
-| Brett Shear    | Fleek         | Brett Shear         | Blockchainbrett |
-| Carson Farmer  | Textile       | Carson (textile.io) | carsonfarmer    |
-| Eva Shon       | Protocol Labs | eshon               | eshon           |
-| Greg Markou    | Chainsafe     | GregTheGreek        | GregTheGreek    |
-| Martina  Long  | Slate Team    | Martina Long        | martinalong     |
-| Matt Ober      | Pinata        | Matt Ober           | obo20           |
-| Michael Godsey | Infura        | Michael Godsey      | mbgodsey        |
-| Mike Goelzer   | Protocol Labs | Mike - Protocol Labs | mgoelzer        |
-| Neo            | IPFS Main     | Neo Ge              | NeoGe-IPFSMain  |
+|| Brett Shear    | Fleek         | Brett Shear         | Blockchainbrett |
+|| Carson Farmer  | Textile       | Carson (textile.io) | carsonfarmer    |
+|| Eva Shon       | Protocol Labs | eshon               | eshon           |
+|| Greg Markou    | Chainsafe     | GregTheGreek        | GregTheGreek    |
+|| Martina  Long  | Slate Team    | Martina Long        | martinalong     |
+|| Matt Ober      | Pinata        | Matt Ober           | obo20           |
+|| Michael Godsey | Infura        | Michael Godsey      | mbgodsey        |
+|| Mike Goelzer   | Protocol Labs | Mike - Protocol Labs | mgoelzer        |
+|| Neo            | IPFS Main     | Neo Ge              | NeoGe-IPFSMain  |
