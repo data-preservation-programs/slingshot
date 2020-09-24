@@ -54,4 +54,4 @@ The eligibility criteria include:
 * The node is reachable (can respond to a query-ask network request)
 * The node has power available.
 
-In addition, we recommend miners set their prices near 1 TiB/FIL to be competitive in the ecosystem.
+In addition, we recommend miners set their prices near 1 FIL/TiB/ mo to be competitive in the ecosystem.
