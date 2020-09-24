@@ -30,7 +30,7 @@ Before submitting a PR containing your team's project information:
 
 ## (6) How much data are you planning to store to the Filecoin network during the Slingshot competition?
 
-*Maybe 3TB-5TB .*
+*Maybe 3TB-5TB , or more !!*
 
 ## (7) How are you structuring the data?
 
