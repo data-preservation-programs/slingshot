@@ -22,7 +22,7 @@ Before submitting a PR containing your team's project information:
 
 ## (4) If your project is using a curated dataset, which one are you using?
 
-**
+* *
 
 ## (5) If your project is not using a curated dataset, please tell us a little bit more about your data by answering the questions below.
 
