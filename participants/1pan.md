@@ -6,9 +6,9 @@ Before submitting a PR containing your team's project information:
 - Respond to add your response in each section below
 
 ## (0) Project Name and Team Slack Handles
-Name:1pan
-Slack:zlongxiao
-memberId:U01BZR3FNPJ
+- Name:1pan
+- Slack:zlongxiao
+- memberId:U01BZR3FNPJ
 
 ## (1) Brief Project Description
 
