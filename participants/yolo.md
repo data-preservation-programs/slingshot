@@ -1,9 +1,5 @@
 # <Project Name>
 
-Before submitting a PR containing your team's project information:
-- Make sure you rename this file to contain your project's name
-- Respond to add your response in each section below
-
 ## (0) Project Name and Team Slack Handles
 Our Project Name is Yolo.
 Our Team Slack Handles is UNTPFH4HW, and with Display name Max.
@@ -42,7 +38,7 @@ There is some uncertainty about the API of Powergate, we have not yet completed 
 We are planning to use Powergate and lotus.
 
 ## (10) How will you retrieve the data?
-I think our application only need to retrieve data from Filecoin once. After the storage deal has successfully be sealed by miner, we will send a retrievel deal, and then store all the data in the deal to IPFS. IPFS is a intermediate caching layer for us to retrieve the necessary data and expose it to users.
+I think our application only need to retrieve data from Filecoin once. After the storage deal has successfully sealed by miner, we will send a retrievel deal, and then store all the data in the deal to IPFS. IPFS is a intermediate caching layer for us to retrieve the necessary data and expose it to users.
 
 ## (11) Who is the intended user for your application/UI?
 AI algorithm engineer, Computer vision researcher, Computer Science Students etc.
