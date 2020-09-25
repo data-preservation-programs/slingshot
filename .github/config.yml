@@ -1,24 +1,27 @@
 blank_issues_enabled: false
 
-newPRWelcomeComment: >
+newPRWelcomeComment: |
   Thanks for submitting an application and welcome to Slingshot!
-  \n\n
+
   Our team will validate your entry shortly, to help us process this quickly please ensure all questions are complete, you have a Slack account at https://filecoin.io/slack/ and you have completed a matching registration application at https://slingshot.filecoin.io/register-now/
 
-firstPRMergeComment: >
-  Congratulations. Your application has been approved and merged as an official participant for the Slingshot competition!  Please ensure that you continue to follow the [rules](https://slingshot.filecoin.io/rules) and spirit of the competition to remain eligible for rewards.
+firstPRMergeComment: |
+  :zap: Congratulations. Your application has been approved and merged as an official participant for the Slingshot competition! :zap:
 
-  The following resources may be helpful as you begin:
+  It is your responsibility to follow the [rules](https://slingshot.filecoin.io/rules) and spirit of the competition to remain eligible for rewards.
+
+  Here are a few important resources to help you get started:
 
   [Competition Home](https://slingshot.filecoin.io/)
   [Competition Rules](https://slingshot.filecoin.io/rules)
   [FAQs](https://slingshot.filecoin.io/faq)
   [Events calendar](https://slingshot.filecoin.io/events/) (Office Hours/Master Classes)
-  [Filecoin Docs](https://docs.filecoin.io) 
+  [Filecoin Docs](https://docs.filecoin.io)
   [HackFS videos](https://hack.ethglobal.co/showcase/myel-receOUiPSd63148qZ)
   [Textile Powergate](https://docs.textile.io/powergate/)
 
-  Please join our slack community channels to stay informed:
-  #slingshot – For debugging help and community conversations throughout the course of the competition
-  #slingshot-announcements – For major announcements about the Slingshot program
-  #fil-testnet-announce – For major announcements about the testnet and major software releases
+  We also invite to join our Slack community channels to stay informed during the event:
+
+  *#slingshot* – For debugging help and community conversations throughout the course of the competition
+  *#slingshot-announcements* – For major announcements about the Slingshot program
+  *#fil-testnet-announce* – For major announcements about the testnet and major software releases
