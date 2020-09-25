@@ -7,6 +7,7 @@ Before submitting a PR containing your team's project information:
 
 ## (0) Project Name and Team Slack Handles
 My project name is Filecoin.Net Disk
+My slack username is cannon, slack emil is cannon3758@outlook.com
 
 ## (1) Brief Project Description
 This project is provide data store for users, which is use web UI interface to operation.
