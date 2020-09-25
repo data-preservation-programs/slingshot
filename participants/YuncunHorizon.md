@@ -10,7 +10,7 @@ Through our app, it is convenient for you to retrieve valuable files of any type
 
 
 ## (2) Link to Project UI
-https://binleo.com
+http://binleo.com
 
 
 ## (3) What does your application/UI do?
