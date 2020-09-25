@@ -17,7 +17,7 @@ Users can view, search, share all the videos on CoinSummerTV, and we are plannin
 This project will not use a curated dataset. All the videos on CoinSummerTV stored on our AWS S3 bucket. We are planning to store these videos to Filecoin and IPFS.
 
 ## (5) If your project is not using a curated dataset, please tell us a little bit more about your data by answering the questions below.
-All the videos on CoinSummerTV are MP4 format with three resolutions, 360P, 540P and 1080P. We have translated these videos, and add Chinese subtitles for them, we have exclusive rights to these data. These videos license available online, and don't contain any sensitive or illegal information.
+All the videos on CoinSummerTV are MP4 format with three resolutions, 360P, 540P and 1080P. We have translated these videos, and added Chinese subtitles for them, we have noncommercial use rights of these data. These videos license available online, and don't contain any sensitive or illegal information.
 
 ## (6) How much data are you planning to store to the Filecoin network during the Slingshot competition?
 We are planning to store at least 10TB videos to the Filecoin network, maybe more than 20TB if our users can upload more.
