@@ -19,7 +19,7 @@ https://org.modao.cc/app/c53a08b3b63d09e7792043facdf2dc737b698a42?simulator_type
 
 **Project website**
 
-http://filedrive.io（deploying）   
+http://filedrive.io  （deploying）   
 https://filedrive.io   （in plan）
 
 Application need to transfer data directly with IPFS nodes, it is not easy to deploy SSL certificates.   
@@ -83,7 +83,6 @@ Structured data will be updated (File name,tag,piece cid, deal id,provider).
 
 
 ## (9) What tech stack will you use to store the data?
-Either: Powergate, Hosted Powergate, Textile Hub/Buckets, lotus, or some other solution. Tell us what you're planning to use and how.
 
 Lotus,IPFS
 
@@ -105,7 +104,6 @@ People who own public data and want to keep it for a long time.
 
 
 ## (12) Do you have any users already or plans to acquire users soon?
-Yes/no. Also, please tell us a little bit about your future plans for user acquisition.
 
 Yes. We are working with data download service providers, such as gaming and software distribution channels who want to store data into Filecoin.
 
