@@ -18,7 +18,7 @@ MemberId:U01BZR3FNPJ
 
 ## (2) Link to Project UI
 
-*http://ipfs.forke.cn/*
+*demo: http://ipfs.forke.cn/*
 
 You can see UI in github:
 
