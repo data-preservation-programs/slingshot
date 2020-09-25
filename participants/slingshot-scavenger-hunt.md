@@ -47,7 +47,7 @@ or creative commons licensed content as much as possible.
 
 ## (6) How much data are you planning to store to the Filecoin network during the Slingshot competition?
 
-Probably about 10 replicas of the Kiwix dump for redundancy. Players will find and
+Probably about 7 replicas of the Kiwix dump for redundancy. Players will find and
 upload content as well, but it is unlikely that there will be so many players that
 it will amount to a huge amount of data. Our focus is going to be on building a
 quality knowledge graph. The "gameboard" is global in scale, so data usage could grow
