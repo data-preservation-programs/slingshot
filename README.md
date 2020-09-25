@@ -53,5 +53,6 @@ The eligibility criteria include:
 * The node is set to accept deal from any public client.
 * The node is reachable (can respond to a query-ask network request)
 * The node has power available.
+* The node is using the correct lotus version
 
 
