@@ -2,7 +2,7 @@ blank_issues_enabled: false
 
 newPRWelcomeComment: >
   Thanks for submitting an application and welcome to Slingshot!
-
+  \n\n
   Our team will validate your entry shortly, to help us process this quickly please ensure all questions are complete, you have a Slack account at https://filecoin.io/slack/ and you have completed a matching registration application at https://slingshot.filecoin.io/register-now/
 
 firstPRMergeComment: >
