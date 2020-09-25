@@ -28,7 +28,7 @@ Before submitting a PR containing your team's project information:
 
 ## (5) If your project is not using a curated dataset, please tell us a little bit more about your data by answering the questions below.
 
-*We will collect data such as videos, audios, pictures, etc. We have the power to process the data, and the data does not contain any sensitive or illegal information.*
+*We will collect data such as videos, audios, pictures, etc. We have the power to process the data, and the data does not contain any sensitive or illegal information. The user who uploads the data has the ownership of the data. We will conduct a certain review (machine or manual) on the uploaded video data to ensure the legality and validity of the data.*
 
 ## (6) How much data are you planning to store to the Filecoin network during the Slingshot competition?
 
