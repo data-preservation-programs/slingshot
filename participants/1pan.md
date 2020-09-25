@@ -1,4 +1,4 @@
-# <Project Name>
+# 1pan
 
 Before submitting a PR containing your team's project information:
 
@@ -7,7 +7,7 @@ Before submitting a PR containing your team's project information:
 
 ## (0) Project Name and Team Slack Handles
 
-Name:1pan
+Project Name:1pan
 Slack:longkengkeng
 
 MemberId:U01BZR3FNPJ
