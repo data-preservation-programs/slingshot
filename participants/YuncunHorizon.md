@@ -10,14 +10,14 @@ Through our app, it is convenient for you to retrieve valuable files of any type
 
 
 ## (2) Link to Project UI
-https://github.com/AlexY0905/YuncunHorizon-webui
+https://binleo.com
 
 
 ## (3) What does your application/UI do?
 The main purpose of video storage is to create a convenient and practical multi-function app. 
 You can upload text documents, videos, music and other things on the Internet according to the file format.
 Our background will check the legitimacy of your uploaded files. If copyright and violation are involved, we may block your account.Of course, you can retrieve all the data you need to query on our app, and our app can display some of the most searched files according to your preferences.
-
+More importantly, we will use the official data set for downloading。
 
 ## (4) If your project is using a curated dataset, which one are you using?
 
@@ -27,11 +27,11 @@ For now, we will use your data set for data uploading.But for our clients, we wa
 We collect customer data and we don't have any data set at the moment.We may use free data, the rest if our customers upload data, but will add license if after our investigation of illegal data.We will not allow uploads.We will not have any sensitive or illegal information.
 
 ## (6) How much data are you planning to store to the Filecoin network during the Slingshot competition?
- 50T-150T may be, I guess.
+ 5T-50T may be, I guess.
 
 ## (7) How are you structuring the data?
 
-It's the unstructured data.
+We will watch related  instructions，brands，series and so on。
 
 ## (8) What pre-processing are you doing before ingesting the data?
 1. There will be an upload interface for our app. For customers and ourselves, we will upload file data through this interface.The IPFS node and the Lotus node are connected through Powergate.Cold and hot storage of data.It is then uploaded to the Filecoin network for trading.
