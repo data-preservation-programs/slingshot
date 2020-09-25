@@ -6,6 +6,8 @@ Before submitting a PR containing your team's project information:
 
 ## (0) Project Name and Team Slack Handles
 Quant AI
+Slack: @Charles Cao - NBFS 
+
 ## (1) Brief Project Description
 
 Quant AI is a App build by Nebula AI team on the space race testnet which predicts the crypto currency trading price. This tool analyzes time series and trains deep learning models based on AI algorithm with sentimental analysis to forecast real-time trends. The sentiment analysis engine is a natural language processing developed by NBAI. This tool helps users classify the polarity of a given text and extract the attitude of the writer. It is currently used as a price prediction model for trading, evaluation of consumer inclination, online conversations positioning and content inclinations.
