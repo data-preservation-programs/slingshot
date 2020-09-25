@@ -14,7 +14,7 @@ Before submitting a PR containing your team's project information:
 
 ## (2) Link to Project UI
 
-*http://ipfs.zenpool.io/#/.*
+[IPFS-scholar](http://ipfs.zenpool.io/#/)
 
 ## (3) What does your application/UI do?
 
