@@ -13,7 +13,6 @@ Código is a firmware distribution service built on top of the Ethereum blockcha
 
 Link to our deployed Dapp: https://codigo-hub.com/
 Link to github repo: https://github.com/ZeroSum24/Codigo-Hub
-Screenshots: 
 
 ## (3) What does your application/UI do?
 
@@ -45,7 +44,9 @@ We're using a hosted powergate provided by Textile
 
 ## (10) How will you retrieve the data?
 
-*Share some more information about the data retrieval plans for your application? How often does the data need to be retrieved? What is the size of each individual read? Do you need to retrieve from Filecoin (colder storage) or from an intermediate caching layer, like IPFS? How will your application/UI retrieve the necessary data and expose it/interact with it in the UI?*
+We expect that firmware contributions won't take more than a few MBs so they will be fetched on demand from the users and high popularity ones cached.
+When we have video tutorials available we might consider using an intermediate caching layer such as IPFS to improve the performance
+The retrieved source code and tutorials will be displayed directly on the UI, while binaries will be available for download as a file.
 
 ## (11) Who is the intended user for your application/UI?
 
