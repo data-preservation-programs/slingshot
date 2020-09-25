@@ -6,6 +6,7 @@
 
 *Our project name is YuncunPlayer,.i am  one of filecoin miner *
 
+https://app.slack.com/client/TEHTVS1L6/C0179RNEMU4/thread/C0179RNEMU4-1601020011.154600
 
 ## (1) Brief Project Description
 
