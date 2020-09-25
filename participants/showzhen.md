@@ -6,7 +6,8 @@ Before submitting a PR containing your team's project information:
 
 ## (0) Project Name and Team Slack Handles
 
-Our project name is showzhen, We'are showzhen.Our team is one of filecoin miner and also we're developing IPFS applications
+Our project name is showzhen, We'are showzhen.Our team is one of filecoin miner and also we're developing IPFS applications.
+Slack is https://app.slack.com/client/TEHTVS1L6/D01BHV9R44R/user_profile/U01B285F0UV
 
 ## (1) Brief Project Description
 
@@ -14,7 +15,8 @@ This is a video surveillance project.This project has two phases.First,Users upl
 
 ## (2) Link to Project UI
 
-This is our project UI link https://github.com/test4cz/showzhen/blob/master/showzhen.png THis is our project code link https://github.com/test4cz/showzhen.git
+This is our project UI link https://github.com/test4cz/showzhen/blob/master/showzhen.png
+THis is our project code link https://github.com/test4cz/showzhen.git
 
 ## (3) What does your application/UI do?
 
