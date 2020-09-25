@@ -20,6 +20,8 @@ MemberId:U01BZR3FNPJ
 
 *http://ipfs.forke.cn/*
 
+You can see UI in github:
+
 https://github.com/zlongxiao/1pan.git
 
 ## (3) What does your application/UI do?
