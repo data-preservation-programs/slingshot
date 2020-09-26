@@ -1,4 +1,4 @@
-# <Pufferfish Cloud Storage Drive>
+# Pufferfish Cloud Storage Drive
 
 Before submitting a PR containing your team's project information:
 - Make sure you rename this file to contain your project's name
