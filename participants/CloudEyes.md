@@ -14,7 +14,9 @@ Before submitting a PR containing your team's project information:
 
 ## (2) Link to Project UI
 
-*This is our project UI link https://github.com/Filecoin-ypool/cloud-eyes/blob/master/cloudEyes.png
+*
+This is our web project link http://www.cloud-eyes.com
+This is our project UI link https://github.com/Filecoin-ypool/cloud-eyes/blob/master/cloudEyes.png
 THis is our project code link https://github.com/Filecoin-ypool/cloud-eyes.git*
 
 ## (3) What does your application/UI do?
