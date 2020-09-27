@@ -44,7 +44,7 @@ A single file is less than 500MB, we will directly store the data to the filecoi
 
 ##(9) What tech stack will you use to store the data?
 
-Either: Powergate, Hosted Powergate, Textile Hub/Buckets, lotus, or some other solution. Tell us what you're planning to use and how.
+lotus.
 
 ##(10) How will you retrieve the data?
 
