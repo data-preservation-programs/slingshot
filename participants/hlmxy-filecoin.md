@@ -1,4 +1,4 @@
-#<hlmxy-filecoin>
+#<Starry sky in Yunnan>
 
 Before submitting a PR containing your team's project information:
 -Make sure you rename this file to contain your project's name
@@ -6,7 +6,7 @@ Before submitting a PR containing your team's project information:
 
 ##(0) Project Name and Team Slack Handles
 
-Our project name is hlmxy-filecoin, We'are hlmxy-filecoin.Our team is one of filecoin miner and also we're developing IPFS applications
+Our project name is Starry sky in Yunnan, We'are Starry sky in Yunnan.Our team is one of filecoin miner and also we're developing IPFS applications
 
 ##(1) Brief Project Description
 
