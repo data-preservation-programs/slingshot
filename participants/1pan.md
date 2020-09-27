@@ -34,11 +34,11 @@ https://github.com/zlongxiao/1pan.git
 
 ## (5) If your project is not using a curated dataset, please tell us a little bit more about your data by answering the questions below.
 
-*We will not collect any data, and we will slice the data and store it in the Filecoin network. In the IPFS network, there is no complete data in our application, and the data uploaded to the IPFS network will be reviewed by our staff.*
+*We will not collect any data, and store it in the Filecoin network. In the IPFS network, there is no complete data in our application, and the data uploaded to the IPFS network will be reviewed by our staff.*
 
 ## (6) How much data are you planning to store to the Filecoin network during the Slingshot competition?
 
-*We now have almost 500G of data, and we plan to upload some of the cold data to the IPFS network. During the use, if the access speed can reach our expectation, we will upload all the data uploaded by users to the IPFS network.*
+*Our application is a network disk application, we accept any possible data, such as ZIP, MP4, etc. User's data upload to my application,we will deal in my server and then we send it to Filecoin network. We now have almost 500G of data, and we plan to upload some of the cold data to the IPFS network. During the use, if the access speed can reach our expectation, we will upload all the data uploaded by users to the IPFS network.*
 
 ## (7) How are you structuring the data?
 
