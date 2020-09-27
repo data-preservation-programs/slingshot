@@ -14,7 +14,8 @@ This is a non-profit organization project that provides available high-quality c
 
 ##(2) Link to Project UI
 
-This is our project UI link http://ui.filecoin123.pro:9008   This is our project code link https://github.com/IPFS-grandhelmsman/Filecoin-Crawl.git
+This is our project UI link http://ui.filecoin123.pro:9008   
+This is our project code link https://github.com/IPFS-grandhelmsman/Filecoin-Crawl.git
 
 ##(3) What does your application/UI do?
 
@@ -41,7 +42,7 @@ A single file is less than 500MB, we will directly store the data to the filecoi
 
 ##(9) What tech stack will you use to store the data?
 
-Either: Powergate, Hosted Powergate, Textile Hub/Buckets, lotus, or some other solution. Tell us what you're planning to use and how.
+ lotus.
 
 ##(10) How will you retrieve the data?
 
