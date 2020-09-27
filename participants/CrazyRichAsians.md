@@ -23,7 +23,7 @@ Before submitting a PR containing your team's project information:
 ## (5)Sql catalogue/unstructured content
 
 ## (6) How much data are you planning to store to the Filecoin network during the Slingshot competition?
-## (6) 100PB.
+## (6) 1-1.5PB.
 
 ## (7) How are you structuring the data?
 ## (7) Structured data.
