@@ -43,16 +43,16 @@ The [dateset](https://github.com/mdeff/fma) provides relevant data, which meets 
 
 ## (8) What pre-processing are you doing before ingesting the data?
 
-We will store music files directly in the filecoin miner network and maintain the music metadata in relation database.
+We will store music files directly in the filecoin and IPFS network through Powergate and maintain the music metadata in relation database.
 
 ## (9)  What tech stack will you use to store the data?
 
-Powergate and lotus
+Powergate, lotus and IPFS
 
 ## (10) How will you retrieve the data?
 
-When user listen music, the miner server response the whole track file to user UI,
-and we need a caching layer like IPFS to cache hot music files for retrive.
+When user listen music, hosted Powergate will try to fetch date from cache layer (IPFS for hot storage),
+if can't get it, it will try to fetch from Filecoin (for cold storage) to user and store it in IPFS simultaneously
 
 ## (11) Who is the intended user for your application/UI?
 
@@ -63,6 +63,6 @@ Anyone who love music, and especially for users who want access to a wider range
 Planning to acquire users soon
 
 ## (13) What challenges do you anticipate with this project?
-- The timeliness and speed of storing and retriving music data files
-- How do users pay for retrieval
+- Quickly familiar with Powergate and related data reading and writing functions
+- Make a smooth play music app
 - How to attract users and establish positive capital flow
