@@ -50,13 +50,16 @@ Not curated dataset
 *What sorts of data will you collect? Do you own or have exclusive rights to the data you plan to use? Is the data license available online? Does the data contain any sensitive or illegal information?*
 
 sql catalogue/unstructured content
+no
+no
+no
 
 
 ## (6) How much data are you planning to store to the Filecoin network during the Slingshot competition?
 
 *Give us as realistic an estimate as you possibly can at this stage. We understand it's impossible to have perfect information before really starting your project!*
 
-1PB
+600TB
 
 
 ## (7) How are you structuring the data?
@@ -74,7 +77,7 @@ Unstructured
 
 128mb
 
-sql
+sql map for data and deal
 
 
 ## (9)  What tech stack will you use to store the data?
