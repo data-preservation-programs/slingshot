@@ -7,7 +7,7 @@
 
 ## (1) Brief Project Description
 
-Flixflix is a distributed video platform.
+Flixflix is a distributed video share platform.
 
 ## (2) Link to Project UI
 
@@ -15,7 +15,7 @@ https://github.com/diancun/filflix
 
 ## (3) What does your application/UI do?
 
-Users can watch videos on the Filflix free or by paying the amount of Fil.
+Users can upload videos, and watch videos on the Filflix free or by paying an amount of Fil.
 
 ## (4) If your project is using a curated dataset, which one are you using?
 
@@ -27,7 +27,7 @@ None
 
 ## (6) How much data are you planning to store to the Filecoin network during the Slingshot competition?
 
-300 TB
+350 TB ~ 500 TB
 
 ## (7) How are you structuring the data?
 
@@ -35,7 +35,7 @@ The common video format.
 
 ## (8) What pre-processing are you doing before ingesting the data?
 
-Using IPFS as a storage bucket to store videos, users can watch videos online through the web.
+Using IPFS as a storage bucket to store videos, users can upload and watch videos online through the web.
 
 ## (9) What tech stack will you use to store the data?
 
@@ -51,7 +51,7 @@ Everyone can access to Filflix.
 
 ## (12) Do you have any users already or plans to acquire users soon?
 
-People who want to watch movies, dramas, etc.
+People who want to share videos.
 
 ## (13) What challenges do you anticipate with this project?
 
