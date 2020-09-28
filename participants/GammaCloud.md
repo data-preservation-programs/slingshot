@@ -65,7 +65,7 @@ state: string like StorageSealing, StorageActive
 ## (8) What pre-processing are you doing before ingesting the data?
 
 
-The max storage deals size is 4GB. We use MySQL to keep the relationship of file dirs.
+The max storage deals size is 4GB. We use MySQL to keep the relationships of file dirs.
 
 The upload process is:
 
