@@ -1,4 +1,4 @@
-# <IpfsEasyMonitor>
+# IpfsEasyMonitor
 
 ## (0) Project Name and Team Slack Handles
 
@@ -6,7 +6,7 @@
 
 *Our Team is a Internet company, some of whom are filecoin enthusiasts. We want to make some valuable Internet applications based on IPFS.*
 
-*Team Slack Handles: **Alinger** *
+*Team Slack Handles:* **Alinger**
 
 ## (1) Brief Project Description
 
