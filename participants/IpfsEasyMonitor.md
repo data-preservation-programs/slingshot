@@ -1,13 +1,12 @@
-# <Project Name>
-
-Before submitting a PR containing your team's project information:
-
-- Make sure you rename this file to contain your project's name
-- Respond to add your response in each section below
+# <IpfsEasyMonitor>
 
 ## (0) Project Name and Team Slack Handles
 
-*Our project Name is* **IpfsEasyMonitor.** *Our Team is a Internet company, some of whom are filecoin enthusiasts. We want to make some valuable Internet applications based on IPFS.*
+*Our project Name is* **IpfsEasyMonitor.** 
+
+*Our Team is a Internet company, some of whom are filecoin enthusiasts. We want to make some valuable Internet applications based on IPFS.*
+
+*Team Slack Handles: **Alinger** *
 
 ## (1) Brief Project Description
 
@@ -34,7 +33,7 @@ Before submitting a PR containing your team's project information:
 
 ## (5) If your project is not using a curated dataset, please tell us a little bit more about your data by answering the questions below.
 
-The video collected by the surveillance camera can be saved on the IPFS network after being authorized by the user. Only users with access rights of the system can access the data.
+*The video collected by the surveillance camera can be saved on the IPFS network after being authorized by the user. Only users with access rights of the system can access the data.*
 
 ## (6) How much data are you planning to store to the Filecoin network during the Slingshot competition?
 
