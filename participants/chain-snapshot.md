@@ -3,7 +3,7 @@
 ## (0) Project Name and Team Slack Handles
 
 - Project Name: Chain Snapshot
-- Slack Handle: hexcola
+- Slack Handle: hexcola, Like
 
 Our team name is Diancun Tech, which is one of the miners of Spacerace.
 
