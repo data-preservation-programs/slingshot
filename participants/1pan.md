@@ -8,7 +8,7 @@ Before submitting a PR containing your team's project information:
 ## (0) Project Name and Team Slack Handles
 
 Project Name:1pan
-Slack:longkengkeng
+Slack:zlongxiao
 
 MemberId:U01BZR3FNPJ
 
