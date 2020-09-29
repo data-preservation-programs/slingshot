@@ -6,7 +6,7 @@ Before submitting a PR containing your team's project information:
 
 ##(0) Project Name and Team Slack Handles
 
-Our project name is Starry sky in Yunnan, Slack Handles:Patrick-li、grandhelmsman
+Our project name is Starry sky in Yunnan, Slack Handles:Patrick-li、grandhelmsman, Emails:desupport@grandhelmsman.com.
 
 ##(1) Brief Project Description
 
@@ -44,7 +44,7 @@ A single file is less than 500MB, we will directly store the data to the filecoi
 
 ##(9) What tech stack will you use to store the data?
 
-lotus.
+lotus,We have developed a simple storage client program by ourselves. First, we store the client data in IPFS. The IPFS network provides hot data storage, and at the same time stores the data in the FILECOIN network (cold data), and processes IPFS and Filecoin through the program. For data consistency issues, we have also developed a separate UI interface to retrieve IPFS data through the UI to achieve the effect of hot retrieval.
 
 ##(10) How will you retrieve the data?
 
@@ -59,4 +59,5 @@ Research institutes, universities, students and hobbyists.
 Yes, we obtain it from Yunnan University on the one hand, and on the other hand from an organization that has the owner of astronomical and meteorological data, to provide services to the data owner and users authorized by the owner.
 
 ##(13) What challenges do you anticipate with this project?
+
 Storage efficiency and data authorization.
