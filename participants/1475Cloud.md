@@ -82,8 +82,8 @@ sql map for data and deal
 
 ## (9)  What tech stack will you use to store the data?
 
-*Either: Powergate.*
-
+*Either:*
+lotus
 
 ## (10) How will you retrieve the data?
 
