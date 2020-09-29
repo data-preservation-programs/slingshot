@@ -14,10 +14,10 @@
 
 *Preview of the key interface of IpfsMagicBox shown below:*
 
-![IpfsMagicBox](https://gateway.originprotocol.com/ipfs/QmP9UU68h4cikWJQBBA8av6oePzYnNAvf6mkRrghE89khg "IpfsMagicBox")
-![IpfsMagicBox](https://gateway.originprotocol.com/ipfs/QmQbNGXVoLCrPBcwwV3Y9kUQiKsFkc5MwFFHkkJcxXtSJm "IpfsMagicBox")
-![IpfsMagicBox](https://gateway.originprotocol.com/ipfs/QmeAtnQpMj4TMBKJHTavHpkTsfbm3bBYqvA1baQ27iUqSL "IpfsMagicBox")
-![IpfsMagicBox](https://gateway.originprotocol.com/ipfs/QmSv4t4FSRPGD2HL2nigz898FNj9Vk9Sw3g5L3ynGyg16M "IpfsMagicBox")
+![IpfsMagicBox](https://gateway.originprotocol.com/ipfs/QmP9UU68h4cikWJQBBA8av6oePzYnNAvf6mkRrghE89khg =375 "IpfsMagicBox")
+![IpfsMagicBox](https://gateway.originprotocol.com/ipfs/QmQbNGXVoLCrPBcwwV3Y9kUQiKsFkc5MwFFHkkJcxXtSJm =375 "IpfsMagicBox")
+![IpfsMagicBox](https://gateway.originprotocol.com/ipfs/QmeAtnQpMj4TMBKJHTavHpkTsfbm3bBYqvA1baQ27iUqSL =375 "IpfsMagicBox")
+![IpfsMagicBox](https://gateway.originprotocol.com/ipfs/QmSv4t4FSRPGD2HL2nigz898FNj9Vk9Sw3g5L3ynGyg16M =375 "IpfsMagicBox")
 
 *Project's github link: [IpfsMagicBox](https://github.com/simonandhe/IpfsMagicBox)*
 
