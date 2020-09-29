@@ -6,7 +6,7 @@ Before submitting a PR containing your team's project information:
 
 ##(0) Project Name and Team Slack Handles
 
-Our project name is Starry sky in Yunnan, Slack Handles:Patrick-li、grandhelmsman, Emails:desupport@grandhelmsman.com.
+Our project name is Starry sky in Yunnan, Slack Handles:Patrick-li、grandhelmsman, chenzhijie@grandhelmsman.com 
 
 ##(1) Brief Project Description
 
