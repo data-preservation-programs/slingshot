@@ -1,7 +1,8 @@
 
 (0) Project Name and Team Slack Handles
 project's name:Decentral Myvlog
-Filecoin Slack: myvlog@decentral.cc
+Filecoin Slack: myvlog@decentral.cc - @Decentral Myvlog
+
 
 (1) Brief Project Description
 Free and amazing app to record your vlog!
