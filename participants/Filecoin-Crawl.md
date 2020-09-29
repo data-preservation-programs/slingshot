@@ -6,7 +6,7 @@ Before submitting a PR containing your team's project information:
 
 ##(0) Project Name and Team Slack Handles
 
-Our project name is Filecoin-Crawl,Slack Handles:Patrick-li、grandhelmsman
+Our project name is Filecoin-Crawl, Slack Handles:Patrick-li、grandhelmsman, Emails:desupport@grandhelmsman.com.
 
 ##(1) Brief Project Description
 
@@ -23,13 +23,14 @@ Users can download a variety of high-quality crawling data, users can learn how 
 
 ##(4) If your project is using a curated dataset, which one are you using?
 
-The Common Crawl corpus contains petabytes of data collected since 2008. It contains raw web page data, extracted metadata and text extractions.
+Yes,The official data set is used, Name：Common Crawl, Descriptions：An open repository of web crawl data, Size：235 TB,Format：WARC, URL:https://commoncrawl.org/
 
 ##(5) If your project is not using a curated dataset, please tell us a little bit more about your data by answering the questions below.
 
 Common Crawl provides an open web crawling data repository that all users can access for free. In this process, Common Crawl Corpus contains more than 2PB of web crawling data that has been continuously collected for eight years.
 
 ##(6) How much data are you planning to store to the Filecoin network during the Slingshot competition?
+
 We plan to store 2PB of data on the Filecoin network.
 
 ##(7) How are you structuring the data?
@@ -42,7 +43,7 @@ A single file is less than 500MB, we will directly store the data to the filecoi
 
 ##(9) What tech stack will you use to store the data?
 
- lotus.
+ lotus, We have developed a simple storage client program by ourselves. First, we store the client data in IPFS. The IPFS network provides hot data storage, and at the same time stores the data in the FILECOIN network (cold data), and processes IPFS and Filecoin through the program. For data consistency issues, we have also developed a separate UI interface to retrieve IPFS data through the UI to achieve the effect of hot retrieval.
 
 ##(10) How will you retrieve the data?
 
