@@ -53,12 +53,12 @@ If you need any additional assistance, feel free to email the Slingshot team at 
 ## Miners
 
 A Slingshot participant is alowed to make deals with any miner available on the Filecoin network and encouraged to interact with a variety of miners. 
-(The rules specify a minimum of 3 miners to be eligible for rewards).  In order to facilitate miner discovery, this repository maintains a list of
-active miners that are used by Textile's Powergate Hub and Powergate Buckets and other solutions.  
+(The rules specify a minimum of 3 miners to be eligible for rewards).  In order to facilitate miner discovery, this repository maintains a [list of
+active miners](https://github.com/filecoin-project/slingshot/blob/master/miners.json) that are used by Textile's Hub, Powergate, and other solutions.  
 
 This miner list in JSON format will continue to evolve and clients are encouraged to use this updated list.
 
-Any miner that meets the eligibilty criteria outlined below can be added to this list by opening a PR.  
+Any miner that meets the eligibilty criteria outlined below can be added to this [list](https://github.com/filecoin-project/slingshot/blob/master/miners.json) by opening a PR.
 
 The eligibility criteria include:
 * The node is set to accept deal from any public client.
