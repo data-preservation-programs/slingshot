@@ -1,0 +1,58 @@
+# 5MB by OB1
+
+## (0) Project Name and Team Slack Handles
+
+5MB by OB1
+@hoffmabc, @cpacia, @stevie zollo, @drwasho, @wolf
+
+## (1) Brief Project Description
+
+5MB is a project aimed at making package repositories available on the web through IPFS and Filecoin using Powergate.
+
+## (2) Link to Project UI
+
+https://github.com/ob1company/amzn [placeholder]
+
+## (3) What does your application/UI do?
+
+Users will be able to navigate into package repository URLs and retrieve package files directly from 5MB. 5MB will then either retrieve the content from IPFS or manage the retrieval of the content from Filecoin automatically.
+
+## (4) If your project is using a curated dataset, which one are you using?
+
+We have several large repositories totalling around 11TB that will be going online through this project.
+
+## (5) If your project is not using a curated dataset, please tell us a little bit more about your data by answering the questions below.
+
+N/A
+
+## (6) How much data are you planning to store to the Filecoin network during the Slingshot competition?
+
+We are aiming for over 11TB of data.
+
+## (7) How are you structuring the data?
+
+Data will be structured both for optimized performance sending and retrieving from Filecoin as well as making it as cost effective in storing and managing the content across IPFS and Filecoin.
+
+## (8) What pre-processing are you doing before ingesting the data?
+
+5MB synchronizes data from remote repositories and then processes files into buckets of data before committing them to Filecoin storage deals. 
+
+## (9)  What tech stack will you use to store the data?
+
+Powergate, IPFS, Lotus, MongoDB
+
+## (10) How will you retrieve the data?
+
+5MB performs retrieval of data depending on whether or not data is fresh and lively on IPFS or needs to be retrieved from Filecoin. If the files reside on Filecoin then the UI presents an interface to inform users about the retrieval process.
+
+## (11) Who is the intended user for your application/UI?
+
+Users who want to access package repositories for operating systems or as programming resources.
+
+## (12) Do you have any users already or plans to acquire users soon?
+
+No users yet. We are still in the process of pushing all 11TB to the network.
+
+## (13) What challenges do you anticipate with this project?
+
+The main challenges around this project are the massive amount of data that we want to push into Filecoin, interacting and testing the limits of both Powergate and Lotus and ensuring the large amount of storage deals with miners are performing properly
