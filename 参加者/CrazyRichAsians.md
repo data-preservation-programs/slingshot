@@ -93,8 +93,8 @@ sql
 
 
 ## (9)  What tech stack will you use to store the data?
-## (9) *Powergate.*
-t3ug73gc64oqepz2qzj2wo2gsdssgglbtqed3abqy4bhxz7wzcp5y34na323x6s2lms4qlqkhg6hzb7so4tgbq
+## (9) *lotus*
+t3uhikkjfzbxrvzkimoynght575nvzbwonchxlmber3aahxmhmsuw24wfoz4uuk42ks2ffhkld66c7hjklvn6a
 
 ## (10) How will you retrieve the data?
 ## (10) It depends on the client, as soon as possible to fulfill client.
