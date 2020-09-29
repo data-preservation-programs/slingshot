@@ -1,17 +1,17 @@
 JLCloud  
-Before submitting a PR containing your team's project information:  
-•	Make sure you rename this file to contain your project's name  
-•	Respond to add your response in each section below  
+Before submitting a PR containing your team's project information:    
+•	Make sure you rename this file to contain your project's name    
+•	Respond to add your response in each section below    
 
-(0) Project Name and Team Slack Handles 
-Name：JLCloud  Slack：guojianlin0929  
+(0) Project Name and Team Slack Handles   
+Name：JLCloud  Slack：guojianlin0929    
 
-(1) Brief Project Description  
-Jlcloud mainly provides users with better data security and download speed protection  
+(1) Brief Project Description    
+Jlcloud mainly provides users with better data security and download speed protection    
 
-(2) Link to Project UI  
-http://filecoin.huala.tech/  
-(3) What does your application/UI do?  
+(2) Link to Project UI    
+http://filecoin.huala.tech/    
+(3) What does your application/UI do?    
 
 Our application mainly allows users to have their own private storage space, simple and convenient sharing, and user-friendly download speed.  
 
