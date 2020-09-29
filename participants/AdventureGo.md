@@ -50,7 +50,7 @@ sql
 *How will you prepare this data for ingestion into Filecoin? What size storage deals will you be making? If this is a tabular dataset or directory structure, how will you maintain indices into the data so you can retrieve specific data as needed for your application? This is currently one of the most important steps to being successful with data storage on Filecoin. Feel free to ask for help and/or look at docs for recommendations!*
 
 ## (9)  What tech stack will you use to store the data?
-（9）Powergate.
+（9）lotus.
 
 ## (10) How will you retrieve the data?
 （10）Setting a limit by time limit and client limit. When either limit is reached a retrieve would start.
