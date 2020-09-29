@@ -3,7 +3,7 @@
 ## (0) Project Name and Team Slack Handles
 
 -Project Name：Touchain-Alpha
--Team Slack Handles：   contact：zhouyachi@touchain.io
+-Team Slack Handles：Wesley   contact：zhouyachi@touchain.io
 
 ## (1) Brief Project Description
 
