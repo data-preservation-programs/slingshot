@@ -29,10 +29,13 @@ sql text.
 
 ## (5) If your project is not using a curated dataset, please tell us a little bit more about your data by answering the questions below.
 （5）sql text
+     no
+     yes
+     no
 *What sorts of data will you collect? Do you own or have exclusive rights to the data you plan to use? Is the data license available online? Does the data contain any sensitive or illegal information?*
 
 ## (6) How much data are you planning to store to the Filecoin network during the Slingshot competition?
-（6）500TiB
+（6）300TiB
 *Give us as realistic an estimate as you possibly can at this stage. We understand it's impossible to have perfect information before really starting your project!*
 
 ## (7) How are you structuring the data?
