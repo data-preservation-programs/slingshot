@@ -18,7 +18,7 @@ We will also upload some open datasets to allow user to download publicly.
 
 ## (2) Link to Project UI
 
-1. [GammaCloud Demo Preview](https://gfs.xjxh.pro)
+1. [GammaCloud Demo](https://gfs.xjxh.pro)
 2. [GammaCloud repository](https://github.com/xjxh/gamma-cloud)
 
 ## (3) What does your application/UI do?
