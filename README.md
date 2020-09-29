@@ -12,10 +12,21 @@ Welcome to the SR2 Slingshot repo! All participants must submit a project applic
 4. Submit a PR to add your project's application to the `participants` folder in this repo.
 5. Work with the community reviewers to approve your application!
 
+
+## Leaderboard
+
+Participants will be eligible for show up on the Leaderboard approximately 24 hours after the submitted PR is merged.  
+
+For this information to appear correctly, please ensure that:
+* Your client node matches up with your registration information.
+* Your PR has been successfully merged.
+
+If you need to update your registration information, please email the Slingshot team at slingshot@filecoin.org
+
 ## Help
 
 The main competition rules and leaderboard can be found at [https://slingshot.filecoin.io](https://slingshot.filecoin.io).
-
+µ
 If you need help, please [join the Filecoin Slack](https://filecoin.io/slack) and join the following channels:
 - **`#fil-testnet-announce`** -- For major announcements about the testnet and major software releases
 - **`#slingshot-announcements`** -- For major announcements about the Slingshot program
