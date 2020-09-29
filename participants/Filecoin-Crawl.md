@@ -6,8 +6,7 @@ Before submitting a PR containing your team's project information:
 
 ##(0) Project Name and Team Slack Handles
 
-Our project name is Filecoin-Crawl, We'are Filecoin-Crawl.Our team is one of filecoin miner and also we're developing IPFS applications
-
+Our project name is Filecoin-Crawl,Slack Handles:Patrick-li、grandhelmsman
 ##(1) Brief Project Description
 
 This is a non-profit organization project that provides available high-quality crawling data for small startups and even individuals. It can help us analyze the world in pursuit of outstanding ideas, which was previously only possible by large search engine companies.
