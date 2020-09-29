@@ -16,14 +16,6 @@ Before submitting a PR containing your team's project information:
 
 ## (2) Link to Project UI
 ## (2) ipfs123.io
-## (0) Project Name and Team Slack Handles
-## (0)CrazyRichAsians and https://filecoinproject.slack.com/team/U01AXUTV6JZ
-
-## (1) Brief Project Description
-## (1)Taking advantage of IPFS technology to build up cloud disk space, and exploiting the IPFS features content index to complete the fusion of cloud disk and navigation.
-
-## (2) Link to Project UI
-## (2) ipfs123.io
 
 ## (3) What does your application/UI do?
 ## (3) File storing and retreving with content index.
@@ -46,7 +38,6 @@ Before submitting a PR containing your team's project information:
 128mb
 sql
 
-
 ## (9)  What tech stack will you use to store the data?
 ## (9) *lotus*
 t3uhikkjfzbxrvzkimoynght575nvzbwonchxlmber3aahxmhmsuw24wfoz4uuk42ks2ffhkld66c7hjklvn6a
@@ -62,5 +53,6 @@ t3uhikkjfzbxrvzkimoynght575nvzbwonchxlmber3aahxmhmsuw24wfoz4uuk42ks2ffhkld66c7hj
 In the future, we will hold conferences on distributed storage; exchange resources with public clouds (such as Aliyun, Amazon cloud and so on); also provide low - cost storage space, retrieval traffic in a period of time.
 
 ## (13) What challenges do you anticipate with this project?
-## (13)We are concerned about the accuracy and speed of retrieval
+## (13)
+We are concerned about the accuracy and speed of retrieval
 It is hoped that technical solutions can be provided to improve the accuracy and speed of retrieval.
