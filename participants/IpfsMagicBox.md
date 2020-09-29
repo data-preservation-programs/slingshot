@@ -14,10 +14,10 @@
 
 *Preview of the key interface of IpfsMagicBox shown below:*
 
-<img src="https://gateway.originprotocol.com/ipfs/QmP9UU68h4cikWJQBBA8av6oePzYnNAvf6mkRrghE89khg" width="375">
-<img src="https://gateway.originprotocol.com/ipfs/QmQbNGXVoLCrPBcwwV3Y9kUQiKsFkc5MwFFHkkJcxXtSJm" width="375">
-<img src="https://gateway.originprotocol.com/ipfs/QmeAtnQpMj4TMBKJHTavHpkTsfbm3bBYqvA1baQ27iUqSL" width="375">
-<img src="https://gateway.originprotocol.com/ipfs/QmSv4t4FSRPGD2HL2nigz898FNj9Vk9Sw3g5L3ynGyg16M" width="375">
+<img src="https://gateway.originprotocol.com/ipfs/QmP9UU68h4cikWJQBBA8av6oePzYnNAvf6mkRrghE89khg" style="display: inline-block;" width="375">
+<img src="https://gateway.originprotocol.com/ipfs/QmQbNGXVoLCrPBcwwV3Y9kUQiKsFkc5MwFFHkkJcxXtSJm" style="display: inline-block;" width="375">
+<img src="https://gateway.originprotocol.com/ipfs/QmeAtnQpMj4TMBKJHTavHpkTsfbm3bBYqvA1baQ27iUqSL" style="display: inline-block;" width="375">
+<img src="https://gateway.originprotocol.com/ipfs/QmSv4t4FSRPGD2HL2nigz898FNj9Vk9Sw3g5L3ynGyg16M" style="display: inline-block;" width="375">
 
 *Project's github link: [IpfsMagicBox](https://github.com/simonandhe/IpfsMagicBox)*
 
