@@ -3,7 +3,7 @@
 ## (0) Project Name and Team Slack Handles
 
 - Project Name: **Filflix**
-- Slack Handle: **hexcola**
+- Slack Handle: **hexcola**, **Like**
 
 ## (1) Brief Project Description
 
