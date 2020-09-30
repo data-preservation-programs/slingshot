@@ -35,3 +35,5 @@ If you would like to use a dataset that you don't see listed here, please submit
 | Audius | An American decentralized music platform developing the first community-owned and artist-controlled Music sharing protocol. | - | MP3 | https://audius.co/ |
 | Blackbird Dataset | A large-scale dataset for UAV perception in aggressive flight | 4.79 TB | - | https://academictorrents.com/details/eb542a231dbeb2125e4ec88ddd18841a867c2656 |
 | Linux ISO | Linux ISO Images | - | ISO | https://www.linuxlookup.com/linux_iso | 
+| ArchLinux | ArchLinux packages repository | 56 GB | Various | https://wiki.archlinux.org/index.php/Mirrors
+| CentOS | CentOS packages repository | 200 GB | Various | http://mirror.sesp.northwestern.edu/centos/
