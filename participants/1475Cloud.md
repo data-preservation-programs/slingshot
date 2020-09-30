@@ -53,7 +53,8 @@ sql catalogue/unstructured content
 no
 no
 no
-
+We have get some deal about cooperation date backup business. For example security camera record backup. At the same time we have stored about 200TB
+ data as the beginning and technical validation for these business.
 
 ## (6) How much data are you planning to store to the Filecoin network during the Slingshot competition?
 
