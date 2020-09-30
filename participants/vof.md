@@ -39,7 +39,7 @@ https://vof.ipfs9.com
 
 ## (9)  What tech stack will you use to store the data?
 
-*We plan to use mysql or elanticsearch to speed up search.*
+*We plan to use mysql or elanticsearch to speed up searching and use the lotus to store the real video files.*
 
 ## (10) How will you retrieve the data?
 
