@@ -11,6 +11,7 @@
       "name": "North America",
       "amount": 1,
       "minerAddresses": [
+        "t023586",
         "t02401",
         "t010088",
         "t022142",
@@ -37,6 +38,7 @@
       "name": "Europe",
       "amount": 1,
       "minerAddresses": [
+        "t08285",
         "t022405",
         "t023467",
         "t020352",
@@ -70,6 +72,7 @@
       "name": "Asia",
       "amount": 1,
       "minerAddresses": [
+        "t023202",
         "t020771",
         "t023229",
         "t022038",
