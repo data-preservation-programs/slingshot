@@ -3,7 +3,7 @@
 ## (0) Project Name and Team Slack Handles
 
 - Project Name: Three dimensional view of the universe
-- Filecoin Slack handles: 
+- Filecoin Slack handles: acelook201001
 
 ## (1) Brief Project Description
 
