@@ -13,7 +13,11 @@
 
 ## (2) Link to Project UI
 
-*http://impool.com/NeoBeat/#/ (need toggle device toolbar) *
+*http://www.impool.com/download/NeoBeat.apk (Android App)*
+
+*http://www.impool.com/NeoBeat (need toggle device toolbar)*
+
+*https://github.com/CourteousBin/Neo-Beat*
 
 ## (3) What does your application/UI do?
 
