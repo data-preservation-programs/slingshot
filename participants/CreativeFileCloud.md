@@ -8,8 +8,9 @@ Before submitting a PR containing your team's project information:
 
 *Please tell us your project's name and the Filecoin Slack handles for your teammates.*
 
-CreativeFileCloud
-https://filecoinproject.slack.com/team/U01BTSTHH7V
+Submission ID: 672718967
+Project name: CreativeFileCloud
+Slack handles: https://filecoinproject.slack.com/team/U01BTSTHH7V
 
 ## (1) Brief Project Description
 
@@ -33,7 +34,7 @@ For users who are concerned with data privacy, we will allow them encrypt and de
 
 *You can reference the [list of curated datasets in this repo](https://github.com/filecoin-project/slingshot/blob/master/datasets.md). If you'd like to use a dataset that is not on that list, please nominate your chosen dataset by updating the curated datasets table in this PR. If nominating a dataset, do you own or have exclusive rights to the data you plan to use?*
 
-We will using official dataset, also some files uploaded by users that under Creative Commons License.
+We will using official dataset (eg Flickr Commons), also some files uploaded by users that under Creative Commons License.
 
 ## (5) If your project is not using a curated dataset, please tell us a little bit more about your data by answering the questions below.
 
@@ -45,7 +46,7 @@ We have some creative studios partners. They are willing to share the work, and 
 
 *Give us as realistic an estimate as you possibly can at this stage. We understand it's impossible to have perfect information before really starting your project!*
 
-500TB
+500TB-2PB
 
 ## (7) How are you structuring the data?
 
@@ -63,7 +64,7 @@ Users upload data directly through our web client, and then we use Powergate tra
 
 *Either: Powergate, Hosted Powergate, Textile Hub/Buckets, lotus, or some other solution. Tell us what you're planning to use and how.*
 
-Use Powergate to pull the data from IPFS/Filecoin. If necessary, we may use some caching cloud solution.
+Use Powergate to store the data to IPFS/Filecoin.
 
 ## (10) How will you retrieve the data?
 
