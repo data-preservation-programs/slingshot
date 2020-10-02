@@ -17,7 +17,7 @@
 
 *http://www.impool.com/NeoBeat (need toggle device toolbar)*
 
-*https://github.com/CourteousBin/Neo-Beat*
+*https://github.com/CourteousBin/Neo-Beat (sourse code)*
 
 ## (3) What does your application/UI do?
 
