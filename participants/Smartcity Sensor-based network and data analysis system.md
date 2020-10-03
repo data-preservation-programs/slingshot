@@ -11,7 +11,7 @@ Before submitting a PR containing your team's project information:
 
 Project Name: Smartcity Sensor-based network and data analysis system 
 
-Slack user: anyi
+Slack user: klsmlzm
 
 ## (1) Brief Project Description
 
