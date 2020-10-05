@@ -49,6 +49,8 @@ If you need any additional assistance, feel free to email the Slingshot team at 
 |<img src="https://avatars2.githubusercontent.com/u/7520045?s=460&v=4" width="72"> | Michael Godsey | Infura        | Michael Godsey      | mbgodsey        |
 |<img src="https://avatars3.githubusercontent.com/u/225111?s=460&v=4" width="72"> | Mike Goelzer   | Protocol Labs | Mike - Protocol Labs | mgoelzer        |
 |<img src="https://avatars0.githubusercontent.com/u/47671066?s=460&v=4" width="72"> | Neo            | IPFS Main     | Neo Ge              | NeoGe-IPFSMain  |
+|<img src="" width="72"> |Steven Li   | IPFS Force     | Steven        | - |
+|<img src="" width="72"> |Harrison Hines    | Fleek     | Harrison Hines (Fleek) | -|  
 
 ## Miners
 
@@ -56,14 +58,15 @@ A Slingshot participant is alowed to make deals with any miner available on the 
 (The rules specify a minimum of 3 miners to be eligible for rewards).  In order to facilitate miner discovery, this repository maintains a [list of
 active miners](https://github.com/filecoin-project/slingshot/blob/master/miners.json) that are used by Textile's Hub, Powergate, and other solutions.  
 
-This miner list in JSON format will continue to evolve and clients are encouraged to use this updated list.
+This miner list in JSON format will continue to evolve and clients are encouraged to use this updated list.  Please note that this list is not intended as an endorsement and clients are free to use any other miner.
 
-Any miner that meets the eligibilty criteria outlined below can be added to this [list](https://github.com/filecoin-project/slingshot/blob/master/miners.json) by opening a PR.
+Any miner that meets the eligibilty criteria outlined below can be added to this [list](https://github.com/filecoin-project/slingshot/blob/master/miners.json) by opening a PR or commmenting on this [issue](https://github.com/filecoin-project/slingshot/issues/79).
 
 The eligibility criteria include:
 * The node is set to accept deal from any public client.
 * The node is reachable (can respond to a query-ask network request)
 * The node has power available.
-* The node is using the correct lotus version
+* The node is using the correct lotus version (v0.80)
 
 
+The list will remove any miners that don't meet the criteria above.
