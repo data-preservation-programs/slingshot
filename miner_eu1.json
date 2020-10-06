@@ -1,12 +1,14 @@
 {
   "buckets": [
-     {
+    {
       "name": "Europe",
       "amount": 1,
       "minerAddresses": [
-                "t01277"
+        "t08285",
+        "t022352",
+        "t02576",
+        "t08403"
       ]
     }
-
   ]
 }
