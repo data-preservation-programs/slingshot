@@ -37,4 +37,11 @@ If you would like to use a dataset that you don't see listed here, please submit
 | Linux ISO | Linux ISO Images | - | ISO | https://www.linuxlookup.com/linux_iso | 
 | ArchLinux | ArchLinux packages repository | 56 GB | Various | https://wiki.archlinux.org/index.php/Mirrors |
 | CentOS | CentOS packages repository | 200 GB | Various | http://mirror.sesp.northwestern.edu/centos/ |
-| Data is Plural | A variety of public, structured data sets. | - | Various | https://tinyletter.com/data-is-plural/archive | 
+| Data is Plural | A variety of public, structured data sets. | - | Various | https://tinyletter.com/data-is-plural/archive |
+| Tencent Corpus for Chinese Words and Phrases | Meant for AI purposes | 6.3 GB | Various | https://ai.tencent.com/ailab/nlp/en/embedding.html |
+| R-fMRI Maps Project | Medical data from neurological imaging | - | Various | http://mrirc.psych.ac.cn/RfMRIMaps |
+| National Palace Museum (Taiwan) | A variety of museum artifacts | - | Various | https://theme.npm.edu.tw/opendata/ | 
+
+
+
+
