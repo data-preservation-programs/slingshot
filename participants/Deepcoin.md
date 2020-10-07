@@ -45,7 +45,7 @@ Before submitting a PR containing your team's project information:
 
 (9) What tech stack will you use to store the data?
 
-	Data centers and object storage on the cloud.
+	File storage is currently done through Lotus
 
 (10) How will you retrieve the data?
 
