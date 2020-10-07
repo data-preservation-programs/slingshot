@@ -7,9 +7,9 @@ Before submitting a PR containing your team's project information:
 ## (0) Registration Submission, Project Name, and Team Slack Handles
 
 *Please provide the Submission ID from your [Slingshot registration confirmation](https://slingshot.filecoin.io/register-now).  Also, confirm your project's name and the Filecoin Slack handles for your teammates.*
-Submission ID: 674031618
-Project Name : Movies.AX
-Team Slack Handles: https://filecoinproject.slack.com/team/U017A7VN2JZ
+- Submission ID: 674031618
+- Project Name : Movies.AX
+- Team Slack Handles: https://filecoinproject.slack.com/team/U017A7VN2JZ
 ## (1) Brief Project Description
 
 MoviesAX is a website  by that allows users to watch free public domain movies 
@@ -24,9 +24,9 @@ This simple project demonstrate using FileCoin and IPFS network to save and play
 
 Front-end:
 
-Python Django as frontend
-Video.js to play video
-Video is stored in hot and cold storage. Once user choose to view video, it will check if the video is cached, then play immediately. Otherwise, it download the video to the cache location.
+- Python Django as frontend
+- Video.js to play video
+- Video is stored in hot and cold storage. Once user choose to view video, it will check if the video is cached, then play immediately. Otherwise, it download the video to the cache location.
 
 
 ## (4) If your project is using a curated dataset, which one are you using?
@@ -45,8 +45,8 @@ N/A
 
 ## (7) How are you structuring the data?
 
-A simple database that mapping video and CID to able to retrieve data.
-A cache to store data so it does not need to download from hot/cold storage everytime playing video.
+- A simple database that mapping video files and CID to able to retrieve data.
+- A cache to store data so it does not need to download from hot/cold storage everytime playing video.
 
 ## (8) What pre-processing are you doing before ingesting the data?
 
@@ -54,18 +54,19 @@ No pre-processing need, send direct movies with its format (mp4, ogg, avi)
 
 ## (9)  What tech stack will you use to store the data?
 
-Using Powergate to push data to cold and hot storage
-PyGate to connect from Python script
-PostGresSQL to store database that mapping CID and movies
-PostGresSQL stores movie meta data (plot, review etc) (wip)
-IPFS Python client/pow to download file
+- Using Powergate to push data to cold and hot storage
+- PyGate to connect from Python script
+- PostGresSQL to store database that mapping CID and movies
+- PostGresSQL stores movie meta data (plot, review etc) (wip)
+- IPFS Python client/pow to download file
+- Source code: https://github.com/vht210/moviesax
 
 ## (10) How will you retrieve the data?
 
-When end user choose a movie, the application will check if movie is already in application static folder (cache), 
+- When end user choose a movie, the application will check if movie is already in application static folder (cache), 
 then will send directly to users.
-If not, it uses ipfs/pow client to fetch from hot storage and probably from cold storage.
-During that time, A webpage displays to show to end user some wait time expected.
+- If not, it uses ipfs/pow client to fetch from hot storage and probably from cold storage.
+- During that time, A webpage displays to show to end user some wait time expected.
 
 ## (11) Who is the intended user for your application/UI?
 
