@@ -26,7 +26,7 @@ Initially, ~100 TiB. We plan to onboard new users and migrate our existing user 
 We are storing data in an unstructured manner. Everytime a user uploads a file we store a mapping of the user account to the file as well as a link that can be used to retrieve the data.
 
 ## (8) What pre-processing are you doing before ingesting the data?
-Files will be encrypted on the client side (currently done server side). After the user has chosen a lifetime for their files, they are uploaded to our server and directly into IPFS for caching and Filecoin for cold storage. There we store a mapping between their user ID and the CID of their file. The CID is returned to the user which they can then use to retrieve the data again.   
+Files will be encrypted on the client side (comming soon). After the user has chosen a lifetime for their files, they are uploaded to our server and directly into IPFS for caching and Filecoin for cold storage. There we store a mapping between their user ID and the CID of their file. The CID is returned to the user which they can then use to retrieve the data again.   
 
 ## (9)  What tech stack will you use to store the data?
 We are using Powergate.
@@ -38,7 +38,7 @@ We use IPFS as the primary caching layer. Users that want to make their download
 Everyone that wants to share large files in a fast, secure and cost effective way.
 
 ## (12) Do you have any users already or plans to acquire users soon?
-Yes, we’re trying to fill the gap the Mozilla Send’s shutdown has left in the market. We’ve initially been targeting previous users of Mozilla Send.
+Yes, we’re trying to fill the gap the Mozilla Send’s shutdown has left in the market. We’ve initially been targeting previous users of Firefox Send.
 
 ## (13) What challenges do you anticipate with this project?
 - Manage the lifetime of user files and optimize the distribution of files between hot and cold storage. 
