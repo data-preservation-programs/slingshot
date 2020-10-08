@@ -23,7 +23,7 @@ http://113.31.119.110
 *redis and mysql*
 
 ## (5) If your project is not using a curated dataset, please tell us a little bit more about your data by answering the questions below.
-
+*There is no complete data in our application, and the data uploaded to the IPFS network will be reviewed by another copyritht checking model, later.*
 
 ## (6) How much data are you planning to store to the Filecoin network during the Slingshot competition?
 
