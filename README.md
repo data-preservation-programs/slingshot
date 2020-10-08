@@ -50,7 +50,7 @@ If you need any additional assistance, feel free to email the Slingshot team at 
 |<img src="https://avatars3.githubusercontent.com/u/225111?s=460&v=4" width="72"> | Mike Goelzer   | Protocol Labs | Mike - Protocol Labs | mgoelzer        |
 |<img src="https://avatars0.githubusercontent.com/u/47671066?s=460&v=4" width="72"> | Neo            | IPFS Main     | Neo Ge              | NeoGe-IPFSMain  |
 |<img src="https://avatars2.githubusercontent.com/u/10411723?s=460&v=4" width="72"> |Steven Li   | IPFS Force     | Steven        | steven004 |
-|<img src="" width="72"> |Harrison Hines    | Fleek     | Harrison Hines (Fleek) | -|  
+|<img src="https://avatars1.githubusercontent.com/u/49757531?s=460&v=4" width="72"> |Harrison Hines    | Fleek     | Harrison Hines (Fleek) | hhterminal |  
 
 ## Miners
 

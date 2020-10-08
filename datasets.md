@@ -41,7 +41,7 @@ If you would like to use a dataset that you don't see listed here, please submit
 | Tencent Corpus for Chinese Words and Phrases | Meant for AI purposes | 6.3 GB | Various | https://ai.tencent.com/ailab/nlp/en/embedding.html |
 | R-fMRI Maps Project | Medical data from neurological imaging | - | Various | http://mrirc.psych.ac.cn/RfMRIMaps |
 | National Palace Museum (Taiwan) | A variety of museum artifacts | - | Various | https://theme.npm.edu.tw/opendata/ | 
-
-
+| Congressional Datasets | Videos of meetings as well as textual legislative data. | - | Various | https://www.congress.gov/ | 
+| Unsplash | The internet’s source of freely-usable images. | 931 MB | jpeg | https://unsplash.com/ | 
 
 
