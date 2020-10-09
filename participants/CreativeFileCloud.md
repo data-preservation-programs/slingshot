@@ -14,7 +14,7 @@ Slack handles: https://filecoinproject.slack.com/team/U01BTSTHH7V
 
 ## (1) Brief Project Description
 
-CreativeFileCloud combines the unlimited scale of public or private object stores with a fast, familiar NAS experience. Mainly for designers, video producers, and creative studios, they have a large number of file storage needs, and these files are cold storage, not often read, for backup purposes.
+CreativeFileCloud combines the unlimited scale of public or private object stores with a fast, familiar NAS experience. Mainly for designers, photographer, video producers, and creative studios, they have a large number of file storage needs, and these files are cold storage, not often read, for backup purposes. 
 
 ## (2) Link to Project UI
 
@@ -34,7 +34,7 @@ For users who are concerned with data privacy, we will allow them encrypt and de
 
 *You can reference the [list of curated datasets in this repo](https://github.com/filecoin-project/slingshot/blob/master/datasets.md). If you'd like to use a dataset that is not on that list, please nominate your chosen dataset by updating the curated datasets table in this PR. If nominating a dataset, do you own or have exclusive rights to the data you plan to use?*
 
-We will using official dataset (eg Flickr Commons), also some files uploaded by users that under Creative Commons License.
+We will using official dataset (eg Flickr Commons, Open Images Dataset, Unsplash), also some files uploaded by users that under Creative Commons License.
 
 ## (5) If your project is not using a curated dataset, please tell us a little bit more about your data by answering the questions below.
 
@@ -64,7 +64,7 @@ Users upload data directly through our web client, and then we use Powergate tra
 
 *Either: Powergate, Hosted Powergate, Textile Hub/Buckets, lotus, or some other solution. Tell us what you're planning to use and how.*
 
-Use Powergate to store the data to IPFS/Filecoin.
+Use Powergate to store the data to IPFS/Filecoin. Also Will use lotus directly for some large files.
 
 ## (10) How will you retrieve the data?
 
@@ -76,7 +76,7 @@ We will cache some hot data with aws cloud and google cloud, also users can retr
 
 *Who do you anticipate will use your project/dataset?*
 
-Designers, Video producers, and Creative studios etc.
+Designers, Photographer, Video producers, and Creative studios etc.
 
 ## (12) Do you have any users already or plans to acquire users soon?
 
