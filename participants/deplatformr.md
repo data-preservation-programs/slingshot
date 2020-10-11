@@ -44,7 +44,7 @@ After we download a photograph from the Flickr servers, we verify its fixity aga
 
 ## (9)  What tech stack will you use to store the data?
 
-We are using our own hosted Powergate server that we access via the [Pygate](https://github.com/pygate/pygate-gRPC) gRPC Python client that our team developed as part of the [HackFS](https://hackfs.com/) event. Pygate was one of the 10 finalists. We've built a basic Python micro-services [pipeline](https://github.com/deplatformr/open-images) to automate the download, packaging and Filecoin upload. 
+We are using our own Powergate server hosted on AWS that we access via the [Pygate](https://github.com/pygate/pygate-gRPC) gRPC Python client that our team developed as part of the [HackFS](https://hackfs.com/) event. Pygate was one of the 10 finalists. We've built a basic Python micro-services [pipeline](https://github.com/deplatformr/open-images) to automate the download, packaging and Filecoin upload. 
 
 ## (10) How will you retrieve the data?
 
