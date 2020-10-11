@@ -18,7 +18,7 @@ https://open-images.deplatformr.com/map
 
 ## (3) What does your application/UI do?
 
-The application will let users browse geotagged Open Image photographs via a map interface.
+The application will let users browse geotagged Open Image photographs via a map interface and annotation labels.
 
 This is an experimental R&D project intended to glean new insights into the combination of extracted photograph metadata with machine learning annotations. The application will provide a map interface with pin points for Open Image photographs that have embedded latitude and longitude properties (about 3% of the total dataset of 9 million images). The photographs will include their annotation labels, segmentations and bounded boxes. The hypothesis is that new information will emerge about a give geolocation as a result of this overlay.
 
