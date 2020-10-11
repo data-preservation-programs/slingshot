@@ -40,24 +40,26 @@ Currently the Open Images "dataset" consists of photographs hosted on Flickr ser
 
 ## (8) What pre-processing are you doing before ingesting the data?
 
-*How will you prepare this data for ingestion into Filecoin? What size storage deals will you be making? If this is a tabular dataset or directory structure, how will you maintain indices into the data so you can retrieve specific data as needed for your application? This is currently one of the most important steps to being successful with data storage on Filecoin. Feel free to ask for help and/or look at docs for recommendations!*
+After we download a photograph from the Flickr servers, we verify its fixity against its MD5 checksum, then we extract EXIF metadata from the JPG files, giving us additional context not provided by the Open Image CSV data. Then we query the CSVs for all the disparate training, validation and testing annotation data for the image labels, bounded boxes and segmentations. We then combine all this metadata in a linked data [JSON-LD](https://json-ld.org/) format based on the [schema.org/ImageObject](https://schema.org/ImageObject) profile. This is bunlded with the segmentation PNG files into a [Bagit](https://schema.org/ImageObject) container. We cap each batch at 1 GiB and create a single tarball from it that is uploaded to Filecoin.
 
 ## (9)  What tech stack will you use to store the data?
 
-*Either: Powergate, Hosted Powergate, Textile Hub/Buckets, lotus, or some other solution. Tell us what you're planning to use and how.*
+We are using our own hosted Powergate server that we access via the [Pygate](https://github.com/pygate/pygate-gRPC) gRPC Python client that our team developed as part of the [HackFS](https://hackfs.com/) event. Pygate was one of the 10 finalists. We've built a basic Python micro-services [pipeline](https://github.com/deplatformr/open-images) to automate the download, packaging and Filecoin upload. 
 
 ## (10) How will you retrieve the data?
 
-*Share some more information about the data retrieval plans for your application? How often does the data need to be retrieved? What is the size of each individual read? Do you need to retrieve from Filecoin (colder storage) or from an intermediate caching layer, like IPFS? How will your application/UI retrieve the necessary data and expose it/interact with it in the UI?*
+The photographs used for the map application will be cached on IPFS since they are a small subset of the total dataset. An index mapping photographs to their tarball packages and the Filecion CIDs for those pacakges will be maintained in replicated SQLite files that will also be cached on IPFS. Rebuilding the entire Open Images dataaset will require retrieval of these packages from Filecoin. 
 
 ## (11) Who is the intended user for your application/UI?
 
-*Who do you anticipate will use your project/dataset?*
+The intended users of the Slingshot application will be machine learning researchers who might be looking for a new approach to working with the Open Images dataset, namely by cross-referencing geodata with machine learning annotations. 
+
+We are also applying industry standard archival practices for the long-term preservation of Open Images dataset so that this invaluable dataset remains accessible and usable to future machine learning researchers. Additionally, the Deplatformr project will be a consumer of this dataset as we embark on a process to train and secure personal machine learning models. 
 
 ## (12) Do you have any users already or plans to acquire users soon?
 
-*Yes/no. Also, please tell us a little bit about your future plans for user acquisition.*
+We have undergone a first round of [user testing](https://deplatformr.substack.com/p/help-us-test-our-prototype) of the Deplatformr prototype as part of the [Gitcoin Apollo](https://gitcoin.co/hackathon/filecoin/) program. Our project is only a month old so we expect to remain in early stage R&D for the immediate future.
 
 ## (13) What challenges do you anticipate with this project?
 
-*We'd love to know what you're most worried about so we can help as much as possible. Let us know what you anticipate to be the biggest challenges with this project!*
+We entered the Slingshot competition late so the time it takes to seal storage deals is a concern as is high network gas fees and unpredictable storage prices. For ourselves, a challenge will be rebuilding the entire 18TB dataset from the packages stored on Filecoin. We are not certain yet about the cost and performance requirements to accomplish this. 
