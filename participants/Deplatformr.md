@@ -14,7 +14,7 @@ The broader goal of the Deplatformr project is to liberate user data from social
 
 ## (2) Link to Project UI
 
-https://open-images.deplatformr.com/map
+http://open-images.deplatformr.com
 
 ## (3) What does your application/UI do?
 
