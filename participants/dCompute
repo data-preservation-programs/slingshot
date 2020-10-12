@@ -53,7 +53,7 @@ We will be dividing the data into individual book files before uploading to File
 (9) What tech stack will you use to store the data?
 Either: Powergate, Hosted Powergate, Textile Hub/Buckets, lotus, or some other solution. Tell us what you're planning to use and how.
 
-We will be using Textile Hub/Buckets to upload the data.
+We will be using lotus to upload the data.
 
 (10) How will you retrieve the data?
 Share some more information about the data retrieval plans for your application? How often does the data need to be retrieved? What is the size of each individual read? Do you need to retrieve from Filecoin (colder storage) or from an intermediate caching layer, like IPFS? How will your application/UI retrieve the necessary data and expose it/interact with it in the UI?
