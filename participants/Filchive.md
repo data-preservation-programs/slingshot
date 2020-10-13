@@ -16,7 +16,7 @@ Before submitting a PR containing your team's project information:
 
 ## (2) Link to Project UI
 
-UI link: https://filchive.github.io/
+UI link: http://filchive.xyz/
 
 project repository: https://github.com/filchive/filchive.git
 
