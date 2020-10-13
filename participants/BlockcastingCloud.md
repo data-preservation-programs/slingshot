@@ -14,7 +14,7 @@ Blockcasting Cloud is a decentralized network disk which allows users to store p
 
 http://slingshot.litianc.cn
 
-(The [link](http://slingshot.blockcasting.io) used when applying for Slingshot Dashborad has expired)
+*The [link](http://slingshot.blockcasting.io) used when applying for Slingshot Dashborad has expired*
 
 ## (3) What does your application/UI do?
 
