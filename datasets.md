@@ -43,5 +43,6 @@ If you would like to use a dataset that you don't see listed here, please submit
 | National Palace Museum (Taiwan) | A variety of museum artifacts | - | Various | https://theme.npm.edu.tw/opendata/ | 
 | Congressional Datasets | Videos of meetings as well as textual legislative data. | - | Various | https://www.congress.gov/ | 
 | Unsplash | The internet’s source of freely-usable images. | 931 MB | jpeg | https://unsplash.com/ | 
+| Project Gutenberg | online library of free eBooks - english  | 60GB | various | https://www.gutenberg.org |
 
 
