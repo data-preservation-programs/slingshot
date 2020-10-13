@@ -34,24 +34,31 @@ imageorbit.space
 ## (3) What does your application/UI do?
 
 First, The researchers and students in AI area could get the image big data set from ImageOrbit.
+
 Secondly, user could annotate the image and get reword from this system.
+
 In the future, User could also submit and share their own image data set.
 
 ## (4) If your project is using a curated dataset, which one are you using?
 
 We use the curated datasets (open image dateset of google).
+
 The original dataset of ImageNet is also used. It's still no in curated datasets list.
+
 They are all public data set. We follow the same rule.
 
 ## (5) If your project is not using a curated dataset, please tell us a little bit more about your data by answering the questions below.
 
 We download the public images as ImageNet/(Google open image) do.
+
 There is no any sensitive or illegal information.
 
 ## (6) How much data are you planning to store to the Filecoin network during the Slingshot competition?
 
 10T-30T
+
 download the images url of imagenet and google open image dataset: 20T
+
 extend this dataset: 10T
 
 ## (7) How are you structuring the data?
@@ -82,7 +89,9 @@ Researchers and students in AI and big data research area.
 
 yes.
 1 Some researcher has download the images from our site. 
+
 2 For cost reason, the imageNet hasn't provide full images download services for about 2 years. But ImageOrbit could provide the unlimited download services for researchers benefitting from the low lost and public feature of Filecoin/IPFS.
+
 3 We will also design the plugin for popular AI system like tenserflow/keras etc to promote the application of ImageOrbit.
 
 ## (13) What challenges do you anticipate with this project?
