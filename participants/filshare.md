@@ -45,7 +45,7 @@ Slack: Seven
 
 ## (9)  What tech stack will you use to store the data?
 
-*Powergate,we will use api to do this.*
+*Powergate*
 
 ## (10) How will you retrieve the data?
 
@@ -57,7 +57,7 @@ Slack: Seven
 
 ## (12) Do you have any users already or plans to acquire users soon?
 
-*no, we are preparing for our first user.*
+*yes, we are preparing for our first user.*
 
 ## (13) What challenges do you anticipate with this project?
 
