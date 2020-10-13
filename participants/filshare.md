@@ -1,10 +1,15 @@
 # Filshare
+Before submitting a PR containing your team's project information:
 
+Make sure you rename this file to contain your project's name
+Respond to add your response in each section below
 
 ## (0) Project Name and Team Slack Handles
 
 Project Name:Filshare
 Slack: Seven
+Submission ID: 677173782
+
 
 ## (1) Brief Project Description
 
@@ -21,7 +26,7 @@ Slack: Seven
 
 ## (4) If your project is using a curated dataset, which one are you using?
 
-*Various*
+*GHTorrent Project、Open Images Dataset、Internet Archive and so on*
 
 ## (5) If your project is not using a curated dataset, please tell us a little bit more about your data by answering the questions below.
 
@@ -41,7 +46,7 @@ Slack: Seven
 
 ## (9)  What tech stack will you use to store the data?
 
-*Powergate*
+*lotus*
 
 ## (10) How will you retrieve the data?
 
