@@ -87,7 +87,8 @@ Researchers and students in AI and big data research area.
 
 ## (12) Do you have any users already or plans to acquire users soon?
 
-yes.
+Yes.
+
 1 Some researcher has download the images from our site. 
 
 2 For cost reason, the imageNet hasn't provide full images download services for about 2 years. But ImageOrbit could provide the unlimited download services for researchers benefitting from the low lost and public feature of Filecoin/IPFS.
