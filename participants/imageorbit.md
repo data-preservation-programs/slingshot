@@ -2,10 +2,10 @@
 
 ## (0) Registration Submission, Project Name, and Team Slack Handles
 
-*Please provide the Submission ID from your [Slingshot registration confirmation](https://slingshot.filecoin.io/register-now).  Also, confirm your project's name and the Filecoin Slack handles for your teammates.*
-
 Submission id:675772268
+
 project name:ImageOrbit
+
 Filecoin Slack handle:mariswang
 
 ## (1) Brief Project Description
@@ -28,8 +28,7 @@ Comparation of ImageOrbit and ImageNet
 
 ## (2) Link to Project UI
 
-mageorbit.space
-(in design)
+imageorbit.space
 
 
 ## (3) What does your application/UI do?
