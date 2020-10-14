@@ -1,0 +1,84 @@
+Before submitting a PR containing your team's project information:
+
+Make sure you rename this file to contain your project's name
+Respond to add your response in each section below
+(0) Registration Submission, Project Name, and Team Slack Handles
+Please provide the Submission ID from your Slingshot registration confirmation. Also, confirm your project's name and the Filecoin Slack handles for your teammates.
+
+Submission ID: 676377406
+Project Name: dCompute
+Team Slack handles: @s0nik42, @alessandro voto, @Anmol
+
+(1) Brief Project Description
+
+dCompute is a decentralized grid computing & storage solution built on Golem and Filecoin.
+
+(2) Link to Project UI
+
+https://github.com/alexvotofuture/dcompute
+
+(3) What does your application/UI do?
+
+Our application runs Dockerized computing tasks across a distributed network of worker nodes, using input data pulled from Filecoin.
+
+Our first use case is a text-to-speech converter that creates audiobooks from public domain books uploaded to Project Gutenberg.
+
+(4) If your project is using a curated dataset, which one are you using?
+You can reference the list of curated datasets in this repo. If you'd like to use a dataset that is not on that list, please nominate your chosen dataset by updating the curated datasets table in this PR. If nominating a dataset, do you own or have exclusive rights to the data you plan to use?
+
+We will be nominating Project Gutenberg.
+
+(5) If your project is not using a curated dataset, please tell us a little bit more about your data by answering the questions below.
+What sorts of data will you collect? Do you own or have exclusive rights to the data you plan to use? Is the data license available online? Does the data contain any sensitive or illegal information?
+
+We will bulk download books from Project Gutenberg. These books are in the public domain, giving us the right to download and use them. This data set does not use sensitive or illegal information.
+
+More information on Project Gutenberg available here: https://www.gutenberg.org/help/faq.html
+
+(6) How much data are you planning to store to the Filecoin network during the Slingshot competition?
+Give us as realistic an estimate as you possibly can at this stage. We understand it's impossible to have perfect information before really starting your project!
+
+60GB
+
+(7) How are you structuring the data?
+Is this structured or unstructured data? What data formats, schemas, etc. does this dataset follow?
+
+All files are unstructured plaintext.
+
+(8) What pre-processing are you doing before ingesting the data?
+How will you prepare this data for ingestion into Filecoin? What size storage deals will you be making? If this is a tabular dataset or directory structure, how will you maintain indices into the data so you can retrieve specific data as needed for your application? This is currently one of the most important steps to being successful with data storage on Filecoin. Feel free to ask for help and/or look at docs for recommendations!
+
+We will be dividing the data into individual book files before uploading to Filecoin. This will ensure a single book can be selected for retrieval.
+
+(9) What tech stack will you use to store the data?
+Either: Powergate, Hosted Powergate, Textile Hub/Buckets, lotus, or some other solution. Tell us what you're planning to use and how.
+
+We will be using lotus to upload the data.
+
+(10) How will you retrieve the data?
+Share some more information about the data retrieval plans for your application? How often does the data need to be retrieved? What is the size of each individual read? Do you need to retrieve from Filecoin (colder storage) or from an intermediate caching layer, like IPFS? How will your application/UI retrieve the necessary data and expose it/interact with it in the UI?
+
+Our first use case will pull a book (~1-5 MB filesize) for conversion when a text-to-speech request is made and paid for. The book can be retrieved directly from Filecoin, but ideally would be pulled from a retrieval market or IPFS.
+
+The book file will then be downloaded by Golem worker nodes and plugged into their text-to-speech Docker container, where they will perform the conversion and return the work via Golem.
+
+Beyond the first use case, we will allow users to index their own datasets and make them available to worker nodes in an efficient and quick way.
+
+(11) Who is the intended user for your application/UI?
+Who do you anticipate will use your project/dataset?
+
+Our first use case will address bibliophiles, especially those with visual impairment.
+
+Thereafter, we plan to address the wider market for cloud computing and storage, addressing any
+
+(12) Do you have any users already or plans to acquire users soon?
+Yes/no. Also, please tell us a little bit about your future plans for user acquisition.
+
+We will share both audiobook files and the conversion UI with literary communities on Reddit and other online forums. We will also reach out to the Internet Archive's community to see if they are interested in a similar approach for online text tiles.
+
+Our full release will target data scientists, finance professionals, medical researchers, climate scientists, and others who rely on massive-scale computing and storage to solve the world's toughest problems.
+
+(13) What challenges do you anticipate with this project?
+We'd love to know what you're most worried about so we can help as much as possible. Let us know what you anticipate to be the biggest challenges with this project!
+
+Our biggest concern is our dependence on Golem's roadmap, which will determine whether we can provide and guarantee private computing and performant computing in general. This is critical, since our solution needs to be not just decentralized for sensitive computations and data, but also performant enough to be worth using for real researchers, professionals, and archivists.
