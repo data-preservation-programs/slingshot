@@ -53,7 +53,7 @@ If you need any additional assistance, feel free to email the Slingshot team at 
 |<img src="https://avatars1.githubusercontent.com/u/69976222?s=400&v=4" width="72"> |Harrison Hines    | Fleek     | Harrison Hines (Fleek) | hhterminal |  
 |<img src="https://avatars2.githubusercontent.com/u/72719649?s=460&v=4" width="72"> |Rin Huang | Fenbushi Capital | USGHPMT3N | Rin-huang | 
 |<img src="https://avatars0.githubusercontent.com/u/13160878?s=400&v=4" width="72"> |Alex Feerst | Neuralink | Alex Feerst | feerst | 
-
+|<img src="https://avatars1.githubusercontent.com/u/10427807?s=460v=4" width="72"> |Robert Drost | ConsenSys | Roert Drost | rjdrost | 
 
 
 ## Miners
