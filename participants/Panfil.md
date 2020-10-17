@@ -7,7 +7,7 @@
 
 ## (1) Brief Project Description
 
-We want to provide commonly used, free or used software for users to download through the app. Because now a lot of downloaded software will be bundled with a variety of software or advertising. We want to provide advertising free, high quality interface and faster download speed.
+We want to supply storage for IDC log data. We may have expected lots of  log data since IDC data center must produce huge data everyday. We can afford the good price for storing .
 
 
 ## (2) Link to Project UI
@@ -29,7 +29,7 @@ We provide the data from our IDC switch log Now.
 
 ## (6) How much data are you planning to store to the Filecoin network during the Slingshot competition?
 
-We will store these dataset about 6TiB ~ 10TiB during the slingshot competition.
+We will store these dataset about 10TiB during the slingshot competition.
 
 ## (7) How are you structuring the data?
 
