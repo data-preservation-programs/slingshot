@@ -47,11 +47,11 @@ If you need any additional assistance, feel free to email the Slingshot team at 
 |<img src="https://avatars2.githubusercontent.com/u/33686587?s=460&v=4" width="72"> | Martina  Long  | Slate Team    | Martina Long        | martinalong     |
 |<img src="https://avatars1.githubusercontent.com/u/7811297?s=460&v=4" width="72"> | Matt Ober      | Pinata        | Matt Ober           | obo20           |
 |<img src="https://avatars2.githubusercontent.com/u/7520045?s=460&v=4" width="72"> | Michael Godsey | Infura        | Michael Godsey      | mbgodsey        |
-|<img src="https://avatars3.githubusercontent.com/u/225111?s=460&v=4" width="72"> | Mike Goelzer   | Protocol Labs | Mike - Protocol Labs | mgoelzer        |
+|<img src="https://avatars3.githubusercontent.com/u/225111?s=460&v=4" width="72"> | Mike Goelzer   | Protocol Labs | mike-pl | mgoelzer |
 |<img src="https://avatars0.githubusercontent.com/u/47671066?s=460&v=4" width="72"> | Neo            | IPFS Main     | Neo Ge              | NeoGe-IPFSMain  |
 |<img src="https://avatars2.githubusercontent.com/u/10411723?s=460&v=4" width="72"> |Steven Li   | IPFS Force     | Steven        | steven004 |
 |<img src="https://avatars1.githubusercontent.com/u/69976222?s=400&v=4" width="72"> |Harrison Hines    | Fleek     | Harrison Hines (Fleek) | hhterminal |  
-|<img src="https://avatars2.githubusercontent.com/u/72719649?s=460&v=4" width="72"> |Rin Huang | Fenbushi Capital | USGHPMT3N | Rin-huang | 
+|<img src="https://avatars2.githubusercontent.com/u/72719649?s=460&v=4" width="72"> |Rin Huang | Fenbushi Capital | Rin | Rin-huang | 
 |<img src="https://avatars0.githubusercontent.com/u/13160878?s=400&v=4" width="72"> |Alex Feerst | Neuralink | Alex Feerst | feerst | 
 |<img src="https://avatars1.githubusercontent.com/u/10427807?s=460v=4" width="72"> |Robert Drost | ConsenSys | Roert Drost | rjdrost | 
 
