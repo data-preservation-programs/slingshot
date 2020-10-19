@@ -34,15 +34,14 @@ If you would like to use a dataset that you don't see listed here, please submit
 | Arxiv | Scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, and more. | - | PDF | https://arxiv.org/ |
 | Audius | An American decentralized music platform developing the first community-owned and artist-controlled Music sharing protocol. | - | MP3 | https://audius.co/ |
 | Blackbird Dataset | A large-scale dataset for UAV perception in aggressive flight | 4.79 TB | - | https://academictorrents.com/details/eb542a231dbeb2125e4ec88ddd18841a867c2656 |
-| Linux ISO | Linux ISO Images | - | ISO | https://www.linuxlookup.com/linux_iso | 
+| Linux ISO | Linux ISO Images | - | ISO | https://www.linuxlookup.com/linux_iso |
 | ArchLinux | ArchLinux packages repository | 56 GB | Various | https://wiki.archlinux.org/index.php/Mirrors |
 | CentOS | CentOS packages repository | 200 GB | Various | http://mirror.sesp.northwestern.edu/centos/ |
 | Data is Plural | A variety of public, structured data sets. | - | Various | https://tinyletter.com/data-is-plural/archive |
 | Tencent Corpus for Chinese Words and Phrases | Meant for AI purposes | 6.3 GB | Various | https://ai.tencent.com/ailab/nlp/en/embedding.html |
 | R-fMRI Maps Project | Medical data from neurological imaging | - | Various | http://mrirc.psych.ac.cn/RfMRIMaps |
-| National Palace Museum (Taiwan) | A variety of museum artifacts | - | Various | https://theme.npm.edu.tw/opendata/ | 
-| Congressional Datasets | Videos of meetings as well as textual legislative data. | - | Various | https://www.congress.gov/ | 
-| Unsplash | The internet’s source of freely-usable images. | 931 MB | jpeg | https://unsplash.com/ | 
+| National Palace Museum (Taiwan) | A variety of museum artifacts | - | Various | https://theme.npm.edu.tw/opendata/ |
+| Congressional Datasets | Videos of meetings as well as textual legislative data. | - | Various | https://www.congress.gov/ |
+| Unsplash | The internet’s source of freely-usable images. | 931 MB | jpeg | https://unsplash.com/ |
 | Project Gutenberg | online library of free eBooks - english  | 60GB | various | https://www.gutenberg.org |
-
-
+| Storm EVent ImageRy (SEVIR) | Collection of spatially and temporally aligned GOES-16 ABI satellite imagery, NEXRAD radar mosaics, and GOES-16 GLM lightning detections. | 951.5 GiB | .h5 | https://nbviewer.jupyter.org/github/MIT-AI-Accelerator/eie-sevir/blob/master/examples/SEVIR_Tutorial.ipynb |
