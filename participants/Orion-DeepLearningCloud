@@ -1,0 +1,67 @@
+# Orion Deep Learning Cloud
+
+
+## (0) Project Name and Team Slack Handles
+Orion Deep Learning Cloud
+@Charles Cao - NBFS
+
+## (1) Brief Project Description
+
+Nebula AI is a container-based cloud computing solution provider headquartered in Montreal, Canada. Orion Cloud Computing has created a complete intelligent edge cloud computing ecosystem through its own intellectual property rights distributed container cloud computing, S3/Azure cloud storage system and data center management solutions. Through the multi-center computing solution, the utilization rate of resources is maximized, saving up to 70% of operating costs for users, helping enterprises to deploy globally and integrating cross-border data center resources.
+
+Currently Orion has a General Storage Service (GS2) store unstructured data such as photos, videos, log files, backups and container images compatible with Amazon S3 cloud storage service. GS2 is a hot storage with a limitation of 5TB. With this project, we want to integrate Filecoin storage as an alternative choice of S3/Azure and also working as a cold storage solution for GS2.
+
+This project is currently under Canada Next Generation Network support.
+
+
+## (2) Link to Project UI
+https://nbai.io/dashboard
+Project Video https://youtu.be/FzFNgC4sL3g
+GS2 https://youtu.be/NhwUO2xpb-A
+
+
+## (3) What does your application/UI do?
+
+When User using Orion cloud user can create a customized user key for protect his content before upload the content. The key will be used for encrypting and decrypt the data, but he can also upload the data without encryption.  He can view the data he uploaded in the UI and downloaded to local system. He can also use another service module called Notebook for Deep learning service.
+
+## (4) If your project is using a curated dataset, which one are you using?
+It is up to the user, we have a sample code of Obama lecture for voice recognition, which is a public dataset.  https://github.com/nebulaai/voice-recognition
+Some data like 
+COVID-19 Open Research Dataset	An AI challenge with AI2, CZI, MSR, Georgetown, NIH & The White House	19 GB	JSON	https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge
+
+
+
+Can also be used for training,
+
+## (5) If your project is not using a curated dataset, please tell us a little bit more about your data by answering the questions below.
+
+When user decide to upload the data according to his own needs, he 
+
+## (6) How much data are you planning to store to the Filecoin network during the Slingshot competition?
+
+100TB -1PB
+## (7) How are you structuring the data?
+
+It is unstructured data managed by user
+
+## (8) What pre-processing are you doing before ingesting the data?
+
+According to the users need, it might need to be encrypted if the data is sensitive.
+
+## (9)  What tech stack will you use to store the data?
+
+Powergate
+
+## (10) How will you retrieve the data?
+Powergate is used for retrieve data, the data need to be retrieved according to user needs, might be daily. If it is daily local IPFS hot storage will be used for it. They can also using our GS2 object storage for datasets, but we have a 5 TB limit of GS2 service.
+## (11) Who is the intended user for your application/UI?
+
+Users who are using GPU or other deep learning purpose.
+
+## (12) Do you have any users already or plans to acquire users soon?
+
+Yes, we already have 2000 registered users.
+
+## (13) What challenges do you anticipate with this project?
+
+Filesize limit will be an issue. The data encryption part will be challenge as well.

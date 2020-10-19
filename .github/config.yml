@@ -1,0 +1,27 @@
+blank_issues_enabled: false
+
+newPRWelcomeComment: |
+  Thanks for submitting an application and welcome to Slingshot!
+
+  Our team will validate your entry shortly, to help us process this quickly please ensure all questions are complete, you have a [Filecoin Slack](https://filecoin.io/slack/) account and you have completed the [registration form](https://slingshot.filecoin.io/register-now/) on our Slingshot site.
+
+firstPRMergeComment: |
+  :zap: Congratulations. Your application has been approved and merged as an official participant for the Slingshot competition! :zap:
+
+  It is your responsibility to follow the [rules](https://slingshot.filecoin.io/rules) and spirit of the competition to remain eligible for rewards.
+
+  Here are a few important resources to help you get started:
+
+  [Competition Home](https://slingshot.filecoin.io/)
+  [Competition Rules](https://slingshot.filecoin.io/rules)
+  [FAQs](https://slingshot.filecoin.io/faq)
+  [Events calendar](https://slingshot.filecoin.io/events/) (Office Hours/Master Classes)
+  [Filecoin Docs](https://docs.filecoin.io)
+  [HackFS videos](https://hack.ethglobal.co/showcase/myel-receOUiPSd63148qZ)
+  [Textile Powergate](https://docs.textile.io/powergate/)
+
+  We also invite you to join our Slack community channels to stay informed during the event:
+
+  *#slingshot* – For debugging help and community conversations throughout the course of the competition
+  *#slingshot-announcements* – For major announcements about the Slingshot program
+  *#fil-testnet-announce* – For major announcements about the testnet and major software releases
