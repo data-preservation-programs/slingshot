@@ -44,5 +44,6 @@ If you would like to use a dataset that you don't see listed here, please submit
 | Congressional Datasets | Videos of meetings as well as textual legislative data. | - | Various | https://www.congress.gov/ | 
 | Unsplash | The internet’s source of freely-usable images. | 931 MB | jpeg | https://unsplash.com/ | 
 | Project Gutenberg | online library of free eBooks - english  | 60GB | various | https://www.gutenberg.org |
+| Monolith VR Materials | Self filmed materials and the produced VR videos  | 800TB | Video | http://ipfsnb.io |
 
 
