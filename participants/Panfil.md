@@ -25,7 +25,7 @@ No using curated dataset.
 
 ## (5) If your project is not using a curated dataset, please tell us a little bit more about your data by answering the questions below.
 
-We provide the data from the IDC switch log Now. And the data is open and readable to the public for education purpose.
+We provide the data from the IDC switch log Now. And the data is open and readable to the public for education purpose. some case here: university could use big data tool to analyze the network band using peak time and the data volume. waiting for your explorer.
 
 ## (6) How much data are you planning to store to the Filecoin network during the Slingshot competition?
 
