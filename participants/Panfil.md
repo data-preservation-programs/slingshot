@@ -25,7 +25,7 @@ No using curated dataset.
 
 ## (5) If your project is not using a curated dataset, please tell us a little bit more about your data by answering the questions below.
 
-We provide the data from our IDC switch log Now. 
+We provide the data from the IDC switch log Now. And the data is open and readable to the public for education purpose.
 
 ## (6) How much data are you planning to store to the Filecoin network during the Slingshot competition?
 
