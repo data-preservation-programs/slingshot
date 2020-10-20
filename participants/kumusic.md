@@ -24,7 +24,7 @@ Users can upload their voice and listen online.
 
 ## (4) If your project is using a curated dataset, which one are you using?
 
-**MP3**
+**not curated dataset**
 
 ## (5) If your project is not using a curated dataset, please tell us a little bit more about your data by answering the questions below.
 
