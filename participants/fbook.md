@@ -29,7 +29,8 @@ Before submitting a PR containing your team's project information:
 
 ## (5) If your project is not using a curated dataset, please tell us a little bit more about your data by answering the questions below.
 
-**free ebook**
+**some Public Domain books**
+**Or which Copyright Expiration**
 
 ## (6) How much data are you planning to store to the Filecoin network during the Slingshot competition?
 
@@ -47,7 +48,7 @@ Before submitting a PR containing your team's project information:
 
 ## (9)  What tech stack will you use to store the data?
 
-*Either: Powergate, Hosted Powergate, Textile Hub/Buckets, lotus, or some other solution. Tell us what you're planning to use and how.*
+- ipfs and lotus
 
 ## (10) How will you retrieve the data?
 
