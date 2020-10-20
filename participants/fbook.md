@@ -25,7 +25,7 @@ Before submitting a PR containing your team's project information:
 
 ## (4) If your project is using a curated dataset, which one are you using?
 
-**txt**
+**not curated dataset**
 
 ## (5) If your project is not using a curated dataset, please tell us a little bit more about your data by answering the questions below.
 
@@ -57,7 +57,7 @@ Before submitting a PR containing your team's project information:
 
 ## (11) Who is the intended user for your application/UI?
 
-**Everyone who likes to share your voice**
+**Everyone**
 
 ## (12) Do you have any users already or plans to acquire users soon?
 
