@@ -24,7 +24,7 @@ Users can upload their voice and listen online.
 
 ## (4) If your project is using a curated dataset, which one are you using?
 
-**Music, voice**
+**MP3**
 
 ## (5) If your project is not using a curated dataset, please tell us a little bit more about your data by answering the questions below.
 
@@ -46,7 +46,8 @@ Users can upload their voice and listen online.
 
 ## (9)  What tech stack will you use to store the data?
 
-*Either: Powergate, Hosted Powergate, Textile Hub/Buckets, lotus, or some other solution. Tell us what you're planning to use and how.*
+- ipfs
+- lotus
 
 ## (10) How will you retrieve the data?
 
