@@ -14,7 +14,7 @@ This is an automatic voice sharing platform for users to upload their own songs,
 
 ## (2) Link to Project UI
 
-*This is our project UI link  http://www.binleo.com:8011/
+*This is our project UI link  http://www.binleo.com/
 THis is our project code link https://github.com/AlexY0905/YuncunHorizon-webui.git
 
 ## (3) What does your application/UI do?
