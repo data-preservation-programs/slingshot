@@ -1,0 +1,61 @@
+# Let's Talk
+
+Before submitting a PR containing your team's project information:
+- Make sure you rename this file to contain your project's name
+- Respond to add your response in each section below
+
+## (0) Project Name and Team Slack Handles
+
+*The name of the project is let's talk and the address is https://app.slack.com/client/T01B4QHHR47/D01CCSU082*
+
+## (1) Brief Project Description
+
+* Let's Talk is mainly a global user communication platform. Users can post text, pictures, videos, etc., realize real-time publishing of content, and share their true feelings.*
+
+## (2) Link to Project UI
+
+*Web: http://letstalk.gctech.xin*
+
+## (3) What does your application/UI do?
+
+*Provide a platform for users to exchange ideas and opinions. Realize the real-time release of content and share the real feelings. Can comment, like, collect*
+
+## (4) If your project is using a curated dataset, which one are you using?
+
+*various*
+
+## (5) If your project is not using a curated dataset, please tell us a little bit more about your data by answering the questions below.
+
+*We will collect video, audio, pictures and so on. We will review the uploaded video data (machine or manual) to ensure the legality and validity of the data.*
+
+## (6) How much data are you planning to store to the Filecoin network during the Slingshot competition?
+
+*Maybe 5TB , or more !!*
+
+## (7) How are you structuring the data?
+
+*We collect image and video data (unstructured data) and manage these datasets and our application data through the MySQL / mongodb database.*
+
+## (8) What pre-processing are you doing before ingesting the data?
+
+*We collect image and video data (unstructured data) and manage these datasets and our application data through the MySQL / mongodb database.*
+
+## (9)  What tech stack will you use to store the data?
+
+*Lotus*
+
+## (10) How will you retrieve the data?
+
+*First of all, we will store the data in IPFs, save the CID of files in IPFs to MySQL database, and then import the data in IPFs to filecoin. When the miners successfully conclude the storage transaction, we will also save the CID of filecoin to MySQL. IPFs acts as a write cache and as a hot data cache*
+
+## (11) Who is the intended user for your application/UI?
+
+*Individual users*
+
+## (12) Do you have any users already or plans to acquire users soon?
+
+*Yes, there are a large number of users waiting to use our products in China. It is expected that a large number of real and effective data will be generated every day. Users can retrieve the data stored in them at any time.*
+
+## (13) What challenges do you anticipate with this project?
+
+*We have not yet completed all the features of the project. In addition, we need to take into account the size of the number of users, the improvement of breakpoint upload and other functions, and we will continue to improve the functional design of the product, so as to maximize the user experience and facilitate user storage and upload*

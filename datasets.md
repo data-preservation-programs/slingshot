@@ -3,7 +3,7 @@ Slingshot’s aim for using curated datasets is to ensure meaningful data is sto
 
 There are a wide variety of public data sets that can be leveraged for this challenge - a sampling is shown in the table below.  
 
-If you would like to use a dataset that you don't see listed here, please submit a PR to add the dataset to this table.
+If you would like to use a dataset that you don't see listed here, please submit a PR to add the dataset to this table. If you are using your own data that you are willing to make public but does not have a source URL, then feel free to write 'N/A' in the URL column.
 
 
 
@@ -37,5 +37,12 @@ If you would like to use a dataset that you don't see listed here, please submit
 | Linux ISO | Linux ISO Images | - | ISO | https://www.linuxlookup.com/linux_iso | 
 | ArchLinux | ArchLinux packages repository | 56 GB | Various | https://wiki.archlinux.org/index.php/Mirrors |
 | CentOS | CentOS packages repository | 200 GB | Various | http://mirror.sesp.northwestern.edu/centos/ |
-| Data is Plural | A variety of public, structured data sets. | - | Various | https://tinyletter.com/data-is-plural/archive | 
+| Data is Plural | A variety of public, structured data sets. | - | Various | https://tinyletter.com/data-is-plural/archive |
+| Tencent Corpus for Chinese Words and Phrases | Meant for AI purposes | 6.3 GB | Various | https://ai.tencent.com/ailab/nlp/en/embedding.html |
+| R-fMRI Maps Project | Medical data from neurological imaging | - | Various | http://mrirc.psych.ac.cn/RfMRIMaps |
+| National Palace Museum (Taiwan) | A variety of museum artifacts | - | Various | https://theme.npm.edu.tw/opendata/ | 
+| Congressional Datasets | Videos of meetings as well as textual legislative data. | - | Various | https://www.congress.gov/ | 
+| Unsplash | The internet’s source of freely-usable images. | 931 MB | jpeg | https://unsplash.com/ | 
+| Project Gutenberg | online library of free eBooks - english  | 60GB | various | https://www.gutenberg.org |
+| Monolith VR Materials | Self filmed materials and the produced VR videos  | 800TB | Video | http://ipfsnb.io |
 | ImageNet |  an image database organized according to the WordNet hierarchy| 1.2T | jpeg | http://www.image-net.org/ | 
