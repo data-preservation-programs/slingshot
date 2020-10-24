@@ -20,11 +20,11 @@ A user can search / download / deploy firmware and also visualize their devices'
 
 ## (4) If your project is using a curated dataset, which one are you using?
 
-We're not using a dataset.
+Github public repositories. We collect source code and binaries of IoT device firmware. We only upload what we've personally written or open source contributions. We expect no sensitive or illegal information to be contained in the data we collect.
 
 ## (5) If your project is not using a curated dataset, please tell us a little bit more about your data by answering the questions below.
 
-We collect source code and binaries of IoT device firmware. We only upload what we've personally written or open source contributions. We expect no sensitive or illegal information to be contained in the data we collect.
+N/A
 
 ## (6) How much data are you planning to store to the Filecoin network during the Slingshot competition?
 
