@@ -12,6 +12,7 @@
       "name": "North America",
       "amount": 1,
       "minerAddresses": [
+        "f02540",
         "f023971",
         "f023009",
         "f023826",
@@ -38,6 +39,8 @@
       "name": "Europe",
       "amount": 1,
       "minerAddresses": [
+        "f049882",
+        "f040173",
         "f034039",
         "f019551",
         "f08157",
