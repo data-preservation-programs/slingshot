@@ -2,7 +2,9 @@
 
 ![Slingshot hero image](./slingshot.png)
 
-Welcome to the SR2 Slingshot repo! All participants must submit a project application to this repo according to the submission instructions. Once submitted, a panel of community reviewers will review your application to ensure that your project is eligible for the competition. If your application is accepted, reviewers will merge your PR. If not, they will leave comments on the PR asking you for more information.
+Welcome to the SR2 Slingshot repo!
+
+> Slingshot Phase 1 ended on October 21. We will announce details about Slingshot Phase 2 in early to mid November. Phase 2 has technically started in that qualifying data stored right now will count towards rewards, but details on how rewards will be determined for Phase 2 have not yet been finalized. More details can be found in this Filecoin Slack post.
 
 ## Submission Instructions
 
