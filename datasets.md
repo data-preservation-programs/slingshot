@@ -46,4 +46,11 @@ If you would like to use a dataset that you don't see listed here, please submit
 | Project Gutenberg | online library of free eBooks - english  | 60GB | various | https://www.gutenberg.org |
 | Monolith VR Materials | Self filmed materials and the produced VR videos  | 800TB | Video | http://ipfsnb.io |
 | Starry Sky in Yunnan | meteorological and astronomical data  | 10TB | tar,fits | http://hlmxy.file123.pro:9006|
+| ImageNet |  an image database organized according to the WordNet hierarchy| 1.2T | jpeg | http://www.image-net.org/ |
+| Github | Public code hosting platform  | 20TB | Git repositories / plain text | https://github.com |
+| IPUMS | Global census data | - | Structured data | https://ipums.org/ |
+| Kaggle datasets | Various public datasets used for training machine learning models | Varies | https://www.kaggle.com/datasets |
+| Amazon datasets | Various public datasets used for research | Varies | https://registry.opendata.aws/ |
+| Udacity Self-Driving Car data | Data used for training self-driving machine learning models | ~285GB | https://github.com/udacity/self-driving-car/tree/master/datasets |
+| Million Song Dataset | NSF-funded public music dataset for research | 280GB | http://millionsongdataset.com/ |
 
