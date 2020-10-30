@@ -48,5 +48,3 @@ If you would like to use a dataset that you don't see listed here, please submit
 | ImageNet |  an image database organized according to the WordNet hierarchy| 1.2T | jpeg | http://www.image-net.org/ |
 
 
-
-
