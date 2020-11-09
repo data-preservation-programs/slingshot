@@ -2,7 +2,9 @@
 
 ![Slingshot hero image](./slingshot.png)
 
-Welcome to the SR2 Slingshot repo! All participants must submit a project application to this repo according to the submission instructions. Once submitted, a panel of community reviewers will review your application to ensure that your project is eligible for the competition. If your application is accepted, reviewers will merge your PR. If not, they will leave comments on the PR asking you for more information.
+Welcome to the SR2 Slingshot repo!
+
+> Slingshot Phase 1 ended on October 21. We will announce details about Slingshot Phase 2 in early to mid November. Phase 2 has technically started in that qualifying data stored right now will count towards rewards, but details on how rewards will be determined for Phase 2 have not yet been finalized. More details can be found in this Filecoin Slack post.
 
 ## Submission Instructions
 
@@ -47,8 +49,15 @@ If you need any additional assistance, feel free to email the Slingshot team at 
 |<img src="https://avatars2.githubusercontent.com/u/33686587?s=460&v=4" width="72"> | Martina  Long  | Slate Team    | Martina Long        | martinalong     |
 |<img src="https://avatars1.githubusercontent.com/u/7811297?s=460&v=4" width="72"> | Matt Ober      | Pinata        | Matt Ober           | obo20           |
 |<img src="https://avatars2.githubusercontent.com/u/7520045?s=460&v=4" width="72"> | Michael Godsey | Infura        | Michael Godsey      | mbgodsey        |
-|<img src="https://avatars3.githubusercontent.com/u/225111?s=460&v=4" width="72"> | Mike Goelzer   | Protocol Labs | Mike - Protocol Labs | mgoelzer        |
+|<img src="https://avatars3.githubusercontent.com/u/225111?s=460&v=4" width="72"> | Mike Goelzer   | Protocol Labs | mike-pl | mgoelzer |
 |<img src="https://avatars0.githubusercontent.com/u/47671066?s=460&v=4" width="72"> | Neo            | IPFS Main     | Neo Ge              | NeoGe-IPFSMain  |
+|<img src="https://avatars2.githubusercontent.com/u/10411723?s=460&v=4" width="72"> |Steven Li   | IPFS Force     | Steven        | steven004 |
+|<img src="https://avatars1.githubusercontent.com/u/69976222?s=400&v=4" width="72"> |Harrison Hines    | Fleek     | Harrison Hines (Fleek) | hhterminal |  
+|<img src="https://avatars2.githubusercontent.com/u/72719649?s=460&v=4" width="72"> |Rin Huang | Fenbushi Capital | Rin | Rin-huang | 
+|<img src="https://avatars0.githubusercontent.com/u/13160878?s=400&v=4" width="72"> |Alex Feerst | Neuralink | Alex Feerst | feerst | 
+|<img src="https://avatars1.githubusercontent.com/u/10427807?s=460&v=4" width="72"> |Robert Drost | ConsenSys | Roert Drost | rjdrost | 
+|<img src="https://avatars2.githubusercontent.com/u/16657108?s=460&v=4" width="72"> |Danny Wu | Mango | Danny | danny-wu |
+|<img src="https://avatars1.githubusercontent.com/u/13128505?s=460&v=4" width="72"> | Zhao KK | Miner | Zhao KK | kikakkz |
 
 ## Miners
 
@@ -56,14 +65,15 @@ A Slingshot participant is alowed to make deals with any miner available on the 
 (The rules specify a minimum of 3 miners to be eligible for rewards).  In order to facilitate miner discovery, this repository maintains a [list of
 active miners](https://github.com/filecoin-project/slingshot/blob/master/miners.json) that are used by Textile's Hub, Powergate, and other solutions.  
 
-This miner list in JSON format will continue to evolve and clients are encouraged to use this updated list.
+This miner list in JSON format will continue to evolve and clients are encouraged to use this updated list.  Please note that this list is not intended as an endorsement and clients are free to use any other miner.
 
-Any miner that meets the eligibilty criteria outlined below can be added to this [list](https://github.com/filecoin-project/slingshot/blob/master/miners.json) by opening a PR.
+Any miner that meets the eligibilty criteria outlined below can be added to this [list](https://github.com/filecoin-project/slingshot/blob/master/miners.json) by opening a PR or commmenting on this [issue](https://github.com/filecoin-project/slingshot/issues/79).
 
 The eligibility criteria include:
 * The node is set to accept deal from any public client.
 * The node is reachable (can respond to a query-ask network request)
 * The node has power available.
-* The node is using the correct lotus version
+* The node is using the correct lotus version (v0.80)
 
 
+The list will remove any miners that don't meet the criteria above.

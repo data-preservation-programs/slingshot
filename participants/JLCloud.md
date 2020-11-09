@@ -22,7 +22,7 @@ N/A
 We allow users to upload images, text and compressed packages, but we only support downloading images for the time being. We will continue to optimize the following formats  
 
  (6) How much data are you planning to store to the Filecoin network during the Slingshot competition?  
-50 T  
+10 T  
 
 (7) How are you structuring the data?  
 View uploaded files directly in storage space  

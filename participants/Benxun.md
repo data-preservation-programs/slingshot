@@ -3,7 +3,7 @@
 
 ## (0) Project Name and Team Slack Handles
 
-*Project Name*: Private Box
+*Project Name*: Benxun Box
 
 *Team Slack Handles*: [Ping](https://filecoinproject.slack.com/team/U0153H5EZND)
 
@@ -17,8 +17,8 @@ https://demo.benxuntech.cn
 
 ## (3) What does your application/UI do?
 
-- Encrypt user's private data and upload to ipfs. 
-- Retrieve data from ipfs and decrypt the data.
+- Upload User's to ipfs. 
+- Retrieve data from ipfs.
 
 ## (4) If your project is using a curated dataset, which one are you using?
 
@@ -42,7 +42,7 @@ Users upload data directly through the web page, and then we call the API interf
 
 ## (9)  What tech stack will you use to store the data?
 
- - Powergate
+ - Lotus API
 
 ## (10) How will you retrieve the data?
 

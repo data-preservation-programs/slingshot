@@ -8,19 +8,15 @@ Slack: feiya200
 
 ## (1) Brief Project Description
 
-A simple browser to retrieve a partial dataset of the FMA (Free Music Archive) stored in Filecoin.
-
-Also allow authenticated users to upload their own audio file to Filecoin.
+A simple browser to retrieve a partial dataset by genre of the FMA (Free Music Archive) stored in Filecoin.
 
 ## (2) Link to Project UI
 
-http://slingshot.kernelogic.ca/  (Not yet functional)
+http://slingshot.kernelogic.ca/
 
 ## (3) What does your application/UI do?
 
-A simple browser to retrieve a partial dataset of the FMA (Free Music Archive) stored in Filecoin.
-
-Also allow authenticated users to upload their own audio file to Filecoin.
+An UI to retrieve a partial dataset of the FMA (Free Music Archive) stored on Filecoin with Powergate.
 
 ## (4) If your project is using a curated dataset, which one are you using?
 
@@ -32,23 +28,23 @@ N/A
 
 ## (6) How much data are you planning to store to the Filecoin network during the Slingshot competition?
 
-100GB
+3T
 
 ## (7) How are you structuring the data?
 
-Will structure the data around music genre provided by FMA (Free Music Archive).
+Data is directly extracted from the zip files downloaded from FMA (Free Music Archive) and stored in filecoin by folders.
 
 ## (8) What pre-processing are you doing before ingesting the data?
 
-Will zip the audio files to a certain size (for example 500MB) then store to Filecoin. Will use local database to maintain data indices to track deal status.
+Extracted files are divided into numeric folders to a certain size (1T) then store to Filecoin. Local MySQL database is used to maintain data metadata indices.
 
 ## (9)  What tech stack will you use to store the data?
 
-Self hosted powergate
+Self hosted powergate.
 
 ## (10) How will you retrieve the data?
 
-Web server local disk will be used as cache. If cache hit missed, application will retrieve data from filecoin according to the indices stored in local database and unzip/serve.
+Web server local disk will be used as cache. User can make requests on the application to retrieve data from filecoin according to the indices stored in local database and serve.
 
 ## (11) Who is the intended user for your application/UI?
 
