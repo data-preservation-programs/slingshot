@@ -53,4 +53,4 @@ If you would like to use a dataset that you don't see listed here, please submit
 | Amazon datasets | Various public datasets used for research | Varies | https://registry.opendata.aws/ |
 | Udacity Self-Driving Car data | Data used for training self-driving machine learning models | ~285GB | https://github.com/udacity/self-driving-car/tree/master/datasets |
 | Million Song Dataset | NSF-funded public music dataset for research | 280GB | http://millionsongdataset.com/ |
-
+| Google Cloud Public Datasets | Uncover new insights with high-demand public datasets | Varies | https://cloud.google.com/public-datasets |
