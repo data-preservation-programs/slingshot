@@ -3,7 +3,7 @@ Slingshot’s aim for using curated datasets is to ensure meaningful data is sto
 
 There are a wide variety of public data sets that can be leveraged for this challenge - a sampling is shown in the table below.  
 
-If you would like to use a dataset that you don't see listed here, please submit a PR to add the dataset to this table.
+If you would like to use a dataset that you don't see listed here, please submit a PR to add the dataset to this table. If you are using your own data that you are willing to make public but does not have a source URL, then feel free to write 'N/A' in the URL column.
 
 
 
@@ -41,7 +41,16 @@ If you would like to use a dataset that you don't see listed here, please submit
 | Tencent Corpus for Chinese Words and Phrases | Meant for AI purposes | 6.3 GB | Various | https://ai.tencent.com/ailab/nlp/en/embedding.html |
 | R-fMRI Maps Project | Medical data from neurological imaging | - | Various | http://mrirc.psych.ac.cn/RfMRIMaps |
 | National Palace Museum (Taiwan) | A variety of museum artifacts | - | Various | https://theme.npm.edu.tw/opendata/ | 
-
-
-
+| Congressional Datasets | Videos of meetings as well as textual legislative data. | - | Various | https://www.congress.gov/ | 
+| Unsplash | The internet’s source of freely-usable images. | 931 MB | jpeg | https://unsplash.com/ | 
+| Project Gutenberg | online library of free eBooks - english  | 60GB | various | https://www.gutenberg.org |
+| Monolith VR Materials | Self filmed materials and the produced VR videos  | 800TB | Video | http://ipfsnb.io |
+| Starry Sky in Yunnan | meteorological and astronomical data  | 10TB | tar,fits | http://hlmxy.file123.pro:9006|
+| ImageNet |  an image database organized according to the WordNet hierarchy| 1.2T | jpeg | http://www.image-net.org/ |
+| Github | Public code hosting platform  | 20TB | Git repositories / plain text | https://github.com |
+| IPUMS | Global census data | - | Structured data | https://ipums.org/ |
+| Kaggle datasets | Various public datasets used for training machine learning models | Varies | https://www.kaggle.com/datasets |
+| Amazon datasets | Various public datasets used for research | Varies | https://registry.opendata.aws/ |
+| Udacity Self-Driving Car data | Data used for training self-driving machine learning models | ~285GB | https://github.com/udacity/self-driving-car/tree/master/datasets |
+| Million Song Dataset | NSF-funded public music dataset for research | 280GB | http://millionsongdataset.com/ |
 
