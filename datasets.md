@@ -53,4 +53,6 @@ If you would like to use a dataset that you don't see listed here, please submit
 | Amazon datasets | Various public datasets used for research | Varies | https://registry.opendata.aws/ |
 | Udacity Self-Driving Car data | Data used for training self-driving machine learning models | ~285GB | https://github.com/udacity/self-driving-car/tree/master/datasets |
 | Million Song Dataset | NSF-funded public music dataset for research | 280GB | http://millionsongdataset.com/ |
+| Netease Cloud Music  | Online music services lead playlists, social networking, brand recommendations and music fingerprints | - | Audio | https://music.163.com |
+| Movie Heaven | Movie Paradise is a large online movie broadcasting platform in China | - | Video | https://www.dytt8.net |
 
