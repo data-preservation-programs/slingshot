@@ -55,4 +55,5 @@ If you would like to use a dataset that you don't see listed here, please submit
 | Million Song Dataset | NSF-funded public music dataset for research | 280GB | http://millionsongdataset.com/ |
 | Netease Cloud Music  | Online music services lead playlists, social networking, brand recommendations and music fingerprints | - | Audio | https://music.163.com |
 | Movie Heaven | Movie Paradise is a large online movie broadcasting platform in China | - | Video | https://www.dytt8.net |
+| COCO | COCO is a large-scale object detection, segmentation, and captioning dataset. | - | ZIP | https://cocodataset.org |
 
