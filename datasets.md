@@ -45,7 +45,7 @@ If you would like to use a dataset that you don't see listed here, please submit
 | Unsplash | The internet’s source of freely-usable images. | 931 MB | jpeg | https://unsplash.com/ | 
 | Project Gutenberg | online library of free eBooks - english  | 60GB | various | https://www.gutenberg.org |
 | Monolith VR Materials | Self filmed materials and the produced VR videos  | 800TB | Video | http://ipfsnb.io |
-| Starry Sky in Yunnan | meteorological and astronomical data  | 10TB | tar,fits | http://hlmxy.file123.pro:9006|
+| Starry Sky in Yunnan | meteorological and astronomical data  | 10PiB | tar,fits | http://hlmxy.file123.pro:9006|
 | ImageNet |  an image database organized according to the WordNet hierarchy| 1.2T | jpeg | http://www.image-net.org/ |
 | Github | Public code hosting platform  | 20TB | Git repositories / plain text | https://github.com |
 | IPUMS | Global census data | - | Structured data | https://ipums.org/ |
