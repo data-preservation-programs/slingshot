@@ -45,7 +45,7 @@ If you would like to use a dataset that you don't see listed here, please submit
 | Unsplash | The internet’s source of freely-usable images. | 931 MB | jpeg | https://unsplash.com/ | 
 | Project Gutenberg | online library of free eBooks - english  | 60GB | various | https://www.gutenberg.org |
 | Monolith VR Materials | Self filmed materials and the produced VR videos  | 800TB | Video | http://ipfsnb.io |
-| Starry Sky in Yunnan | meteorological and astronomical data  | 10TB | tar,fits | http://hlmxy.file123.pro:9006|
+| Starry Sky in Yunnan | meteorological and astronomical data  | 10PiB | tar,fits | http://hlmxy.file123.pro:9006|
 | ImageNet |  an image database organized according to the WordNet hierarchy| 1.2T | jpeg | http://www.image-net.org/ |
 | Github | Public code hosting platform  | 20TB | Git repositories / plain text | https://github.com |
 | IPUMS | Global census data | - | Structured data | https://ipums.org/ |
@@ -53,7 +53,12 @@ If you would like to use a dataset that you don't see listed here, please submit
 | Amazon datasets | Various public datasets used for research | Varies | https://registry.opendata.aws/ |
 | Udacity Self-Driving Car data | Data used for training self-driving machine learning models | ~285GB | https://github.com/udacity/self-driving-car/tree/master/datasets |
 | Million Song Dataset | NSF-funded public music dataset for research | 280GB | http://millionsongdataset.com/ |
+| The nuScenes dataset | The nuScenes dataset is a large-scale autonomous driving dataset.	| 350G | jpeg |	https://www.nuscenes.org/nuscenes |
+| The Boxy Vehicles Dataset | A large vehicle detection dataset with almost two million annotated vehicles for training and evaluating object detection methods for self-driving cars on freeways. | 1T | image | https://boxy-dataset.com/boxy/ |
+| TrackingNet | A Large-Scale Dataset and Benchmark for Object Tracking in the Wild. | 970G | image | https://tracking-net.org/ |
+| A2D2 | The Audi Autonomous Driving Dataset (A2D2) to support startups and academic researchers working on autonomous driving. | 1.9T | point cloud, image	| https://www.a2d2.audi/a2d2/en.html |
+| KITTI-raw data | Autonomous Driving | 442G | point cloud, image | http://www.cvlibs.net/datasets/kitti/raw_data.php |
+| NEAR-VI-Dataset | The NetEase AR Oriented Visual Inertial Dataset | 175G | gif | https://github.com/EZXR-Research/NEAR-VI-Dataset |
 | Netease Cloud Music  | Online music services lead playlists, social networking, brand recommendations and music fingerprints | - | Audio | https://music.163.com |
 | Movie Heaven | Movie Paradise is a large online movie broadcasting platform in China | - | Video | https://www.dytt8.net |
 | COCO | COCO is a large-scale object detection, segmentation, and captioning dataset. | - | ZIP | https://cocodataset.org |
-
