@@ -59,3 +59,4 @@ If you would like to use a dataset that you don't see listed here, please submit
 | A2D2 | The Audi Autonomous Driving Dataset (A2D2) to support startups and academic researchers working on autonomous driving. | 1.9T | point cloud, image	| https://www.a2d2.audi/a2d2/en.html |
 | KITTI-raw data | Autonomous Driving | 442G | point cloud, image | http://www.cvlibs.net/datasets/kitti/raw_data.php |
 | NEAR-VI-Dataset | The NetEase AR Oriented Visual Inertial Dataset | 175G | gif | https://github.com/EZXR-Research/NEAR-VI-Dataset |
+| Top 100 Crypto Investor Dataset | Crypto price and project analytics | 9 GB | Various |  https://www.kaggle.com/georgemac510/top-100-crypto-dataset |
