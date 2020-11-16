@@ -59,3 +59,8 @@ If you would like to use a dataset that you don't see listed here, please submit
 | A2D2 | The Audi Autonomous Driving Dataset (A2D2) to support startups and academic researchers working on autonomous driving. | 1.9T | point cloud, image	| https://www.a2d2.audi/a2d2/en.html |
 | KITTI-raw data | Autonomous Driving | 442G | point cloud, image | http://www.cvlibs.net/datasets/kitti/raw_data.php |
 | NEAR-VI-Dataset | The NetEase AR Oriented Visual Inertial Dataset | 175G | gif | https://github.com/EZXR-Research/NEAR-VI-Dataset |
+| Common Voice | Common Voice is Mozilla's initiative to help teach machines how real people speak. | 100G | audio | https://commonvoice.mozilla.org/en/datasets |
+| TAO | TAO is a federated dataset for Tracking Any Object, containing 2,907 high resolution videos, captured in diverse environments, which are half a minute long on average. | 225G | video | http://taodataset.org/ |
+| OTW | The Out the Window (OTW) dataset is a crowdsourced activity dataset containing 5,668 instances of 17 activities from the NIST Activities in Extended Video (ActEV) challenge. | 48G | video | https://stresearch.github.io/otw/ |
+| Waymo | The Waymo Open Dataset is comprised of high resolution sensor data collected by Waymo self-driving cars in a wide variety of conditions. We are releasing this dataset publicly to aid the research community in making advancements in machine perception and self-driving technology. | 1.2T | point cloud, image | https://waymo.com/open/ |
+| IMDB-WIKI | IMDB-WIKI – 500k+ face images with age and gender labels | 276G | image | https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/ |
