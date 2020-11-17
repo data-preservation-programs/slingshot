@@ -1,0 +1,28 @@
+we have public data which can be used in finicial analysis or research.
+These are all real market quote price data,acturally is furtures market quote price.We collect them from public financial market. The data is availiable online.These data is released by state-approved financial institutions,so there is no sensitivity and legal risk.
+The raw data is txt formatted,users can read,process,research the data very easily.Each row of the data is formatted as below.
+I1117 10:49:42.397945 787676 MdSpi.cpp:381] marketdata,TradingDay=20201117;UpdateTime=10:49:41;BidPrice1=2239.0000;BidVolume1=881;AskPrice1=2240.0000;AskVolume1=774;InstrumentID=MA101;ExchangeID=;LastPrice=2239.0000;PreSettlementPrice=2261.0000;HighestPrice=2245.0000;LowestPrice=2214.0000;PreOpenInterest=1286420;OpenPrice=2237.0000;Volume=991240;Turnover=2212447680.0000;OpenInterest=1156521.0000;ClosePrice=2229.0000;SettlementPrice=2233.0000;UpperLimitPrice=2397.0000;LowerLimitPrice=2125.0000;UpdateMillisec=500;AveragePrice=2232.0000;
+I1117 10:49:42.397985 787676 MdSpi.cpp:381] marketdata,TradingDay=20201117;UpdateTime=10:49:41;BidPrice1=1843.0000;BidVolume1=784;AskPrice1=1844.0000;AskVolume1=573;InstrumentID=FG101;ExchangeID=;LastPrice=1844.0000;PreSettlementPrice=1842.0000;HighestPrice=1859.0000;LowestPrice=1833.0000;PreOpenInterest=437414;OpenPrice=1856.0000;Volume=518655;Turnover=957437130.0000;OpenInterest=435433.0000;ClosePrice=1841.0000;SettlementPrice=1849.0000;UpperLimitPrice=1935.0000;LowerLimitPrice=1749.0000;UpdateMillisec=500;AveragePrice=1846.0000;
+I1117 10:49:42.398041 787676 MdSpi.cpp:381] marketdata,TradingDay=20201117;UpdateTime=10:49:41;BidPrice1=2465.0000;BidVolume1=416;AskPrice1=2466.0000;AskVolume1=71;InstrumentID=RM101;ExchangeID=;LastPrice=2466.0000;PreSettlementPrice=2475.0000;HighestPrice=2472.0000;LowestPrice=2448.0000;PreOpenInterest=229064;OpenPrice=2458.0000;Volume=290705;Turnover=715715710.0000;OpenInterest=222135.0000;ClosePrice=2450.0000;SettlementPrice=2463.0000;UpperLimitPrice=2599.0000;LowerLimitPrice=2351.0000;UpdateMillisec=500;AveragePrice=2462.0000;
+I1117 10:49:42.398098 787676 MdSpi.cpp:381] marketdata,TradingDay=20201117;UpdateTime=10:49:41;BidPrice1=616.4000;BidVolume1=113;AskPrice1=616.6000;AskVolume1=43;InstrumentID=ZC101;ExchangeID=;LastPrice=616.4000;PreSettlementPrice=615.2000;HighestPrice=626.4000;LowestPrice=614.2000;PreOpenInterest=214157;OpenPrice=617.2000;Volume=219312;Turnover=136192752.0000;OpenInterest=218388.0000;ClosePrice=624.2000;SettlementPrice=622.0000;UpperLimitPrice=640.0000;LowerLimitPrice=590.4000;UpdateMillisec=500;AveragePrice=621.0000;
+I1117 10:49:42.398139 787676 MdSpi.cpp:381] marketdata,TradingDay=20201117;UpdateTime=10:49:41;BidPrice1=5892.0000;BidVolume1=66;AskPrice1=5894.0000;AskVolume1=43;InstrumentID=SF101;ExchangeID=;LastPrice=5894.0000;PreSettlementPrice=5916.0000;HighestPrice=5924.0000;LowestPrice=5886.0000;PreOpenInterest=59573;OpenPrice=5906.0000;Volume=25841;Turnover=152616946.0000;OpenInterest=58973.0000;ClosePrice=0.0000;SettlementPrice=0.0000;UpperLimitPrice=6272.0000;LowerLimitPrice=5560.0000;UpdateMillisec=500;AveragePrice=5906.0000;
+
+We think these data are more important for people who study price behavior in financial markets and social economy because the data include all commodity prices in the world everyday.
+So we hope to add these data to the curated dataset.
+You can also get these data we stored in filecoin in SlingShot 1.
+_id	cid	dealID	exchangeID	timestamp	activeEpoch	minerID	storageSize	tradingDay	inHot	originalname	fileFormat	realSize
+QmQJD8yhW7YVBeBAmXFj6CaRtvV8iSFHgk7jyogtNW46yb	934992	SHFE	2020-10-23 01:19	170137	f024081	133169152	20191203	1	mk_20191203.tar.gz	txt	81742390
+QmQJD8yhW7YVBeBAmXFj6CaRtvV8iSFHgk7jyogtNW46yb	934985	SHFE	2020-10-23 01:18	170137	f024081	133169152	20191203	1	mk_20191203.tar.gz	txt	81742390
+QmfScxXJLWr5KsVGB23t2sdF2jCDBcr2RS5CKeKCXBrL37	933060	SHFE	2020-10-23 01:18	169842	f024081	266338304	20190725	1	mk_20190725.tar.gz	txt	148926230
+QmVqhUbD6vncyPwGt52dMAkoGz7sKBSZPxqHByXSB6L5gp	934095	SHFE	2020-10-23 01:18	170020	f024081	133169152	20190926	1	mk_20190926.tar.gz	txt	84448100
+QmVqhUbD6vncyPwGt52dMAkoGz7sKBSZPxqHByXSB6L5gp	934077	SHFE	2020-10-23 01:18	170020	f024081	133169152	20190926	1	mk_20190926.tar.gz	txt	84448100
+Qmbw4rY8YuaDGZKMT3tutE9MpQuH55WxG3YTRXMA8drVsA	933850	SHFE	2020-10-23 01:18	170197	f08264	133169152	20190906	1	mk_20190906.tar.gz	txt	95909086
+QmSSq227U8gDhJLfJL3WzzEzh2VaXiR7BXcgnz2XqJjYtr	934652	SHFE	2020-10-23 01:19	170076	f024081	133169152	20191108	1	mk_20191108.tar.gz	txt	84651302
+QmfSdWfhFqJPBsu1pG4CkdvLHAbsasr3BSux5yFzT3tgeS	934553	SHFE	2020-10-23 01:17	170076	f024081	133169152	20191106	1	mk_20191106.tar.gz	txt	83395981
+Qmbw4rY8YuaDGZKMT3tutE9MpQuH55WxG3YTRXMA8drVsA	933705	SHFE	2020-10-23 01:18	169966	f024081	133169152	20190906	1	mk_20190906.tar.gz	txt	95909086
+QmcqcsUqJnqe559X3gDhJiu5ie17KWaPjkBWqFuypb34Nx	933074	SHFE	2020-10-23 01:17	170077	f08264	133169152	20190723	1	mk_20190723.tar.gz	txt	76156836
+QmfSdWfhFqJPBsu1pG4CkdvLHAbsasr3BSux5yFzT3tgeS	934508	SHFE	2020-10-23 01:17	170076	f024081	133169152	20191106	1	mk_20191106.tar.gz	txt	83395981
+Qmf3PL8EPGVrtc2vL75SThvK5TBsFjMb1i7TuhzNrBHUqd	933576	SHFE	2020-10-23 01:17	170138	f08264	133169152	20190819	1	mk_20190819.tar.gz	txt	80158067
+QmYpsBdXydwAjz1qZmUD7f148bEJCN8LL6cF86io819JK4	936300	SHFE	2020-10-23 01:17	170275	f024081	266338304	20200423	1	mk_20200423.tar.gz	txt	138438597
+QmaJKG5eWcZLiRjxwBM5AvZDZ62xSukbai1YKVzTsdJBnU	934970	SHFE	2020-10-23 01:17	170137	f024081	133169152	20191202	1	mk_20191202.tar.gz	txt	95782342
+QmcqcsUqJnqe559X3gDhJiu5ie17KWaPjkBWqFuypb34Nx	933033	SHFE	2020-10-23 01:17	169842	f024081	133169152	20190723	1	mk_20190723.tar.gz	txt	76156836
