@@ -49,9 +49,9 @@ If you would like to use a dataset that you don't see listed here, please submit
 | ImageNet |  an image database organized according to the WordNet hierarchy| 1.2T | jpeg | http://www.image-net.org/ |
 | Github | Public code hosting platform  | 20TB | Git repositories / plain text | https://github.com |
 | IPUMS | Global census data | - | Structured data | https://ipums.org/ |
-| Kaggle datasets | Various public datasets used for training machine learning models | Varies | https://www.kaggle.com/datasets |
-| Amazon datasets | Various public datasets used for research | Varies | https://registry.opendata.aws/ |
-| Udacity Self-Driving Car data | Data used for training self-driving machine learning models | ~285GB | https://github.com/udacity/self-driving-car/tree/master/datasets |
+| Kaggle datasets | Various public datasets used for training machine learning models | - | Varies | https://www.kaggle.com/datasets |
+| Amazon datasets | Various public datasets used for research | - | Varies | https://registry.opendata.aws/ |
+| Udacity Self-Driving Car data | Data used for training self-driving machine learning models | ~285GB | - | https://github.com/udacity/self-driving-car/tree/master/datasets |
 | Million Song Dataset | NSF-funded public music dataset for research | 280GB | http://millionsongdataset.com/ |
 | The nuScenes dataset | The nuScenes dataset is a large-scale autonomous driving dataset.	| 350G | jpeg |	https://www.nuscenes.org/nuscenes |
 | The Boxy Vehicles Dataset | A large vehicle detection dataset with almost two million annotated vehicles for training and evaluating object detection methods for self-driving cars on freeways. | 1T | image | https://boxy-dataset.com/boxy/ |
@@ -80,5 +80,4 @@ If you would like to use a dataset that you don't see listed here, please submit
 | Netease Cloud Music  | Online music services lead playlists, social networking, brand recommendations and music fingerprints | - | Audio | https://music.163.com |
 | Movie Heaven | Movie Paradise is a large online movie broadcasting platform in China | - | Video | https://www.dytt8.net |
 | COCO | COCO is a large-scale object detection, segmentation, and captioning dataset. | - | ZIP | https://cocodataset.org |
-| Google Cloud Public Datasets | Uncover new insights with high-demand public datasets | Varies | https://cloud.google.com/public-datasets |
-| SmartCity Dataset | Noise data collected by fiber optic sensing equipment for research | 200T | WAV | http://api.sr2.glm2m.com/index.php?r=site/index |
+| Google Cloud Public Datasets | Uncover new insights with high-demand public datasets | - | Varies | https://cloud.google.com/public-datasets |
