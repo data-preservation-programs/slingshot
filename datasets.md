@@ -81,3 +81,15 @@ If you would like to use a dataset that you don't see listed here, please submit
 | Movie Heaven | Movie Paradise is a large online movie broadcasting platform in China | - | Video | https://www.dytt8.net |
 | COCO | COCO is a large-scale object detection, segmentation, and captioning dataset. | - | ZIP | https://cocodataset.org |
 | Google Cloud Public Datasets | Uncover new insights with high-demand public datasets | - | Varies | https://cloud.google.com/public-datasets |
+| BigEarthNet | The BigEarthNet archive was constructed by the Remote Sensing Image Analysis (RSiM) Group and the Database Systems and Information Management (DIMA) Group at the Technische Universität Berlin (TU Berlin).  | 66G | image | http://bigearth.net/#downloads |
+| Bair Robot Pushing | This data set contains roughly 44,000 examples of robot pushing motions, including one training set (train) and two test sets of previously seen (testseen) and unseen (testnovel) objects. This is the small 64x64 version.  | 30G | video | https://www.tensorflow.org/datasets/catalog/bair_robot_pushing_small |
+| StanfordDroneDataset | Autonomous Driving  | 66G | image | https://academictorrents.com/details/01f95ea32e160e6c251ea55a87bd5a24b23cb03d |
+| Argoverse | Argoverse is provided free of charge under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public license. Argoverse code and APIs are provided under the MIT license.   | 260G | fusion, point cloud, image | https://www.argoverse.org/data.html#download-link |
+| Ford Autonomous Vehicle Dataset | We present a challenging multi-agent seasonal dataset collected by a fleet of Ford autonomous vehicles at different days and times during 2017-18. The vehicles were manually driven on a route in Michigan that included a mix of driving scenarios including the Detroit Airport, freeways, city-centers, university campus and suburban neighborhood.  | 1.6T | image | https://avdata.ford.com/ |
+| PandaSet | High-quality open-source dataset for autonomous driving  | 42G | fusion, point cloud, image | https://pandaset.org/ |
+| Lyft | Advancing self-driving technology, together.  | 200G | fusion, point cloud, image | https://self-driving.lyft.com/level5/data/ |
+| LISA Traffic Sign | The LISA Traffic Sign Dataset is a set of videos and annotated frames containing US traffic signs.  | 8G | image | http://cvrr.ucsd.edu/LISA/lisa-traffic-sign-dataset.html |
+| InStereo2K | A large real dataset for stereo matching in indoor scenes | 8G | image | https://github.com/YuhuaXu/StereoDataset |
+| CURE-TSD | Challenging Unreal and Real Environments for Traffic Sign Detection | 240G | video | https://github.com/olivesgatech/CURE-TSD |
+| NightOwls | Pedestrians at night | 294G | image | https://www.nightowls-dataset.org/ |
+| Comma.ai driving | 7 and a quarter hours of largely highway driving.  | 40G | video | https://github.com/commaai/research |
