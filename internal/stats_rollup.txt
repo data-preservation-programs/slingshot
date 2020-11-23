@@ -1,0 +1,13 @@
+#
+#
+# This file determines which addresses are being shown on the board, and
+# determines the rollup rules
+#
+#      NO PULL REQUESTS ACCEPTED, SORRY!
+#
+# Each non-commented line is intepreted as a set of f1/f3 addresses eligible for display
+# The first address is assigned the aggregate of all subsequent ones
+# Trailing comments are ignored
+
+# Example using the spacerace1 dealbot ( for testing only, not participating in the competition )
+f1nslxql4pck5pq7hddlzym3orxlx35wkepzjkm3i f1stghxhdp2w53dym2nz2jtbpk6ccd4l2lxgmezlq  f1mcr5xkgv4jdl3rnz77outn6xbmygb55vdejgbfi	f1qiqdbbmrdalbntnuapriirduvxu5ltsc5mhy7si   # SR1 dealbot wallets

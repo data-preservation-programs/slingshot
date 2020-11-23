@@ -3,7 +3,7 @@ Slingshot’s aim for using curated datasets is to ensure meaningful data is sto
 
 There are a wide variety of public data sets that can be leveraged for this challenge - a sampling is shown in the table below.  
 
-If you would like to use a dataset that you don't see listed here, please submit a PR to add the dataset to this table. If you are using your own data that you are willing to make public but does not have a source URL, then feel free to write 'N/A' in the URL column.
+If you would like to use a dataset that you don't see listed here, please submit an issue to add the dataset to this table. If you are using your own data that you are willing to make public but does not have a source URL, then feel free to write 'N/A' in the URL column.
 
 
 
@@ -49,9 +49,9 @@ If you would like to use a dataset that you don't see listed here, please submit
 | ImageNet |  an image database organized according to the WordNet hierarchy| 1.2T | jpeg | http://www.image-net.org/ |
 | Github | Public code hosting platform  | 20TB | Git repositories / plain text | https://github.com |
 | IPUMS | Global census data | - | Structured data | https://ipums.org/ |
-| Kaggle datasets | Various public datasets used for training machine learning models | Varies | https://www.kaggle.com/datasets |
-| Amazon datasets | Various public datasets used for research | Varies | https://registry.opendata.aws/ |
-| Udacity Self-Driving Car data | Data used for training self-driving machine learning models | ~285GB | https://github.com/udacity/self-driving-car/tree/master/datasets |
+| Kaggle datasets | Various public datasets used for training machine learning models | - | Varies | https://www.kaggle.com/datasets |
+| Amazon datasets | Various public datasets used for research | - | Varies | https://registry.opendata.aws/ |
+| Udacity Self-Driving Car data | Data used for training self-driving machine learning models | ~285GB | - | https://github.com/udacity/self-driving-car/tree/master/datasets |
 | Million Song Dataset | NSF-funded public music dataset for research | 280GB | http://millionsongdataset.com/ |
 | The nuScenes dataset | The nuScenes dataset is a large-scale autonomous driving dataset.	| 350G | jpeg |	https://www.nuscenes.org/nuscenes |
 | The Boxy Vehicles Dataset | A large vehicle detection dataset with almost two million annotated vehicles for training and evaluating object detection methods for self-driving cars on freeways. | 1T | image | https://boxy-dataset.com/boxy/ |
@@ -60,4 +60,25 @@ If you would like to use a dataset that you don't see listed here, please submit
 | KITTI-raw data | Autonomous Driving | 442G | point cloud, image | http://www.cvlibs.net/datasets/kitti/raw_data.php |
 | NEAR-VI-Dataset | The NetEase AR Oriented Visual Inertial Dataset | 175G | gif | https://github.com/EZXR-Research/NEAR-VI-Dataset |
 | Top 100 Crypto Investor Dataset | Crypto price and project analytics | 9 GB | Various |  https://www.kaggle.com/georgemac510/top-100-crypto-dataset |
+| Common Voice | Common Voice is Mozilla's initiative to help teach machines how real people speak. | 100G | audio | https://commonvoice.mozilla.org/en/datasets |
+| TAO | TAO is a federated dataset for Tracking Any Object, containing 2,907 high resolution videos, captured in diverse environments, which are half a minute long on average. | 225G | video | http://taodataset.org/ |
+| OTW | The Out the Window (OTW) dataset is a crowdsourced activity dataset containing 5,668 instances of 17 activities from the NIST Activities in Extended Video (ActEV) challenge. | 48G | video | https://stresearch.github.io/otw/ |
+| Waymo | The Waymo Open Dataset is comprised of high resolution sensor data collected by Waymo self-driving cars in a wide variety of conditions. We are releasing this dataset publicly to aid the research community in making advancements in machine perception and self-driving technology. | 1.2T | point cloud, image | https://waymo.com/open/ |
+| IMDB-WIKI | IMDB-WIKI – 500k+ face images with age and gender labels | 276G | image | https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/ |
+|Genomic Data Commons     |Genomic, epigenomic, transcriptomic, and proteomic data from the National Genome Atlas Program                                                                                                                                                                |2.5 PB|JSON   |https://portal.gdc.cancer.gov                                      |
+|OpenStreetMap     |A collaborative project to create a free editable map of the world                                                                                                                                                                |40 GB|JSON   | https://console.cloud.google.com/marketplace/product/openstreetmap/geo-openstreetmap?filter=solution-type%3Adataset&filter=category%3Atransportation&id=88e087d0-5f92-4407-8dcc-5577bd06d776                               |
+|Wikipedia     |A multilingual open-collaborative online encyclopedia created and maintained by a community of volunteer editors using a wiki-based editing system                                                                                                                                                                |18.9 GB|JSON   |https://portal.gdc.cancer.gov                                    |
+|openFDA    |Open datasets from the US Food and Drug Administration                                                                                                                                                                |N/A |JSON   | https://open.fda.gov/data/downloads/ |
+|Amateur radio    |Amateur Radio Software)                                                                                                                                                                |60.0 GB TB|JSON   | https://bigquery.cloud.google.com/table/dataproc-fun:wsprnet.all_wsprnet_data?pli=1&tab=details |
+|Reddit    |Collection of Reddit posts and comments                                                                                                                                                               |546 GB|JSON   | https://console.cloud.google.com/bigquery?utm_source=bqui&utm_medium=link&utm_campaign=classic |
+|Dota 2    |Open data around the Dota Game platform                                                                                                                                                               |500 GB|JSON   | https://www.opendota.com |
+|AVSpeech: Large-scale Audio-Visual Speech Dataset   |large-scale audio-visual dataset comprising speech video clips with no interfering background noises                                                                                                                                                               |1.50 TB GB|N/A   | https://academictorrents.com/details/b078815ca447a3e4d17e8a2a34f13183ec5dec41 |
+|Google Open Images     |9 million URLs to images that have been annotated with labels spanning over 6000 categories                                                                                                                                                              |456 GB|image   | https://academictorrents.com/details/9e9194e21ce045deee8d811481b4cd676b20b06b |
+|UC Berkeley Computer Science Courses     |An archive of UC Berkeley Computer Science Courses                                                                                                                                                |446 GB|Video   | https://academictorrents.com/details/5e84be34f69b1a313f6dcb51667edf238d5d4412 |
+|Functional Map of the World     |Satellite images of the world                                                                                                                                                              |352 GB|image   | https://academictorrents.com/details/9e9194e21ce045deee8d811481b4cd676b20b06b |
+| NEAR-VI-Dataset | The NetEase AR Oriented Visual Inertial Dataset | 175G | gif | https://github.com/EZXR-Research/NEAR-VI-Dataset |
+| Netease Cloud Music  | Online music services lead playlists, social networking, brand recommendations and music fingerprints | - | Audio | https://music.163.com |
+| Movie Heaven | Movie Paradise is a large online movie broadcasting platform in China | - | Video | https://www.dytt8.net |
+| COCO | COCO is a large-scale object detection, segmentation, and captioning dataset. | - | ZIP | https://cocodataset.org |
+| Google Cloud Public Datasets | Uncover new insights with high-demand public datasets | - | Varies | https://cloud.google.com/public-datasets |
 | SmartCity Dataset | Noise data collected by fiber optic sensing equipment for research | 200T | WAV | http://api.sr2.glm2m.com/index.php?r=site/index |
