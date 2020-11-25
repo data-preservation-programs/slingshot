@@ -8,22 +8,17 @@ Welcome to the SR2 Slingshot repo!
 
 ## Submission Instructions
 
-1. Please make a copy of the [`participants/template.md`](./participants/template.md) file.
-2. Rename the file with your project's name.
-3. Fill out all requested fields in the template.
-4. Submit a PR to add your project's application to the `participants` folder in this repo.
-5. Work with the community reviewers to approve your application!
-
+1. Go to the [Slingshot website](https://slingshot.filecoin.io/)
+2. Click Login/Register button at the top right corner
+3. Verify your Github account
+4. Fill out all of the required team and project information
 
 ## Leaderboard
 
-Participants will be eligible for show up on the Leaderboard approximately 24 hours after the submitted PR is merged.  
+Participants will be eligible to show up on the Leaderboard approximately 24 hours after registration.   
 
 For this information to appear correctly, please ensure that:
 * Your client node matches up with your registration information.
-* Your PR has been successfully merged.
-
-If you need to update your registration information, please email the Slingshot team at slingshot@filecoin.org
 
 ## Help
 
