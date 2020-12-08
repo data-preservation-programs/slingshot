@@ -81,4 +81,4 @@ If you would like to use a dataset that you don't see listed here, please submit
 | Movie Heaven | Movie Paradise is a large online movie broadcasting platform in China | - | Video | https://www.dytt8.net |
 | COCO | COCO is a large-scale object detection, segmentation, and captioning dataset. | - | ZIP | https://cocodataset.org |
 | Google Cloud Public Datasets | Uncover new insights with high-demand public datasets | - | Varies | https://cloud.google.com/public-datasets |
-| SmartCity Dataset | Noise data collected by fiber optic sensing equipment for research | 200T | WAV | http://api.sr2.glm2m.com/index.php?r=site/index |
+| SmartCity Dataset | Noise data collected by fiber optic sensing equipment for research | 30T | WAV | http://api.sr2.glm2m.com/index.php?r=smartcity-dataset/index |
