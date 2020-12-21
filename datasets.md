@@ -19,7 +19,6 @@ If you would like to use a dataset that you don't see listed here, please submit
 |GHTorrent Project             |a scalable, queriable, offline mirror of data offered through the Github REST API.                                                                                                         |18TB    |MySQL  |https://ghtorrent.org/                                                         |
 |Free Music Archive            | 106,574 tracks from 16,341 artists and 14,854 albums, arranged in a hierarchical taxonomy of 161 genres                                                                                   |879 GB  |MP3    |https://github.com/mdeff/fma                                                   |
 |Open Images Dataset           |9 million URLs to images that have been annotated with labels spanning over 6000 categories                                                                                                |18 TB   |PNG    |https://storage.googleapis.com/openimages/web/index.html                       |
-|Internet Archive              |a digital library of Internet sites and other cultural artifacts in digital form                                                                                                           |45 PB   |Various|https://archive.org/                                                           |
 |Common Crawl                  |An open repository of web crawl data                                                                                                                                                       |235 TB  |WARC   |https://commoncrawl.org/                                                       |
 |Noisy speech database         |Used for training speech enhancement algorithms and TTS models                                                                                                                             |14 GB   |WAV    |https://datashare.is.ed.ac.uk/handle/10283/2791                                |
 |NFL play-by-play              |The data has three tables: teams, players, and plays.                                                                                                                                      |2.54 GB |Text   |https://www.dolthub.com/repositories/Liquidata/nfl-play-by-play                |
@@ -30,7 +29,6 @@ If you would like to use a dataset that you don't see listed here, please submit
 | Docker Images | Docker container images that are published on Docker Hub  | 167 TB | images | https://hub.docker.com/ |
 | Filecoin Proofs | - | 224 GB | - | https://proofs.filecoin.io/ |
 | Filecoin Trusted Setup | - | 2.05 TB | - | https://trusted-setup.filecoin.io/ |
-| Audius | - | GB | MP3 | https://www.audius.com/ |
 | Flickr Commons | The key goal of The Commons is to share hidden treasures from the world's public photography archives. | 50 TB | jpeg | https://www.flickr.com/commons |
 | Arxiv | Scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, and more. | - | PDF | https://arxiv.org/ |
 | Audius | An American decentralized music platform developing the first community-owned and artist-controlled Music sharing protocol. | - | MP3 | https://audius.co/ |
@@ -38,21 +36,14 @@ If you would like to use a dataset that you don't see listed here, please submit
 | Linux ISO | Linux ISO Images | - | ISO | https://www.linuxlookup.com/linux_iso | 
 | ArchLinux | ArchLinux packages repository | 56 GB | Various | https://wiki.archlinux.org/index.php/Mirrors |
 | CentOS | CentOS packages repository | 200 GB | Various | http://mirror.sesp.northwestern.edu/centos/ |
-| Data is Plural | A variety of public, structured data sets. | - | Various | https://tinyletter.com/data-is-plural/archive |
 | Tencent Corpus for Chinese Words and Phrases | Meant for AI purposes | 6.3 GB | Various | https://ai.tencent.com/ailab/nlp/en/embedding.html |
 | R-fMRI Maps Project | Medical data from neurological imaging | - | Various | http://mrirc.psych.ac.cn/RfMRIMaps |
 | National Palace Museum (Taiwan) | A variety of museum artifacts | - | Various | https://theme.npm.edu.tw/opendata/ | 
-| Congressional Datasets | Videos of meetings as well as textual legislative data. | - | Various | https://www.congress.gov/ | 
-| Unsplash | The internet’s source of freely-usable images. | 931 MB | jpeg | https://unsplash.com/ | 
 | Project Gutenberg | online library of free eBooks - english  | 60GB | various | https://www.gutenberg.org |
-| Starry Sky in Yunnan | meteorological and astronomical data  | 10PiB | tar,fits | http://hlmxy.file123.pro:9006|
 | ImageNet |  an image database organized according to the WordNet hierarchy| 1.2T | jpeg | http://www.image-net.org/ |
-| Github | Public code hosting platform  | 20TB | Git repositories / plain text | https://github.com |
 | IPUMS | Global census data | - | Structured data | https://ipums.org/ |
-| Amazon datasets | Various public datasets used for research | - | Varies | https://registry.opendata.aws/ |
 | Udacity Self-Driving Car data | Data used for training self-driving machine learning models | ~285GB | - | https://github.com/udacity/self-driving-car/tree/master/datasets |
-| Million Song Dataset | NSF-funded public music dataset for research | 280GB | http://millionsongdataset.com/ |
-| The nuScenes dataset | The nuScenes dataset is a large-scale autonomous driving dataset.	| 350G | jpeg |	https://www.nuscenes.org/nuscenes |
+| Million Song Dataset | NSF-funded public music dataset for research | 280GB | - | http://millionsongdataset.com/ |
 | The Boxy Vehicles Dataset | A large vehicle detection dataset with almost two million annotated vehicles for training and evaluating object detection methods for self-driving cars on freeways. | 1T | image | https://boxy-dataset.com/boxy/ |
 | TrackingNet | A Large-Scale Dataset and Benchmark for Object Tracking in the Wild. | 970G | image | https://tracking-net.org/ |
 | A2D2 | The Audi Autonomous Driving Dataset (A2D2) to support startups and academic researchers working on autonomous driving. | 1.9T | point cloud, image	| https://www.a2d2.audi/a2d2/en.html |
@@ -66,18 +57,10 @@ If you would like to use a dataset that you don't see listed here, please submit
 | IMDB-WIKI | IMDB-WIKI – 500k+ face images with age and gender labels | 276G | image | https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/ |
 |Genomic Data Commons     |Genomic, epigenomic, transcriptomic, and proteomic data from the National Genome Atlas Program                                                                                                                                                                |2.5 PB|JSON   |https://portal.gdc.cancer.gov                                      |
 |OpenStreetMap     |A collaborative project to create a free editable map of the world                                                                                                                                                                |40 GB|JSON   | https://console.cloud.google.com/marketplace/product/openstreetmap/geo-openstreetmap?filter=solution-type%3Adataset&filter=category%3Atransportation&id=88e087d0-5f92-4407-8dcc-5577bd06d776                               |
-|Wikipedia     |A multilingual open-collaborative online encyclopedia created and maintained by a community of volunteer editors using a wiki-based editing system                                                                                                                                                                |18.9 GB|JSON   |https://portal.gdc.cancer.gov                                    |
 |openFDA    |Open datasets from the US Food and Drug Administration                                                                                                                                                                |N/A |JSON   | https://open.fda.gov/data/downloads/ |
-|Amateur radio    |Amateur Radio Software)                                                                                                                                                                |60.0 GB TB|JSON   | https://bigquery.cloud.google.com/table/dataproc-fun:wsprnet.all_wsprnet_data?pli=1&tab=details |
-|Reddit    |Collection of Reddit posts and comments                                                                                                                                                               |546 GB|JSON   | https://console.cloud.google.com/bigquery?utm_source=bqui&utm_medium=link&utm_campaign=classic |
-|Dota 2    |Open data around the Dota Game platform                                                                                                                                                               |500 GB|JSON   | https://www.opendota.com |
 |AVSpeech: Large-scale Audio-Visual Speech Dataset   |large-scale audio-visual dataset comprising speech video clips with no interfering background noises                                                                                                                                                               |1.50 TB GB|N/A   | https://academictorrents.com/details/b078815ca447a3e4d17e8a2a34f13183ec5dec41 |
 |Google Open Images     |9 million URLs to images that have been annotated with labels spanning over 6000 categories                                                                                                                                                              |456 GB|image   | https://academictorrents.com/details/9e9194e21ce045deee8d811481b4cd676b20b06b |
 |UC Berkeley Computer Science Courses     |An archive of UC Berkeley Computer Science Courses                                                                                                                                                |446 GB|Video   | https://academictorrents.com/details/5e84be34f69b1a313f6dcb51667edf238d5d4412 |
-|Functional Map of the World     |Satellite images of the world                                                                                                                                                              |352 GB|image   | https://academictorrents.com/details/9e9194e21ce045deee8d811481b4cd676b20b06b |
 | NEAR-VI-Dataset | The NetEase AR Oriented Visual Inertial Dataset | 175G | gif | https://github.com/EZXR-Research/NEAR-VI-Dataset |
-| Netease Cloud Music  | Online music services lead playlists, social networking, brand recommendations and music fingerprints | - | Audio | https://music.163.com |
-| Movie Heaven | Movie Paradise is a large online movie broadcasting platform in China | - | Video | https://www.dytt8.net |
 | COCO | COCO is a large-scale object detection, segmentation, and captioning dataset. | - | ZIP | https://cocodataset.org |
-| Google Cloud Public Datasets | Uncover new insights with high-demand public datasets | - | Varies | https://cloud.google.com/public-datasets |
 | 3000 Rice Genomes Project | An international effort to sequence the genomes of 3,024 rice varieties from 89 countries. | - | BAM, VCF | https://registry.opendata.aws/3kricegenome/ |
