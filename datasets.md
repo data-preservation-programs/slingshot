@@ -45,12 +45,10 @@ If you would like to use a dataset that you don't see listed here, please submit
 | Congressional Datasets | Videos of meetings as well as textual legislative data. | - | Various | https://www.congress.gov/ | 
 | Unsplash | The internet’s source of freely-usable images. | 931 MB | jpeg | https://unsplash.com/ | 
 | Project Gutenberg | online library of free eBooks - english  | 60GB | various | https://www.gutenberg.org |
-| Monolith VR Materials | Self filmed materials and the produced VR videos  | 800TB | Video | http://ipfsnb.io |
 | Starry Sky in Yunnan | meteorological and astronomical data  | 10PiB | tar,fits | http://hlmxy.file123.pro:9006|
 | ImageNet |  an image database organized according to the WordNet hierarchy| 1.2T | jpeg | http://www.image-net.org/ |
 | Github | Public code hosting platform  | 20TB | Git repositories / plain text | https://github.com |
 | IPUMS | Global census data | - | Structured data | https://ipums.org/ |
-| Kaggle datasets | Various public datasets used for training machine learning models | - | Varies | https://www.kaggle.com/datasets |
 | Amazon datasets | Various public datasets used for research | - | Varies | https://registry.opendata.aws/ |
 | Udacity Self-Driving Car data | Data used for training self-driving machine learning models | ~285GB | - | https://github.com/udacity/self-driving-car/tree/master/datasets |
 | Million Song Dataset | NSF-funded public music dataset for research | 280GB | http://millionsongdataset.com/ |
@@ -82,3 +80,4 @@ If you would like to use a dataset that you don't see listed here, please submit
 | Movie Heaven | Movie Paradise is a large online movie broadcasting platform in China | - | Video | https://www.dytt8.net |
 | COCO | COCO is a large-scale object detection, segmentation, and captioning dataset. | - | ZIP | https://cocodataset.org |
 | Google Cloud Public Datasets | Uncover new insights with high-demand public datasets | - | Varies | https://cloud.google.com/public-datasets |
+| 3000 Rice Genomes Project | An international effort to sequence the genomes of 3,024 rice varieties from 89 countries. | - | BAM, VCF | https://registry.opendata.aws/3kricegenome/ |
