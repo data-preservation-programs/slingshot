@@ -64,3 +64,6 @@ If you would like to use a dataset that you don't see listed here, please submit
 | NEAR-VI-Dataset | The NetEase AR Oriented Visual Inertial Dataset | 175G | gif | https://github.com/EZXR-Research/NEAR-VI-Dataset |
 | COCO | COCO is a large-scale object detection, segmentation, and captioning dataset. | - | ZIP | https://cocodataset.org |
 | 3000 Rice Genomes Project | An international effort to sequence the genomes of 3,024 rice varieties from 89 countries. | - | BAM, VCF | https://registry.opendata.aws/3kricegenome/ |
+| Public domain movies | A collection of public domain movies  | 1 TB  | video | https://archive.org/details/publicmovies212|
+| Prelinger archives | Rick Prelinger and The Internet Archive hereby offer public domain films from Prelinger Archives to all for free downloading and reuse.|- | video|https://archive.org/details/prelinger?tab=collection|
+| The Massively Multilingual Image Dataset (MMID) | MMID is a large-scale, massively multilingual dataset of images paired with the words they represent collected at the University of Pennsylvania | 1.8Tb | images|https://registry.opendata.aws/mmid/|
