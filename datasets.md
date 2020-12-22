@@ -64,3 +64,4 @@ If you would like to use a dataset that you don't see listed here, please submit
 | NEAR-VI-Dataset | The NetEase AR Oriented Visual Inertial Dataset | 175G | gif | https://github.com/EZXR-Research/NEAR-VI-Dataset |
 | COCO | COCO is a large-scale object detection, segmentation, and captioning dataset. | - | ZIP | https://cocodataset.org |
 | 3000 Rice Genomes Project | An international effort to sequence the genomes of 3,024 rice varieties from 89 countries. | - | BAM, VCF | https://registry.opendata.aws/3kricegenome/ |
+| Genome Ark | The Genome Ark hosts genomic information for the Vertebrate Genomes Project (VGP) and other related projects. | 245.6 TiB | Various | https://vertebrategenomesproject.org |
