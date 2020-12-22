@@ -64,3 +64,7 @@ If you would like to use a dataset that you don't see listed here, please submit
 | NEAR-VI-Dataset | The NetEase AR Oriented Visual Inertial Dataset | 175G | gif | https://github.com/EZXR-Research/NEAR-VI-Dataset |
 | COCO | COCO is a large-scale object detection, segmentation, and captioning dataset. | - | ZIP | https://cocodataset.org |
 | 3000 Rice Genomes Project | An international effort to sequence the genomes of 3,024 rice varieties from 89 countries. | - | BAM, VCF | https://registry.opendata.aws/3kricegenome/ |
+| Genome Aggregation Database | The Genome Aggregation Database (gnomAD) is a resource developed by an international coalition of investigators that aggregates and harmonizes both exome and genome data from a wide range of large-scale human sequencing projects. | 35.7 TiB | .gz | https://gnomad.broadinstitute.org/ |
+| UK Biobank Pan-Ancestry Summary Statistics | A multi-ancestry analysis of 7,221 phenotypes using a generalized mixed model association testing framework, spanning 16,119 genome-wide association studies. | 75.2 TiB | .gz| https://pan.ukbb.broadinstitute.org |
+| Genome in a Bottle | Several reference genomes to enable translation of whole human genome sequencing to clinical practice. | 89.9 TiB | .gz | http://genomeinabottle.org/ |
+
