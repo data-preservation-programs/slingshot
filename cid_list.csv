@@ -1,1 +1,1 @@
-deal_id,miner_id,miner_country,payload_cid,filename,file_format,size_in_bytes,date,curated_dataset
+deal_id,miner_id,payload_cid,filename,file_format,size_in_bytes,date,curated_dataset
