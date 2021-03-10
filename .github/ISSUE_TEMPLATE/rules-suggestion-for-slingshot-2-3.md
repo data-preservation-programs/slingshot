@@ -3,7 +3,7 @@ name: Rules suggestion for Slingshot 2.3
 about: Feel free to make a rules suggestion for Slingshot 2.3
 title: "[rule proposal] Enter your rule name here"
 labels: rules-suggestion
-assignees: pooja, dineshshenoy
+assignees: dineshshenoy, pooja
 
 ---
 
