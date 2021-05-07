@@ -3,7 +3,7 @@ Slingshot’s aim for using curated datasets is to ensure meaningful data is sto
 
 There are a wide variety of public data sets that can be leveraged for this challenge - a sampling is shown in the table below.  
 
-If you would like to use a dataset that you don't see listed here, please submit an issue to add the dataset to this table. If you are using your own data that you are willing to make public but does not have a source URL, then feel free to write 'N/A' in the URL column.
+If you would like to use a dataset that you don't see listed here, please submit an issue to add the dataset to this table. In order to qualify for Slingshot,  a dataset should generally be a public good dataset, be accessible to everyone, and not require any special permissions to access. If you are using your own data that you are willing to make public but does not have a source URL, then please share a link to download it in the Link to Dataset field.
 
 
 
