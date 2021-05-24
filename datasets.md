@@ -77,3 +77,9 @@ If you would like to use a dataset that you don't see listed here, please submit
 | Cancer Cell Line Encyclopedia (CCLE) |  The Cancer Cell Line Encyclopedia (CCLE) project is an effort to conduct a detailed genetic characterization of a large panel of human cancer cell lines. This dataset contains RNA-Seq Aligned Reads, WXS Aligned Reads, and WGS Aligned Reads data. | 20.7 TiB |  Various | https://portals.broadinstitute.org/ccle/about |
 | CCAFS-Climate Data | High resolution climate data to help assess the impacts of climate change primarily on agriculture. These open access datasets of climate projections will help researchers make climate change impact assessments. | 6.8 TiB | Various | http://www.ccafs-climate.org/ |
 | ECMWF ERA5 Reanalysis |  ERA5 is the fifth generation of ECMWF atmospheric reanalyses of the global climate, and the first reanalysis produced as an operational service. | 7.6 Tib |  .nc | https://apps.ecmwf.int/datasets/ |
+| MusicNet Dataset | A curated collection of labeled classical music. | 31 GB | wav | https://www.kaggle.com/imsparsh/musicnet-dataset |
+| CLEVR Dataset | A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning. | 19 GB | png&json | https://www.kaggle.com/timoboz/clevr-dataset |
+| NSFW - not-safe-for-work | Classification dataset, This dataset contains content intended for individuals 18 or older. | 20 GB | jpg | https://www.kaggle.com/omeret/not-safe-for-work |
+| Magic kids dataset | A Machine Learning classification dataset. | 17 GB | jpg | https://www.kaggle.com/fedorshakhovskiy/magic-kids |
+| COCO2017 | Common Objects in Context | 20 GB | jpg | https://www.kaggle.com/aishwr/coco2017 |
+| COCO 2017 Dataset | COCO is a large-scale object detection, segmentation, and captioning dataset. | 20 GB | jpg | https://www.kaggle.com/awsaf49/coco-2017-dataset |
