@@ -5,7 +5,9 @@ There are a wide variety of public data sets that can be leveraged for this chal
 
 If you would like to use a dataset that you don't see listed here, please submit an issue to add the dataset to this table. In order to qualify for Slingshot,  a dataset should generally be a public good dataset, be accessible to everyone, and not require any special permissions to access. If you are using your own data that you are willing to make public but does not have a source URL, then please share a link to download it in the Link to Dataset field.
 
+## Current qualifying datasets
 
+In an effort to continue diversifying the data being onboarded onto the network, the list of qualifying datasets changes over time as participating teams onboard more data onto the network! Datasets that qualified in previous phases of Slingshot and no longer qualify as listed separately below.
 
 |Name                          |Descriptions                                                                                                                                                                               |Size    |Format |URL                                                                            |
 |------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|-------|-------------------------------------------------------------------------------|
@@ -74,7 +76,10 @@ If you would like to use a dataset that you don't see listed here, please submit
 | CCAFS-Climate Data | High resolution climate data to help assess the impacts of climate change primarily on agriculture. These open access datasets of climate projections will help researchers make climate change impact assessments. | 6.8 TiB | Various | http://www.ccafs-climate.org/ |
 | ECMWF ERA5 Reanalysis |  ERA5 is the fifth generation of ECMWF atmospheric reanalyses of the global climate, and the first reanalysis produced as an operational service. | 7.6 Tib |  .nc | https://apps.ecmwf.int/datasets/ |
 
-Open datasets that were onboarded in previous phases that no longer qualify for Slingshot rewards: 
+## Disqualified datasets
+
+Here is the list of open datasets that were onboarded in previous phases that no longer qualify for Slingshot rewards.
+
 | Name | Description | Size | Format | URL |
 | ---- | ----------- | ---- | ------ | --- |
 | Common Crawl | An open repository of web crawl data | 235 TB  | WARC | https://commoncrawl.org/ |
