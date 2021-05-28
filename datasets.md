@@ -5,7 +5,9 @@ There are a wide variety of public data sets that can be leveraged for this chal
 
 If you would like to use a dataset that you don't see listed here, please submit an issue to add the dataset to this table. In order to qualify for Slingshot,  a dataset should generally be a public good dataset, be accessible to everyone, and not require any special permissions to access. If you are using your own data that you are willing to make public but does not have a source URL, then please share a link to download it in the Link to Dataset field.
 
+## Current qualifying datasets
 
+In an effort to continue diversifying the data being onboarded onto the network, the list of qualifying datasets changes over time as participating teams onboard more data onto the network! Datasets that qualified in previous phases of Slingshot and no longer qualify as listed separately below.
 
 |Name                          |Descriptions                                                                                                                                                                               |Size    |Format |URL                                                                            |
 |------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|-------|-------------------------------------------------------------------------------|
@@ -19,13 +21,11 @@ If you would like to use a dataset that you don't see listed here, please submit
 |GHTorrent Project             |a scalable, queriable, offline mirror of data offered through the Github REST API.                                                                                                         |18TB    |MySQL  |https://ghtorrent.org/                                                         |
 |Free Music Archive            | 106,574 tracks from 16,341 artists and 14,854 albums, arranged in a hierarchical taxonomy of 161 genres                                                                                   |879 GB  |MP3    |https://github.com/mdeff/fma                                                   |
 |Open Images Dataset           |9 million URLs to images that have been annotated with labels spanning over 6000 categories                                                                                                |18 TB   |PNG    |https://storage.googleapis.com/openimages/web/index.html                       |
-|Common Crawl                  |An open repository of web crawl data                                                                                                                                                       |235 TB  |WARC   |https://commoncrawl.org/                                                       |
 |Noisy speech database         |Used for training speech enhancement algorithms and TTS models                                                                                                                             |14 GB   |WAV    |https://datashare.is.ed.ac.uk/handle/10283/2791                                |
 |NFL play-by-play              |The data has three tables: teams, players, and plays.                                                                                                                                      |2.54 GB |Text   |https://www.dolthub.com/repositories/Liquidata/nfl-play-by-play                |
 |NYC Trip Record Data          |include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts.|267 GB  |CSV    |https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page                  |
 |National Cancer Institute     |Cancer data for analysis                                                                                                                                                                   |18.46 TB|JSON   |https://portal.gdc.cancer.gov/repository                                       |
 |Public Blockchain Datasets    |Blockchain data from cryptocurrencies Bitcoin, Ethereum, Dodgecoin, ZCash, Litecoin, Dash, Bitcoin Cash, Ethereum Classic, Tezos, Hedera Hashgraph, IoTex.                                 |9 TB    |Various|https://github.com/blockchain-etl/public-datasets                              |
-| Landsat 8 | Multispectral time series satellite imagery of all land on Earth since 2013 | 1.3 PB (estimated) | GeoTIFF + metadata - [sample scene](https://landsat-pds.s3.amazonaws.com/c1/L8/139/045/LC08_L1TP_139045_20170304_20170316_01_T1/index.html) | https://registry.opendata.aws/landsat-8/#usageexamples |
 | Docker Images | Docker container images that are published on Docker Hub  | 167 TB | images | https://hub.docker.com/ |
 | Filecoin Proofs | - | 224 GB | - | https://proofs.filecoin.io/ |
 | Filecoin Trusted Setup | - | 2.05 TB | - | https://trusted-setup.filecoin.io/ |
@@ -33,7 +33,6 @@ If you would like to use a dataset that you don't see listed here, please submit
 | Arxiv | Scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, and more. | - | PDF | https://arxiv.org/ |
 | Audius | An American decentralized music platform developing the first community-owned and artist-controlled Music sharing protocol. | - | MP3 | https://audius.co/ |
 | Blackbird Dataset | A large-scale dataset for UAV perception in aggressive flight | 4.79 TB | - | https://academictorrents.com/details/eb542a231dbeb2125e4ec88ddd18841a867c2656 |
-| Linux ISO | Linux ISO Images | - | ISO | https://www.linuxlookup.com/linux_iso | 
 | ArchLinux | ArchLinux packages repository | 56 GB | Various | https://wiki.archlinux.org/index.php/Mirrors |
 | CentOS | CentOS packages repository | 200 GB | Various | http://mirror.sesp.northwestern.edu/centos/ |
 | Tencent Corpus for Chinese Words and Phrases | Meant for AI purposes | 6.3 GB | Various | https://ai.tencent.com/ailab/nlp/en/embedding.html |
@@ -67,7 +66,6 @@ If you would like to use a dataset that you don't see listed here, please submit
 | Public domain movies | A collection of public domain movies  | 1 TB  | video | https://archive.org/details/publicmovies212|
 | Prelinger archives | Rick Prelinger and The Internet Archive hereby offer public domain films from Prelinger Archives to all for free downloading and reuse.|- | video|https://archive.org/details/prelinger?tab=collection|
 | The Massively Multilingual Image Dataset (MMID) | MMID is a large-scale, massively multilingual dataset of images paired with the words they represent collected at the University of Pennsylvania | 1.8Tb | images|https://registry.opendata.aws/mmid/|
-| Genome Ark | The Genome Ark hosts genomic information for the Vertebrate Genomes Project (VGP) and other related projects. | 245.6 TiB | Various | https://vertebrategenomesproject.org |
 | Genome Aggregation Database | The Genome Aggregation Database (gnomAD) is a resource developed by an international coalition of investigators that aggregates and harmonizes both exome and genome data from a wide range of large-scale human sequencing projects. | 35.7 TiB | .gz | https://gnomad.broadinstitute.org/ |
 | UK Biobank Pan-Ancestry Summary Statistics | A multi-ancestry analysis of 7,221 phenotypes using a generalized mixed model association testing framework, spanning 16,119 genome-wide association studies. | 75.2 TiB | .gz| https://pan.ukbb.broadinstitute.org |
 | Genome in a Bottle | Several reference genomes to enable translation of whole human genome sequencing to clinical practice. | 89.9 TiB | .gz | http://genomeinabottle.org/ |
@@ -77,3 +75,16 @@ If you would like to use a dataset that you don't see listed here, please submit
 | Cancer Cell Line Encyclopedia (CCLE) |  The Cancer Cell Line Encyclopedia (CCLE) project is an effort to conduct a detailed genetic characterization of a large panel of human cancer cell lines. This dataset contains RNA-Seq Aligned Reads, WXS Aligned Reads, and WGS Aligned Reads data. | 20.7 TiB |  Various | https://portals.broadinstitute.org/ccle/about |
 | CCAFS-Climate Data | High resolution climate data to help assess the impacts of climate change primarily on agriculture. These open access datasets of climate projections will help researchers make climate change impact assessments. | 6.8 TiB | Various | http://www.ccafs-climate.org/ |
 | ECMWF ERA5 Reanalysis |  ERA5 is the fifth generation of ECMWF atmospheric reanalyses of the global climate, and the first reanalysis produced as an operational service. | 7.6 Tib |  .nc | https://apps.ecmwf.int/datasets/ |
+
+## Disqualified datasets
+
+Here is the list of open datasets that were onboarded in previous phases that no longer qualify for Slingshot rewards.
+
+| Name | Description | Size | Format | URL |
+| ---- | ----------- | ---- | ------ | --- |
+| Common Crawl | An open repository of web crawl data | 235 TB  | WARC | https://commoncrawl.org/ |
+| Genome Ark | The Genome Ark hosts genomic information for the Vertebrate Genomes Project (VGP) and other related projects. | 245.6 TiB | Various | https://vertebrategenomesproject.org |
+| Landsat 8 | Multispectral time series satellite imagery of all land on Earth since 2013 | 1.3 PB (approx) | GeoTIFF + metadata - [sample scene](https://landsat-pds.s3.amazonaws.com/c1/L8/139/045/LC08_L1TP_139045_20170304_20170316_01_T1/index.html) | https://registry.opendata.aws/landsat-8/#usageexamples |
+| Linux ISO | Linux ISO Images | - | ISO | https://www.linuxlookup.com/linux_iso | 
+
+
