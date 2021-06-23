@@ -75,6 +75,11 @@ In an effort to continue diversifying the data being onboarded onto the network,
 | Cancer Cell Line Encyclopedia (CCLE) |  The Cancer Cell Line Encyclopedia (CCLE) project is an effort to conduct a detailed genetic characterization of a large panel of human cancer cell lines. This dataset contains RNA-Seq Aligned Reads, WXS Aligned Reads, and WGS Aligned Reads data. | 20.7 TiB |  Various | https://portals.broadinstitute.org/ccle/about |
 | CCAFS-Climate Data | High resolution climate data to help assess the impacts of climate change primarily on agriculture. These open access datasets of climate projections will help researchers make climate change impact assessments. | 6.8 TiB | Various | http://www.ccafs-climate.org/ |
 | ECMWF ERA5 Reanalysis |  ERA5 is the fifth generation of ECMWF atmospheric reanalyses of the global climate, and the first reanalysis produced as an operational service. | 7.6 Tib |  .nc | https://apps.ecmwf.int/datasets/ |
+| PandaSet Dataset | Public large-scale dataset for autonomous driving |  31GB | Various | https://www.kaggle.com/usharengaraju/pandaset-dataset |
+| AudioSet [Train] | Training audio files for AudioSet |  29GB | Various | https://www.kaggle.com/zfturbo/audioset |
+| GloVe Reddit Comments | Global Vectors for Word Representation based on Reddit comments
+ |  24GB | Various | https://www.kaggle.com/leighplt/glove-reddit-comments |
+| May 2015 Reddit Comments | Get personal with a dataset of comments from May 2015 |  30GB | Various | https://www.kaggle.com/reddit/reddit-comments-may-2015 |
 
 ## Disqualified datasets
 
