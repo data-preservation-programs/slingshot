@@ -77,8 +77,7 @@ In an effort to continue diversifying the data being onboarded onto the network,
 | ECMWF ERA5 Reanalysis |  ERA5 is the fifth generation of ECMWF atmospheric reanalyses of the global climate, and the first reanalysis produced as an operational service. | 7.6 Tib |  .nc | https://apps.ecmwf.int/datasets/ |
 | PandaSet Dataset | Public large-scale dataset for autonomous driving |  31GB | Various | https://www.kaggle.com/usharengaraju/pandaset-dataset |
 | AudioSet [Train] | Training audio files for AudioSet |  29GB | Various | https://www.kaggle.com/zfturbo/audioset |
-| GloVe Reddit Comments | Global Vectors for Word Representation based on Reddit comments
- |  24GB | Various | https://www.kaggle.com/leighplt/glove-reddit-comments |
+| GloVe Reddit Comments | Global Vectors for Word Representation based on Reddit comments |  24GB | Various | https://www.kaggle.com/leighplt/glove-reddit-comments |
 | May 2015 Reddit Comments | Get personal with a dataset of comments from May 2015 |  30GB | Various | https://www.kaggle.com/reddit/reddit-comments-may-2015 |
 
 ## Disqualified datasets
