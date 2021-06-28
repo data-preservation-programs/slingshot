@@ -3,7 +3,7 @@ name: Request to add a dataset for Slingshot
 about: Feel free to make a dataset request for Slingshot
 title: "[dataset request] Enter your dataset name here"
 labels: dataset-request
-assignees: pooja
+assignees: dkkapur
 
 ---
 
