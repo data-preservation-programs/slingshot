@@ -77,7 +77,8 @@ In an effort to continue diversifying the data being onboarded onto the network,
 | MusicNet Dataset | A curated collection of labeled classical music. | 31 GB | wav | https://www.kaggle.com/imsparsh/musicnet-dataset |
 | CLEVR Dataset | A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning. | 19 GB | png&json | https://www.kaggle.com/timoboz/clevr-dataset |
 | COCO2017 | Common Objects in Context | 20 GB | jpg | https://www.kaggle.com/aishwr/coco2017 |
-| COCO 2017 Dataset | COCO is a large-scale object detection, segmentation, and captioning dataset. | 26 GB | jpg | https://www.kaggle.com/awsaf49/coco-2017-dataset |
+| COCO 2017 Dataset | COCO is a large-scale object detection, segmentation, and captioning dataset. | 26 GB | jpg | https://www.kaggle.com/awsaf49/coco-2017-dataset  |
+| Open Library Data Dump | Records of over 22 million works, 30 million editions and 8 million authors, curated by the Open Library project. | 10 GB | txt | https://openlibrary.org/data/ol_dump_latest.txt.gz |
 
 
 ## Disqualified datasets
