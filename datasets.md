@@ -69,7 +69,6 @@ In an effort to continue diversifying the data being onboarded onto the network,
 | Genome Aggregation Database | The Genome Aggregation Database (gnomAD) is a resource developed by an international coalition of investigators that aggregates and harmonizes both exome and genome data from a wide range of large-scale human sequencing projects. | 35.7 TiB | .gz | https://gnomad.broadinstitute.org/ |
 | UK Biobank Pan-Ancestry Summary Statistics | A multi-ancestry analysis of 7,221 phenotypes using a generalized mixed model association testing framework, spanning 16,119 genome-wide association studies. | 75.2 TiB | .gz| https://pan.ukbb.broadinstitute.org |
 | Genome in a Bottle | Several reference genomes to enable translation of whole human genome sequencing to clinical practice. | 89.9 TiB | .gz | http://genomeinabottle.org/ |
-| Encyclopedia of DNA Elements | The Encyclopedia of DNA Elements (ENCODE) Consortium is an international collaboration of research groups funded by the National Human Genome Research Institute (NHGRI).| 660.7 TiB | gz,bigbed | https://www.encodeproject.org |
 | The LibriVox Free Audiobook Collection |  LibriVox - founded in 2005 - is a community of volunteers from all over the world who record public domain texts: poetry, short stories, whole books, even dramatic works, in many different language | 19.1 Tb |  Mp3, m3u | https://archive.org/details/librivoxaudio |
 | Free Rainbow Tables | The goal of FreeRainbowTables.com is to prove the insecurity of using simple hash routines to protect valuable passwords, and force developers to use more secure methods. | - | Various | https://freerainbowtables.com/ |
 | Cancer Cell Line Encyclopedia (CCLE) |  The Cancer Cell Line Encyclopedia (CCLE) project is an effort to conduct a detailed genetic characterization of a large panel of human cancer cell lines. This dataset contains RNA-Seq Aligned Reads, WXS Aligned Reads, and WGS Aligned Reads data. | 20.7 TiB |  Various | https://portals.broadinstitute.org/ccle/about |
@@ -81,7 +80,7 @@ In an effort to continue diversifying the data being onboarded onto the network,
 | COCO 2017 Dataset | COCO is a large-scale object detection, segmentation, and captioning dataset. | 26 GB | jpg | https://www.kaggle.com/awsaf49/coco-2017-dataset |
 | PandaSet Dataset | Public large-scale dataset for autonomous driving |  31GB | Various | https://www.kaggle.com/usharengaraju/pandaset-dataset |
 | GloVe Reddit Comments | Global Vectors for Word Representation based on Reddit comments |  24GB | Various | https://www.kaggle.com/leighplt/glove-reddit-comments |
-
+| Open Library Data Dump | Records of over 22 million works, 30 million editions and 8 million authors, curated by the Open Library project. | 10 GB | txt | https://openlibrary.org/data/ol_dump_latest.txt.gz |
 
 ## Disqualified datasets
 
@@ -89,6 +88,7 @@ Here is the list of open datasets that were onboarded in previous phases that no
 
 | Name | Description | Size | Format | URL |
 | ---- | ----------- | ---- | ------ | --- |
+| Encyclopedia of DNA Elements | The Encyclopedia of DNA Elements (ENCODE) Consortium is an international collaboration of research groups funded by the National Human Genome Research Institute (NHGRI).| 660.7 TiB | gz,bigbed | https://www.encodeproject.org |
 | Common Crawl | An open repository of web crawl data | 235 TB  | WARC | https://commoncrawl.org/ |
 | Genome Ark | The Genome Ark hosts genomic information for the Vertebrate Genomes Project (VGP) and other related projects. | 245.6 TiB | Various | https://vertebrategenomesproject.org |
 | Landsat 8 | Multispectral time series satellite imagery of all land on Earth since 2013 | 1.3 PB (approx) | GeoTIFF + metadata - [sample scene](https://landsat-pds.s3.amazonaws.com/c1/L8/139/045/LC08_L1TP_139045_20170304_20170316_01_T1/index.html) | https://registry.opendata.aws/landsat-8/#usageexamples |
