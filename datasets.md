@@ -39,19 +39,14 @@ In an effort to continue diversifying the data being onboarded onto the network,
 | Open Library Data Dump | Records of over 22 million works, 30 million editions and 8 million authors, curated by the Open Library project. | 10 GB | txt | https://openlibrary.org/data/ol_dump_latest.txt.gz |
 | GHTorrent Project | A scalable, queriable, offline mirror of data offered through the Github REST API. | 18 TB | MySQL | https://ghtorrent.org/ |
 
-## Disqualified datasets
+## Deprioritized datasets
 
-Here is the list of open datasets that may have qualified to be onboarded in previous phases that no longer qualify for Slingshot rewards in the current phase.
+These datasets have been temporarily disqualified for the current phase of the competition, but may be reinstated in the future. 
 
 | Name | Description | Size | Format | URL |
 | ---- | ----------- | ---- | ------ | --- |
 | Sloan Digital Sky Survey | Three dimensional view of the universe | 273 TB | Various | https://www.sdss.org/ |
 | Flickr Commons | The key goal of The Commons is to share hidden treasures from the world's public photography archives. | 50 TB | jpeg | https://www.flickr.com/commons |
-| Encyclopedia of DNA Elements | The Encyclopedia of DNA Elements (ENCODE) Consortium is an international collaboration of research groups funded by the National Human Genome Research Institute (NHGRI).| 660.7 TiB | gz,bigbed | https://www.encodeproject.org |
-| Common Crawl | An open repository of web crawl data | 235 TB  | WARC | https://commoncrawl.org/ |
-| Genome Ark | The Genome Ark hosts genomic information for the Vertebrate Genomes Project (VGP) and other related projects. | 245.6 TiB | Various | https://vertebrategenomesproject.org |
-| Landsat 8 | Multispectral time series satellite imagery of all land on Earth since 2013 | 1.3 PB (approx) | GeoTIFF + metadata - [sample scene](https://landsat-pds.s3.amazonaws.com/c1/L8/139/045/LC08_L1TP_139045_20170304_20170316_01_T1/index.html) | https://registry.opendata.aws/landsat-8/#usageexamples |
-| Linux ISO | Linux ISO Images | - | ISO | https://www.linuxlookup.com/linux_iso | 
 | Free Rainbow Tables | The goal of FreeRainbowTables.com is to prove the insecurity of using simple hash routines to protect valuable passwords, and force developers to use more secure methods. | - | Various | https://freerainbowtables.com/ |
 | Chest X-Ray Images (Pneumonia) | 5,863 images, 2 categories | 2.29 GB |JPEG | https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia |
 |163 source Dataset|NetEase Open Source Mirror Station |- |iso |https://mirrors.163.com |
@@ -93,4 +88,16 @@ Here is the list of open datasets that may have qualified to be onboarded in pre
 | CLEVR Dataset | A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning. | 19 GB | png&json | https://www.kaggle.com/timoboz/clevr-dataset |
 | COCO2017 | Common Objects in Context | 20 GB | jpg | https://www.kaggle.com/aishwr/coco2017 |
 
+
+## Disqualified datasets
+
+Here is the list of open datasets that were onboarded in previous phases that no longer qualify for Slingshot rewards.
+
+| Name | Description | Size | Format | URL |
+| ---- | ----------- | ---- | ------ | --- |
+| Encyclopedia of DNA Elements | The Encyclopedia of DNA Elements (ENCODE) Consortium is an international collaboration of research groups funded by the National Human Genome Research Institute (NHGRI).| 660.7 TiB | gz,bigbed | https://www.encodeproject.org |
+| Common Crawl | An open repository of web crawl data | 235 TB  | WARC | https://commoncrawl.org/ |
+| Genome Ark | The Genome Ark hosts genomic information for the Vertebrate Genomes Project (VGP) and other related projects. | 245.6 TiB | Various | https://vertebrategenomesproject.org |
+| Landsat 8 | Multispectral time series satellite imagery of all land on Earth since 2013 | 1.3 PB (approx) | GeoTIFF + metadata - [sample scene](https://landsat-pds.s3.amazonaws.com/c1/L8/139/045/LC08_L1TP_139045_20170304_20170316_01_T1/index.html) | https://registry.opendata.aws/landsat-8/#usageexamples |
+| Linux ISO | Linux ISO Images | - | ISO | https://www.linuxlookup.com/linux_iso | 
 
