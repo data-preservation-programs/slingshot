@@ -31,14 +31,12 @@ In an effort to continue diversifying the data being onboarded onto the network,
 | Open Images Dataset |9 million URLs to images that have been annotated with labels spanning over 6000 categories | 18 TB | PNG |https://storage.googleapis.com/openimages/web/index.html |
 | Filecoin Proofs | - | 224 GB | - | https://proofs.filecoin.io/ |
 | Filecoin Trusted Setup | - | 2.05 TB | - | https://trusted-setup.filecoin.io/ |
-| Flickr Commons | The key goal of The Commons is to share hidden treasures from the world's public photography archives. | 50 TB | jpeg | https://www.flickr.com/commons |
 | openFDA | Open datasets from the US Food and Drug Administration | N/A |JSON | https://open.fda.gov/data/downloads/ |
 | AVSpeech: Large-scale Audio-Visual Speech Dataset | large-scale audio-visual dataset comprising speech video clips with no interfering background noises | 1.50 TB | N/A | https://academictorrents.com/details/b078815ca447a3e4d17e8a2a34f13183ec5dec41 |
 | COCO 2017 Dataset | COCO is a large-scale object detection, segmentation, and captioning dataset. | 26 GB | jpg | https://www.kaggle.com/awsaf49/coco-2017-dataset |
 | PandaSet Dataset | Public large-scale dataset for autonomous driving |  31 GB | Various | https://www.kaggle.com/usharengaraju/pandaset-dataset |
 | GloVe Reddit Comments | Global Vectors for Word Representation based on Reddit comments |  24 GB | Various | https://www.kaggle.com/leighplt/glove-reddit-comments |
 | Open Library Data Dump | Records of over 22 million works, 30 million editions and 8 million authors, curated by the Open Library project. | 10 GB | txt | https://openlibrary.org/data/ol_dump_latest.txt.gz |
-| Sloan Digital Sky Survey | Three dimensional view of the universe | 273 TB | Various | https://www.sdss.org/ |
 | GHTorrent Project | A scalable, queriable, offline mirror of data offered through the Github REST API. | 18 TB | MySQL | https://ghtorrent.org/ |
 
 ## Disqualified datasets
@@ -47,6 +45,8 @@ Here is the list of open datasets that may have qualified to be onboarded in pre
 
 | Name | Description | Size | Format | URL |
 | ---- | ----------- | ---- | ------ | --- |
+| Sloan Digital Sky Survey | Three dimensional view of the universe | 273 TB | Various | https://www.sdss.org/ |
+| Flickr Commons | The key goal of The Commons is to share hidden treasures from the world's public photography archives. | 50 TB | jpeg | https://www.flickr.com/commons |
 | Encyclopedia of DNA Elements | The Encyclopedia of DNA Elements (ENCODE) Consortium is an international collaboration of research groups funded by the National Human Genome Research Institute (NHGRI).| 660.7 TiB | gz,bigbed | https://www.encodeproject.org |
 | Common Crawl | An open repository of web crawl data | 235 TB  | WARC | https://commoncrawl.org/ |
 | Genome Ark | The Genome Ark hosts genomic information for the Vertebrate Genomes Project (VGP) and other related projects. | 245.6 TiB | Various | https://vertebrategenomesproject.org |
