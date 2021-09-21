@@ -1,9 +1,9 @@
 ---
-name: Rules suggestion for Slingshot 2.3
-about: Feel free to make a rules suggestion for Slingshot 2.3
+name: Rules suggestion for Slingshot 2.X
+about: Feel free to make a rules suggestion for Slingshot 2.X
 title: "[rule proposal] Enter your rule name here"
 labels: rules-suggestion
-assignees: dineshshenoy, pooja
+assignees: dkkapur
 
 ---
 
