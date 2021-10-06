@@ -38,6 +38,11 @@ In an effort to continue diversifying the data being onboarded onto the network,
 | GloVe Reddit Comments | Global Vectors for Word Representation based on Reddit comments |  24 GB | Various | https://www.kaggle.com/leighplt/glove-reddit-comments |
 | Open Library Data Dump | Records of over 22 million works, 30 million editions and 8 million authors, curated by the Open Library project. | 10 GB | txt | https://openlibrary.org/data/ol_dump_latest.txt.gz |
 | GHTorrent Project | A scalable, queriable, offline mirror of data offered through the Github REST API. | 18 TB | MySQL | https://ghtorrent.org/ |
+| Open Library Data Dump | Records of over 22 million works, 30 million editions and 8 million authors, curated by the Open Library project. | 10 GB | txt | https://openlibrary.org/data/ol_dump_latest.txt.gz |
+| GHTorrent Project | A scalable, queriable, offline mirror of data offered through the Github REST API. | 18 TB | MySQL | https://ghtorrent.org/ |
+| Fly Brain Anatomy | Fluorescence images of Drosophila melanogaster driver lines for neuroscience research purposes, stored in formats suitable for rapid searching in the cloud. | 119 TB | images and videos | https://registry.opendata.aws/janelia-flylight/ |
+| Foldingathome COVID-19 Dataset |  Folding@home is a massively distributed computing project that uses biomolecular simulations to investigate the molecular origins of disease and accelerate the discovery of new therapies. | 71 TiB | xtc | https://registry.opendata.aws/foldingathome-covid19/ |
+
 
 ## Deprioritized datasets
 
