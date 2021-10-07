@@ -3,7 +3,7 @@ name: Request to extend dataset qualification for Slingshot
 about: Request to allow your project to continue uploading a disqualified dataset in case it has not yet completely been uploaded
 title: "[dataset extension request] Enter your dataset name here"
 labels: dataset-extension
-assignees: dkkapur
+assignees: dkkapur, timelytree, orvn
 
 ---
 
