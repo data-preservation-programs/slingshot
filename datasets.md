@@ -41,7 +41,9 @@ In an effort to continue diversifying the data being onboarded onto the network,
 | Open Library Data Dump | Records of over 22 million works, 30 million editions and 8 million authors, curated by the Open Library project. | 10 GB | txt | https://openlibrary.org/data/ol_dump_latest.txt.gz |
 | Fly Brain Anatomy | Fluorescence images of Drosophila melanogaster driver lines for neuroscience research purposes, stored in formats suitable for rapid searching in the cloud. | 119 TB | images and videos | https://registry.opendata.aws/janelia-flylight/ |
 | Foldingathome COVID-19 Dataset |  Folding@home is a massively distributed computing project that uses biomolecular simulations to investigate the molecular origins of disease and accelerate the discovery of new therapies. | 71 TiB | xtc | https://registry.opendata.aws/foldingathome-covid19/ |
-
+| SnpEff | Genomic variant annotations and functional effect prediction toolbox | 2TiB | vcf | https://docs.microsoft.com/en-us/azure/open-datasets/dataset-snpeff |
+| Russian Open Speech To Text | A collection of speech samples derived from various audio sources. The dataset contains short audio clips in Russian. | 3TiB | wav/opus | https://docs.microsoft.com/en-us/azure/open-datasets/dataset-open-speech-text |
+| TartanAir | AirSim simulation dataset for simultaneous localization and mapping (SLAM) | 3TiB | png/npy/txt | https://docs.microsoft.com/en-us/azure/open-datasets/dataset-tartanair-simulation |
 
 ## Deprioritized datasets
 
