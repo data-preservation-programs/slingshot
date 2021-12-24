@@ -1,0 +1,17 @@
+{
+  "landsat-8": "Landsat 8",
+  "3000-rice-genomes-project": "3000 Rice Genomes Project",
+  "public-blockchain-datasets": "Public Blockchain Datasets",
+  "avspeech-large-scale-audio-visual-speech-dataset": "AVSpeech: Large-scale Audio-Visual Speech Dataset",
+  "huge-stock-market-dataset": "Huge Stock Market Dataset",
+  "national-cancer-institute": "National Cancer Institute Data",
+  "uc-berkeley-computer-science-courses": "UC Berkeley Computer Science Courses",
+  "the-librivox-free-audiobook-collection": "The LibriVox Free Audiobook Collection",
+  "folding-at-home-covid": "Folding@home COVID-19 Dataset",
+  "flickr-commons": "Flickr Commons",
+  "google-open-images": "Google Open Images",
+  "genome-aggregation-database": "Genome Aggregation Database",
+  "filecoin-trusted-setup": "Filecoin Trusted Setup",
+  "a2d2": "Audi Autonomous Driving Dataset (A2D2)",
+  "encyclopedia-of-dna-elements": "Encyclopedia of DNA Elements (ENCODE) 2018"
+}
