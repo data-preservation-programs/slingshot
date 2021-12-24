@@ -1,9 +1,10 @@
 ---
 name: Request to extend dataset qualification for Slingshot
-about: Request to allow your project to continue uploading a disqualified dataset in case it has not yet completely been uploaded
+about: Request to allow your project to continue uploading a disqualified dataset
+  in case it has not yet completely been uploaded
 title: "[dataset extension request] Enter your dataset name here"
-labels: dataset-extension
-assignees: dkkapur, timelytree, orvn
+labels: ''
+assignees: dkkapur, orvn, timelytree
 
 ---
 
@@ -21,4 +22,3 @@ _You can request to continue uploading an incompletely onboarded dataset to Slin
 - Number of deals made so far: 
 - Number of deals expected to be made (include replicas stored with unique miner IDs): 
 - Approx. number of weeks required to onboard the rest of the dataset:
-
