@@ -1,6 +1,8 @@
 ## Slingshot Recovery
 
-### Restore
+## Restore
+
+### Uploading CIDs being restored
 
 If you're participating in the Slingshot Restore Program, please create pull requests containing your CIDs in this repository, at the path `recovery/cids/restore/.` 
 
