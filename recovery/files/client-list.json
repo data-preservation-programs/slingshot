@@ -1,7 +1,25 @@
 [
   {
     "client_address": "f3w436qzcbnzpngwwkslethcbsnt7rjdslf25mk7ufoo27gmf4uxt3pa3yn5zilzaqwqduew7pqmu5v2nypuiq",
-    "dataset_slug": "landsat-8",
+    "dataset_slug": "fah-public-data-covid19-cryptic-pockets",
+    "client_name": "Rob",
+    "client_slack_handle": "Rob"
+  },
+  {
+    "client_address": "f3w436qzcbnzpngwwkslethcbsnt7rjdslf25mk7ufoo27gmf4uxt3pa3yn5zilzaqwqduew7pqmu5v2nypuiq",
+    "dataset_slug": "fah-public-data-covid19-antibodies",
+    "client_name": "Rob",
+    "client_slack_handle": "Rob"
+  },
+  {
+    "client_address": "f3w436qzcbnzpngwwkslethcbsnt7rjdslf25mk7ufoo27gmf4uxt3pa3yn5zilzaqwqduew7pqmu5v2nypuiq",
+    "dataset_slug": "fah-public-data-covid19-absolute-free-energy",
+    "client_name": "Rob",
+    "client_slack_handle": "Rob"
+  },
+  {
+    "client_address": "f3w436qzcbnzpngwwkslethcbsnt7rjdslf25mk7ufoo27gmf4uxt3pa3yn5zilzaqwqduew7pqmu5v2nypuiq",
+    "dataset_slug": "fah-public-data-covid19-moonshot-dynamics",
     "client_name": "Rob",
     "client_slack_handle": "Rob"
   },
