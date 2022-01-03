@@ -124,5 +124,11 @@
     "dataset_slug": "encyclopedia-of-dna-elements",
     "client_name": "Xinan Xu",
     "client_slack_handle": "U01D5JCJ2HE"
+  },
+  {
+    "client_address": "f1lnecek42mynnu5ph7ucoikald2gucl6jty2ivty",
+    "dataset_slug": "genome-ark",
+    "client_name": "Cabrina Huang",
+    "client_slack_handle": "CabrinaHuang"
   }
 ]
