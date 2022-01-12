@@ -90,12 +90,6 @@
     "client_slack_handle": "feiya200"
   },
   {
-    "client_address": "f15djc5avdxihguvpmtej24rzbvnnqvzurxe55kja",
-    "dataset_slug": "folding-at-home-covid",
-    "client_name": "Fei Yan",
-    "client_slack_handle": "feiya200"
-  },
-  {
     "client_address": "f12uknfljr246uisb4ww7y5z4girbefdqpi4fi64y",
     "dataset_slug": "flickr-commons",
     "client_name": "Xinan Xu",
