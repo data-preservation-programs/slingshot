@@ -36,6 +36,12 @@
     "client_slack_handle": "wijnand schouten"
   },
   {
+    "client_address": "f1r73sc6w57lmgoioycsbywogdxyb674twpzma4hi",
+    "dataset_slug": "3000-rice-genomes-project",
+    "client_name": "Wijnand Schouten",
+    "client_slack_handle": "wijnand schouten"
+  },
+  {
     "client_address": "f1srdxedjfgezixzx6x5asyr7k5l3v632dvwjkxci",
     "dataset_slug": "public-blockchain-datasets",
     "client_name": "Wijnand Schouten",
@@ -43,6 +49,12 @@
   },
   {
     "client_address": "f17ia7m5mvizrdug3sqtevqw3tifiqvxqr3kdaeuq",
+    "dataset_slug": "public-blockchain-datasets",
+    "client_name": "Wijnand Schouten",
+    "client_slack_handle": "wijnand schouten"
+  },
+  {
+    "client_address": "f1r73sc6w57lmgoioycsbywogdxyb674twpzma4hi",
     "dataset_slug": "public-blockchain-datasets",
     "client_name": "Wijnand Schouten",
     "client_slack_handle": "wijnand schouten"
@@ -55,6 +67,12 @@
   },
   {
     "client_address": "f17ia7m5mvizrdug3sqtevqw3tifiqvxqr3kdaeuq",
+    "dataset_slug": "avspeech-large-scale-audio-visual-speech-dataset",
+    "client_name": "Wijnand Schouten",
+    "client_slack_handle": "wijnand schouten"
+  },
+  {
+    "client_address": "f1r73sc6w57lmgoioycsbywogdxyb674twpzma4hi",
     "dataset_slug": "avspeech-large-scale-audio-visual-speech-dataset",
     "client_name": "Wijnand Schouten",
     "client_slack_handle": "wijnand schouten"
