@@ -1,46 +1,178 @@
 {
-  "landsat-8": "Landsat 8",
-  "folding-at-home-covid": "Folding@home COVID-19 Dataset",
-  "fah-public-data-covid19-cryptic-pockets": "Folding@home COVID-19 Dataset (Cryptic pockets)",
-  "fah-public-data-covid19-antibodies": "Folding@home COVID-19 Dataset (Antibodies)",
-  "fah-public-data-covid19-absolute-free-energy": "Folding@home COVID-19 Dataset (Absolute Free Energy)",
-  "fah-public-data-covid19-moonshot-dynamics": "Folding@home COVID-19 Dataset (Moonshot Dynamics)",
-  "cancer-cell-line-encyclopedia-ccle": "Cancer Cell Line Encyclopedia (CCLE)",
-  "3000-rice-genomes-project": "3000 Rice Genomes Project",
-  "public-blockchain-datasets": "Public Blockchain Datasets",
-  "avspeech-large-scale-audio-visual-speech-dataset": "AVSpeech: Large-scale Audio-Visual Speech Dataset",
-  "huge-stock-market-dataset": "Huge Stock Market Dataset",
-  "national-cancer-institute": "National Cancer Institute Data",
-  "uc-berkeley-computer-science-courses": "UC Berkeley Computer Science Courses",
-  "the-librivox-free-audiobook-collection": "The LibriVox Free Audiobook Collection",
-  "genome-in-a-bottle": "Genome in a Bottle",
-  "common-crawl-april-2021": "Common Crawl - April 2021",
-  "common-crawl-sept-2021": "Common Crawl - September 2021",
-  "sloan-digital-sky-survey-DR-14": "Sloan Digital Sky Survey DR 14",
-  "encyclopedia-of-dna-elements-2015": "Encyclopedia of DNA Elements (ENCODE) 2015",
-  "encyclopedia-of-dna-elements-2019": "Encyclopedia of DNA Elements (ENCODE) 2019",
-  "encyclopedia-of-dna-elements-2016": "Encyclopedia of DNA Elements (ENCODE) 2016",
-  "encyclopedia-of-dna-elements-2017": "Encyclopedia of DNA Elements (ENCODE) 2017",
-  "encyclopedia-of-dna-elements-2020": "Encyclopedia of DNA Elements (ENCODE) 2020",
-  "encyclopedia-of-dna-elements-2021": "Encyclopedia of DNA Elements (ENCODE) 2021",
-  "flickr-commons": "Flickr Commons",
-  "google-open-images": "Google Open Images",
-  "genome-aggregation-database": "Genome Aggregation Database",
-  "filecoin-trusted-setup": "Filecoin Trusted Setup",
-  "a2d2": "Audi Autonomous Driving Dataset (A2D2)",
-  "encyclopedia-of-dna-elements": "Encyclopedia of DNA Elements (ENCODE) 2018",
-  "genomic-data-commons": "Genomic Data Commons",
-  "ccafs-climate-data": "CCAFS Climate Data",
-  "the-boxy-vehicles-dataset": "Boxy Vehicles Dataset",
-  "the-massively-multilingual-image-dataset-mmid": "Massively Multilingual Image Dataset",
-  "uk-biobank-pan-ancestry-summary-statistic": "UK Biobank Pan-Ancestry Summary Statistics",
-  "free-music-archive": "Free Music Archive",
-  "ghtorrent-project": "GHTorrent Project",
-  "open-images-dataset": "Open Images Dataset",
-  "sloan-digital-sky-survey-DR-15": "Sloan Digital Sky Survey DR 15",
-  "sloan-digital-sky-survey-DR-16": "Sloan Digital Sky Survey DR 16",
-  "sloan-digital-sky-survey-DR-17": "Sloan Digital Sky Survey DR 17",
-  "docker-images": "Docker Images",
-  "genome-ark": "Genome Ark",
-  "fly-brain-anatomy": "Fly Brain Anatomy"
+  "landsat-8": {
+    "label": "Landsat 8",
+    "data_size": 0
+  },
+  "folding-at-home-covid": {
+    "label": "Folding@home COVID-19 Dataset",
+    "data_size": 0
+  },
+  "fah-public-data-covid19-cryptic-pockets": {
+    "label": "Folding@home COVID-19 Dataset (Cryptic pockets)",
+    "data_size": 0
+  },
+  "fah-public-data-covid19-antibodies": {
+    "label": "Folding@home COVID-19 Dataset (Antibodies)",
+    "data_size": 0
+  },
+  "fah-public-data-covid19-absolute-free-energy": {
+    "label": "Folding@home COVID-19 Dataset (Absolute Free Energy)",
+    "data_size": 0
+  },
+  "fah-public-data-covid19-moonshot-dynamics": {
+    "label": "Folding@home COVID-19 Dataset (Moonshot Dynamics)",
+    "data_size": 0
+  },
+  "cancer-cell-line-encyclopedia-ccle": {
+    "label": "Cancer Cell Line Encyclopedia (CCLE)",
+    "data_size": 0
+  },
+  "3000-rice-genomes-project": {
+    "label": "3000 Rice Genomes Project",
+    "data_size": 0
+  },
+  "public-blockchain-datasets": {
+    "label": "Public Blockchain Datasets",
+    "data_size": 0
+  },
+  "avspeech-large-scale-audio-visual-speech-dataset": {
+    "label": "AVSpeech: Large-scale Audio-Visual Speech Dataset",
+    "data_size": 0
+  },
+  "huge-stock-market-dataset": {
+    "label": "Huge Stock Market Dataset",
+    "data_size": 0
+  },
+  "national-cancer-institute": {
+    "label": "National Cancer Institute Data",
+    "data_size": 0
+  },
+  "uc-berkeley-computer-science-courses": {
+    "label": "UC Berkeley Computer Science Courses",
+    "data_size": 0
+  },
+  "the-librivox-free-audiobook-collection": {
+    "label": "The LibriVox Free Audiobook Collection",
+    "data_size": 0
+  },
+  "genome-in-a-bottle": {
+    "label": "Genome in a Bottle",
+    "data_size": 0
+  },
+  "common-crawl-april-2021": {
+    "label": "Common Crawl - April 2021",
+    "data_size": 0
+  },
+  "common-crawl-sept-2021": {
+    "label": "Common Crawl - September 2021",
+    "data_size": 0
+  },
+  "sloan-digital-sky-survey-DR-14": {
+    "label": "Sloan Digital Sky Survey DR 14",
+    "data_size": 0
+  },
+  "encyclopedia-of-dna-elements-2015": {
+    "label": "Encyclopedia of DNA Elements (ENCODE) 2015",
+    "data_size": 0
+  },
+  "encyclopedia-of-dna-elements-2019": {
+    "label": "Encyclopedia of DNA Elements (ENCODE) 2019",
+    "data_size": 0
+  },
+  "encyclopedia-of-dna-elements-2016": {
+    "label": "Encyclopedia of DNA Elements (ENCODE) 2016",
+    "data_size": 0
+  },
+  "encyclopedia-of-dna-elements-2017": {
+    "label": "Encyclopedia of DNA Elements (ENCODE) 2017",
+    "data_size": 0
+  },
+  "encyclopedia-of-dna-elements-2020": {
+    "label": "Encyclopedia of DNA Elements (ENCODE) 2020",
+    "data_size": 0
+  },
+  "encyclopedia-of-dna-elements-2021": {
+    "label": "Encyclopedia of DNA Elements (ENCODE) 2021",
+    "data_size": 0
+  },
+  "flickr-commons": {
+    "label": "Flickr Commons",
+    "data_size": 0
+  },
+  "google-open-images": {
+    "label": "Google Open Images",
+    "data_size": 0
+  },
+  "genome-aggregation-database": {
+    "label": "Genome Aggregation Database",
+    "data_size": 0
+  },
+  "filecoin-trusted-setup": {
+    "label": "Filecoin Trusted Setup",
+    "data_size": 0
+  },
+  "a2d2": {
+    "label": "Audi Autonomous Driving Dataset (A2D2)",
+    "data_size": 0
+  },
+  "encyclopedia-of-dna-elements": {
+    "label": "Encyclopedia of DNA Elements (ENCODE) 2018",
+    "data_size": 0
+  },
+  "genomic-data-commons": {
+    "label": "Genomic Data Commons",
+    "data_size": 0
+  },
+  "ccafs-climate-data": {
+    "label": "CCAFS Climate Data",
+    "data_size": 0
+  },
+  "the-boxy-vehicles-dataset": {
+    "label": "Boxy Vehicles Dataset",
+    "data_size": 0
+  },
+  "the-massively-multilingual-image-dataset-mmid": {
+    "label": "Massively Multilingual Image Dataset",
+    "data_size": 0
+  },
+  "uk-biobank-pan-ancestry-summary-statistic": {
+    "label": "UK Biobank Pan-Ancestry Summary Statistics",
+    "data_size": 0
+  },
+  "free-music-archive": {
+    "label": "Free Music Archive",
+    "data_size": 0
+  },
+  "ghtorrent-project": {
+    "label": "GHTorrent Project",
+    "data_size": 0
+  },
+  "open-images-dataset": {
+    "label": "Open Images Dataset",
+    "data_size": 0
+  },
+  "sloan-digital-sky-survey-DR-15": {
+    "label": "Sloan Digital Sky Survey DR 15",
+    "data_size": 0
+  },
+  "sloan-digital-sky-survey-DR-16": {
+    "label": "Sloan Digital Sky Survey DR 16",
+    "data_size": 0
+  },
+  "sloan-digital-sky-survey-DR-17": {
+    "label": "Sloan Digital Sky Survey DR 17",
+    "data_size": 0
+  },
+  "docker-images": {
+    "label": "Docker Images",
+    "data_size": 0
+  },
+  "genome-ark": {
+    "label": "Genome Ark",
+    "data_size": 0
+  },
+  "fly-brain-anatomy": {
+    "label": "Fly Brain Anatomy",
+    "data_size": 0
+  }
 }
