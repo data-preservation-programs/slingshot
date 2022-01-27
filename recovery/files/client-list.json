@@ -148,11 +148,5 @@
     "dataset_slug": "genome-ark",
     "client_name": "Cabrina Huang",
     "client_slack_handle": "CabrinaHuang"
-  },
-    {
-    "client_address": "f13d6zt424jkp55u7kp67azotkzadtlokwnz2ntxa",
-    "dataset_slug": "fly-brain-anatomy",
-    "client_name": "Boqian Wang",
-    "client_slack_handle": "Boqian - NBFS"
   }
 ]
