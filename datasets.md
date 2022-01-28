@@ -93,6 +93,7 @@ These datasets have been temporarily disqualified for the current phase of the c
 | MusicNet Dataset | A curated collection of labeled classical music. | 31 GB | wav | https://www.kaggle.com/imsparsh/musicnet-dataset |
 | CLEVR Dataset | A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning. | 19 GB | png&json | https://www.kaggle.com/timoboz/clevr-dataset |
 | COCO2017 | Common Objects in Context | 20 GB | jpg | https://www.kaggle.com/aishwr/coco2017 |
+| SmartCity Dataset | Noise data collected by fiber optic sensing equipment for research | 200 TB (approx) | WAV | http://api.sr2.glm2m.com/index.php?r=smartcity-dataset%2Fdataset |
 
 
 ## Disqualified datasets
@@ -105,5 +106,4 @@ Here is the list of open datasets that were onboarded in previous phases that no
 | Common Crawl | An open repository of web crawl data | 235 TB  | WARC | https://commoncrawl.org/ |
 | Genome Ark | The Genome Ark hosts genomic information for the Vertebrate Genomes Project (VGP) and other related projects. | 245.6 TiB | Various | https://vertebrategenomesproject.org |
 | Landsat 8 | Multispectral time series satellite imagery of all land on Earth since 2013 | 1.3 PB (approx) | GeoTIFF + metadata - [sample scene](https://landsat-pds.s3.amazonaws.com/c1/L8/139/045/LC08_L1TP_139045_20170304_20170316_01_T1/index.html) | https://registry.opendata.aws/landsat-8/#usageexamples |
-| Linux ISO | Linux ISO Images | - | ISO | https://www.linuxlookup.com/linux_iso | 
-
+| Linux ISO | Linux ISO Images | - | ISO | https://www.linuxlookup.com/linux_iso |
