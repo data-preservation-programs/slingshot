@@ -14,14 +14,15 @@ If you need to update the list of payload CIDs being tracked for your dataset on
 - CID lists must be `.csv`
 - The file name should match your assigned dataset name, in kebab-case (also referred to as the dataset-slug)
   - check your dataset-slug in the [Client Info spreadsheet](https://docs.google.com/spreadsheets/d/1LWVndxGyegTdz5cPU86UZ5Y9vqN2n-VlK1kC0OeJHC8/edit?usp=sharing) or  [the recovery dataset list](https://github.com/filecoin-project/slingshot/blob/master/recovery/files/dataset-list.json)
+- Your file's first row should say `payload_cid,data_size,filenames` where payload_cid is the CID as defined here, data_size is the corresponding size in bytes of the data stored in that CID, and filenames is an array of names of files in that CID (to be used for indexing and retrieval in the future)
 - All CIDs must be **base32 CID v1's** only (i.e., `ba...`)
 - Submit payload CIDs only (these will most likely begin with `bafyk...` or `bafyb...`)
   - Not piece CIDs
   - Not deal proposal CIDs (CIDs beginning with `baga...` or `bafyr...` are incorrect)
   - If your payload CIDs are in `Qm...` format, they must be converted to `base 32` CIDv1's; if you've installed [cid-tool](https://www.npmjs.com/package/cid-tool), you can run `cid base32 Qm...` to convert
 - If you need to add more CIDs, simply create another PR and append to your existing file
-- Your file's first row should say `payload_cid`
-- Submit only one column (just the `payload_cid` and no additional content)
+- data_size should always be in bytes
+- The filenames array for each CID must follow this format: `"['file_1.ext','file_2.ext']"`. Even with just a single file in a CID, this needs to be listed as `"['file.ext']"`.
 
 #### Example
 File name: chosen-dataset.csv
@@ -30,14 +31,13 @@ File path: recovery/cids/restore/chosen-dataset.csv
 
 File content: 
 ```
-payload_cid
-bafybeicelmss5jrbnze37rhyiuhat
-bafybeicelmss7s2zmqekui7ysukid
-bafybeicelmssa6xkdvebnzu2xmaol
-bafybeicelmssdtuhui4ea32ohda6z
-bafybeicelmssfokmkaugllwx255ss
-bafybeicelmsskocznkpqc4mj23got
-bafybeicelmssvoooxgbpbt6ps4ump
+payload_cid,data_size,filenames
+bafybeicelmss5jrbnze37rhyiuhat,17180000000,"['file_1.txt']"
+bafybeicelmss7s2zmqekui7ysukid,17180000000,"['file_2.txt']"
+bafybeicelmssa6xkdvebnzu2xmaol,17180000000,"['file_3.txt']"
+bafybeicelmssdtuhui4ea32ohda6z,17180000000,"['file_4.txt','file_5.txt']"
+bafybeicelmssfokmkaugllwx255ss,34359738368,"['file_6.txt','file_7.txt','file_8.txt']"
+bafybeicelmsskocznkpqc4mj23got,34359738368,"['file_9.txt']"
 ```
 
 
