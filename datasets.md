@@ -5,6 +5,7 @@ There are a wide variety of public data sets that can be leveraged for this chal
 
 If you would like to use a dataset that you don't see listed here, please submit an issue to add the dataset to this table. In order to qualify for Slingshot,  a dataset should generally be a public good dataset, be accessible to everyone, and not require any special permissions to access. If you are using your own data that you are willing to make public but does not have a source URL, then please share a link to download it in the Link to Dataset field.
 
+
 ## Current qualifying datasets
 
 In an effort to continue diversifying the data being onboarded onto the network, the list of qualifying datasets changes over time as participating teams onboard more data onto the network! Datasets that qualified in previous phases of Slingshot and no longer qualify as listed separately below.
@@ -44,6 +45,10 @@ In an effort to continue diversifying the data being onboarded onto the network,
 | SnpEff | Genomic variant annotations and functional effect prediction toolbox | 2TiB | vcf | https://docs.microsoft.com/en-us/azure/open-datasets/dataset-snpeff |
 | Russian Open Speech To Text | A collection of speech samples derived from various audio sources. The dataset contains short audio clips in Russian. | 3TiB | wav/opus | https://docs.microsoft.com/en-us/azure/open-datasets/dataset-open-speech-text |
 | TartanAir | AirSim simulation dataset for simultaneous localization and mapping (SLAM) | 3TiB | png/npy/txt | https://docs.microsoft.com/en-us/azure/open-datasets/dataset-tartanair-simulation |
+| NEXRAD | Next Generation Weather Radar is a network of 160 high-resolution S-band Doppler weather radars that detect precipitation and wind patterns and movemement. | 2 PB (approx) | Various | https://registry.opendata.aws/noaa-nexrad |
+| NASA NEX | A collection of Earth science datasets maintained by NASA, including climate change projections and satellite images of the Earth's surface. | 55.9 TiB | Various | https://registry.opendata.aws/nasanex |
+| Terra Fusion Data Sampler | Data from Terra, the flagship of NASA’s Earth Observing System (EOS). Each Level 1 Terra Basic Fusion file contains one full Terra orbit of data. | 136.2 TiB | hdf | https://registry.opendata.aws/terrafusion |
+| Brazil Data Cube | A research, development and technological innovation project of the National Institute for Space Research (INPE), Brazil, producing datasets from big volumes of medium-resolution remote sensing images. | 112.9 TiB | tiff | https://registry.opendata.aws/brazil-data-cubes |
 
 ## Deprioritized datasets
 
