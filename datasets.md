@@ -44,6 +44,9 @@ In an effort to continue diversifying the data being onboarded onto the network,
 | SnpEff | Genomic variant annotations and functional effect prediction toolbox | 2TiB | vcf | https://docs.microsoft.com/en-us/azure/open-datasets/dataset-snpeff |
 | Russian Open Speech To Text | A collection of speech samples derived from various audio sources. The dataset contains short audio clips in Russian. | 3TiB | wav/opus | https://docs.microsoft.com/en-us/azure/open-datasets/dataset-open-speech-text |
 | TartanAir | AirSim simulation dataset for simultaneous localization and mapping (SLAM) | 3TiB | png/npy/txt | https://docs.microsoft.com/en-us/azure/open-datasets/dataset-tartanair-simulation |
+| NEXRAD | Next Generation Weather Radar is a network of 160 high-resolution S-band Doppler weather radars that detect precipitation and wind patterns and movemement. | 2 PB (approx) | Various | https://registry.opendata.aws/noaa-nexrad |
+| NASA NEX | A collection of Earth science datasets maintained by NASA, including climate change projections and satellite images of the Earth's surface. | 55.9 TiB | Various | https://registry.opendata.aws/nasanex |
+| Terra Fusion Data Sampler | Data from Terra, the flagship of NASA’s Earth Observing System (EOS). Each Level 1 Terra Basic Fusion file contains one full Terra orbit of data. | 136.2 TiB | hdf | https://registry.opendata.aws/terrafusion |
 
 ## Deprioritized datasets
 
@@ -94,7 +97,6 @@ These datasets have been temporarily disqualified for the current phase of the c
 | CLEVR Dataset | A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning. | 19 GB | png&json | https://www.kaggle.com/timoboz/clevr-dataset |
 | COCO2017 | Common Objects in Context | 20 GB | jpg | https://www.kaggle.com/aishwr/coco2017 |
 | SmartCity Dataset | Noise data collected by fiber optic sensing equipment for research | 200 TB (approx) | WAV | http://api.sr2.glm2m.com/index.php?r=smartcity-dataset%2Fdataset |
-
 
 ## Disqualified datasets
 
