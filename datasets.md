@@ -48,7 +48,7 @@ In an effort to continue diversifying the data being onboarded onto the network,
 | NEXRAD | Next Generation Weather Radar is a network of 160 high-resolution S-band Doppler weather radars that detect precipitation and wind patterns and movemement. | 2 PB (approx) | Various | https://registry.opendata.aws/noaa-nexrad |
 | NASA NEX | A collection of Earth science datasets maintained by NASA, including climate change projections and satellite images of the Earth's surface. | 55.9 TiB | Various | https://registry.opendata.aws/nasanex |
 | Terra Fusion Data Sampler | Data from Terra, the flagship of NASA’s Earth Observing System (EOS). Each Level 1 Terra Basic Fusion file contains one full Terra orbit of data. | 136.2 TiB | hdf | https://registry.opendata.aws/terrafusion |
-
+| Brazil Data Cube | A research, development and technological innovation project of the National Institute for Space Research (INPE), Brazil, producing datasets from big volumes of medium-resolution remote sensing images. | 112.9 TiB | tiff | https://registry.opendata.aws/brazil-data-cubes |
 
 ## Deprioritized datasets
 
