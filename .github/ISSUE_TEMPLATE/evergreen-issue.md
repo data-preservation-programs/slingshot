@@ -11,8 +11,8 @@ assignees: dkkapur
 * [x] Issue with Evergreen deal engine
 * [ ] Feedback for Evergreen
 
-## Brief description 
-
+## Description 
+_Please provide details here_
 
 ## Urgency/priorization 
 * [ ] Low: non-blocking, nice to have
