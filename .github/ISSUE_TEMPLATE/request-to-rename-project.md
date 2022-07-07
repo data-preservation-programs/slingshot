@@ -2,7 +2,7 @@
 name: Request to rename project
 about: Change the name of a project
 title: Request to rename project
-labels: project-request
+labels: project-request, v2
 assignees: orvn, timelytree
 
 ---

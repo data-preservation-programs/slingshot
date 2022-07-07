@@ -1,9 +1,9 @@
 ---
-name: Data Preparation - Dataset state change request
-about: Change the preparation progress for a dataset once its been locked
-title: Dataset state change request - <dataset name>
-labels: dataset-change-request
-assignees: dkkapur, timelytree
+name: Slingshot v3 - Data Preparation - Dataset state change request
+about: Change the preparation progress for a dataset once it's been locked
+title: [v3] Dataset state change request - <dataset name>
+labels: dataset-change-request, v3
+assignees: dkkapur, timelytree, orvn
 
 ---
 <!--  ## BEFORE POSTING YOUR ISSUE
