@@ -2,7 +2,7 @@
 name: Request or suggestion for Slingshot Recovery
 about: Any Slingshot Restore or Repair related issue
 title: "[recovery] Describe your Slingshot Recovery-related issue here"
-labels: ''
+labels: recovery
 assignees: orvn, dkkapur
 
 ---

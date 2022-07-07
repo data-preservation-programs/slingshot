@@ -2,7 +2,7 @@
 name: Request to transfer project
 about: Request to transfer a Slingshot project to another user
 title: Request to transfer project
-labels: project-request
+labels: project-request, v2
 assignees: orvn, timelytree
 
 ---

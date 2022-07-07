@@ -1,8 +1,8 @@
 ---
-name: Request to add a dataset for Slingshot v3
-about: Feel free to make a dataset request for Slingshot
-title: "[dataset request] Enter your dataset name here"
-labels: dataset-request
+name: Slingshot v3 - Request to add a dataset
+about: Feel free to make a dataset request for Slingshot 3
+title: "[v3] Dataset request - Enter your dataset name here"
+labels: dataset-request, v3
 assignees: dkkapur
 
 ---
